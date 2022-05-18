@@ -30,6 +30,7 @@ class UserController extends Controller
 
 
     public function login(Request $request) {
+        
 
         $request->validate([
             "email" => "required|email",
@@ -45,6 +46,7 @@ class UserController extends Controller
                 //si está todo ok
                 return response()->json([
                     "status" => 1,
+                    "user" => "name",
                     "msg" => "¡Usuario logueado exitosamente!",
                     "access_token" => $token
                 ]);        
