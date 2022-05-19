@@ -15,7 +15,6 @@ class UserController extends Controller
             'email' => 'required|email|unique:users',
             'password' => 'required|confirmed'            
         ]);
-
         $user = new User();
         $user->name = $request->name;
         $user->email = $request->email;
@@ -28,17 +27,12 @@ class UserController extends Controller
         ]);    
     }
 
-
     public function login(Request $request) {
-        
-
         $request->validate([
             "email" => "required|email",
             "password" => "required"
         ]);
-
         $user = User::where("email", "=", $request->email)->first();
-
         if( isset($user->id) ){
             if(Hash::check($request->password, $user->password)){
                 //creamos el token
