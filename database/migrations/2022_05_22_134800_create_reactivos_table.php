@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('enunciado');
 
             $table->foreignId('opcion_correcta_id');
-            $table->foreign('opcion_correcta_id')->references('id')->on('opcions');
+            // $table->foreign('opcion_correcta_id')->references('id')->on('opcions');
 
             $table->integer('valor');
 

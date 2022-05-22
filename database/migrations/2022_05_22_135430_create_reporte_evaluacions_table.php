@@ -13,10 +13,8 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('productos', function (Blueprint $table) {
+        Schema::create('reporte_evaluacions', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('elemento_id');
-            $table->foreign('elemento_id')->references('id')->on('elementos');
             $table->timestamps();
         });
     }
@@ -28,6 +26,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('productos');
+        Schema::dropIfExists('reporte_evaluacions');
     }
 };

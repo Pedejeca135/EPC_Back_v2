@@ -15,6 +15,11 @@ return new class extends Migration
     {
         Schema::create('criterios', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('des_prod_id');
+            $table->foreign('des_prod_id')->references('id')->on('elementos', 'desempenyos');
+            $table->string('criterio_type');
+            $table->string('enunciado');
+            $table->integer('calificacion_maxima');
             $table->timestamps();
         });
     }
