@@ -59,17 +59,18 @@ class UserController extends Controller
         }
     }
 
-    public function userProfile() {
+    public function getPerfil() {
         return response()->json([
-            "status" => 0,
+            /*"status" => 0,
             "msg" => "Acerca del perfil de usuario",
-            "data" => auth()->user()
+            "data" => auth()->user()*/
+            auth()->user()
         ]); 
     }
 
     public function logout() {
         auth()->user()->tokens()->delete();
-        
+
         return response()->json([
             "status" => 1,
             "msg" => "Cierre de Sesión",            
