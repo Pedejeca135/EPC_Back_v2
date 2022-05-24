@@ -40,12 +40,13 @@ Route::group(['middleware' => ["auth:sanctum"]], function(){
     //-lista todos los estandares disponibles
     Route::get('estandares', [UserController::class,'getEstandares']);
     //-recibe el json con el id del estandar
-    Route::get('peticion-estandar', [UserController::class,'pedirEstandar'])->middleware('TienePerfil');
+    Route::post('peticion-estandar', [UserController::class,'pedirEstandar'])->middleware('TienePerfil');
 
     //realizar el examen de conocimiento:
     //-recibe el id del estandar en cuestion
     Route::get('conocimiento', [UserController::class,'getConocimiento']);
     Route::get('subir-conocimiento', [UserController::class,'subirConocimiento']);
+    Route::get('subir-opcion-respuesta', [UserController::class,'subirOpcionRespuesta']);
 });
 
 
@@ -69,10 +70,30 @@ Route::group(['middleware' => ["auth:sanctum", "Evaluador"]], function(){
     //rutas para generar reportes:
     //-recive json con nombre de el usuario 
     Route::get('generar-reportes', [EvaluadorController::class,'generarReportes']);
+
     //-recive json con nombre de el usuario y el id del estandar
     Route::get('generar-reporte', [EvaluadorController::class,'generarReporte']);
 
-    
+
+    //RUTAS MODULAR:
+     //rutas para los estandares:
+     Route::post('crear-estandar', [EvaluadorController::class,'crearEstandar']);
+
+     //rutas para elementos:
+     //-recive un json con el id del estandar y la informacion del elemento
+     Route::post('crear-elemento', [EvaluadorController::class,'crearElemento']);
+ 
+     //rutas para desempeños:
+     //-recive un json con el id del elemento y la informacion del desempeño
+     Route::post('crear-desempenyo', [EvaluadorController::class,'crearDesempenyo']);
+ 
+     //rutas para productos:
+     //-recive un json con el id del elemento y la informacion del producto
+     Route::post('crear-producto', [EvaluadorController::class,'crearProducto']);
+ 
+     //rutas para criterios:
+     //-recive un json con el id del elemento y la informacion del producto
+     Route::post('crear-criterio', [EvaluadorController::class,'crearCriterio']);
 });
 
 
@@ -81,33 +102,54 @@ Route::group(['middleware' => ["auth:sanctum", "Admin"]], function(){
 
     /*RUTAS  DE ESTANDARES */
 
-    //rutas para los estandares
-    Route::get('mis-evaluados', [EvaluadorController::class,'getEvaluados']);
+    //rutas para los estandares:
+    Route::post('crear-estandar', [AdminController::class,'crearEstandar']);
 
-    //rutas para elementos
+    //rutas para elementos:
+    //-recive un json con el id del estandar y la informacion del elemento
+    Route::post('crear-elemento', [AdminController::class,'crearElemento']);
 
-    //rutas para desempeños
+    //rutas para desempeños:
+    //-recive un json con el id del elemento y la informacion del desempeño
+    Route::post('crear-desempenyo', [AdminController::class,'crearDesempenyo']);
 
-    //rutas para productos
+    //rutas para productos:
+    //-recive un json con el id del elemento y la informacion del producto
+    Route::post('crear-producto', [AdminController::class,'crearProducto']);
 
-    //rutas para criterios
-
+    //rutas para criterios:
+    //-recive un json con el id del elemento y la informacion del producto
+    Route::post('crear-criterio', [AdminController::class,'crearCriterio']);
     
     /*RUTAS  DE CONOCIMIENTOS */
 
-    //rutas para conocimientos
+    //rutas para conocimientos:
+    //-recive un json con el id del estandar y la informacion del conocimiento
+    Route::post('crear-Conocimiento', [AdminController::class,'crearConocimiento']);
 
-    //rutas para modulo conocimiento
+    //rutas para modulo conocimiento:
+    //-recive un json con el id del conocimiento y la informacion del modulo del conocimiento
+    Route::post('crear-modulo-conocimiento', [AdminController::class,'crearModuloConocimiento']);
 
     //rutas para reactivos
+    //-recive un json con el id del modulo de conocimiento y la informacion del reactivo
+    Route::post('crear-reactivo', [AdminController::class,'crearReactivo']);
 
     //rutas para opciones
-
+    //-recive un json con el id del reactivo la informacion del la opcion para el reactivo
+    Route::post('crear-opcion', [AdminController::class,'crearOpcion']);
 
     /*RUTAS DE ASIGNACIONES*/
-    //rutas de asignacion de 
-
+    //rutas de asignacion de evaluadores
     //ruta para listar la tabla de peticiones de estandares
+    Route::post('lista-peticiones', [AdminController::class,'getPeticionesEstandar']);
+
+    //-recive un json con el id del evaluador y el del candidato asi como el id del estandar
+    Route::post('asignar-evaluador', [AdminController::class,'asignarEvaluador']);
+
+    /*RUTAS PARA EL CAMBIO DE ROLES PARA LOS USUARIOS*/
+    //-recibe json con el id del usuario y el nombre del rol que se quiera asignar-> 'Candidato'-> 2, 'Evaluador' -> 1 'Admin' -> 0
+    Route::get('cambiar-rol', [EvaluadorController::class,'cambiarRol']);
 });
 
 
