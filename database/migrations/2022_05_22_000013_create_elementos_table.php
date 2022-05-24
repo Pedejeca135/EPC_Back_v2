@@ -15,6 +15,12 @@ return new class extends Migration
     {
         Schema::create('elementos', function (Blueprint $table) {
             $table->id();
+            $table->string('titulo');
+            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();;
+            $table->foreign('estandar_competencia_id')->references('id')->on('estandars');
+            $table->string('num_ref');
+            $table->boolean('es_auto_evaluacion');
+
             $table->timestamps();
         });
     }

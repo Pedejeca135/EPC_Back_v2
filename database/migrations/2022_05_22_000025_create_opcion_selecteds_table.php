@@ -18,8 +18,8 @@ return new class extends Migration
             $table->id();
             $table->foreignId('opcion_id');
             $table->foreign('opcion_id')->references('id')->on('opcions');
-            $table->foreignId('user_id');
-            $table->foreign('user_id')->references('id')->on('users');
+            $table->foreignId('candidato_id');
+            $table->foreign('candidato_id')->references('id')->on('users');
             $table->timestamps();
         });
     }
