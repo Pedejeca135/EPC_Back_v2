@@ -21,6 +21,6 @@ class TienePerfil
         if ( Profile::where(["user_id"=> $user_id])->exists() ) { //solo si el rol es de evaluador o de administrador            
             return $next($request);
         }
-        abort(403, "Usted no esta autorizado a realizar esta acción");
+        abort(403, "se requiere tener un perfil para hacer esta acción");
     }
 }

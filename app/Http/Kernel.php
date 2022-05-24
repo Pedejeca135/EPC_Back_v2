@@ -44,7 +44,9 @@ class Kernel extends HttpKernel
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
 
             \Laravel\Sanctum\Http\Middleware\EnsureFrontendRequestsAreStateful::class,
-            \App\Http\Middleware\Role::class,
+            \App\Http\Middleware\Administrador\Admin::class,
+            \App\Http\Middleware\Evaluador\Evaluador::class,
+            \App\Http\Middleware\Candidato\TienePerfil::class,
             
         ],
     ];
