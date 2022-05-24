@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->foreignId('elemento_id');
             $table->foreign('elemento_id')->references('id')->on('elementos');
-            $table->string('titulo_producto');
+            $table->string('titulo');
             $table->string('descripcion');
             $table->timestamps();
         });

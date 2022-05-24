@@ -18,8 +18,15 @@ return new class extends Migration
             $table->id();
 
             //llave foranea que especifica a el usuario al que le pertenece el perfil 
-            $table->foreignId('user_id')->unsigned();
-            $table->foreign('user_id')->references('id')->on('users');
+            $table->foreignId('user_id')
+            ->unsigned()
+            ->unique();
+
+            $table->foreign('user_id')
+            ->references('id')
+            ->on('users')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
 
             /*DATOS PERSONALES DEL USUARIO */
             $table->string('nombres');
