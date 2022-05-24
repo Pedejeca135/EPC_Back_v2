@@ -5,7 +5,7 @@ namespace App\Http\Middleware;
 use Closure;
 use Illuminate\Http\Request;
 
-class Admin
+class Evaluador
 {
     /**
      * Handle an incoming request.
@@ -17,10 +17,9 @@ class Admin
     public function handle(Request $request, Closure $next)
     {
         // return $next($request);
-        if (Auth::user()->role == 0) { //solo si el rol es de administrador
+         if (Auth::user()->role == 1 || Auth::user()->role == 0) { //solo si el rol es de evaluador o de administrador
             return $next($request);
         }
-        abort(403, "Cannot access to restricted page");
-
+        abort(403, "Usted no esta autorizado a realizar esta acción");
     }
 }
