@@ -17,7 +17,9 @@ return new class extends Migration
             $table->id();
 
             $table->foreignId('candidato_id');
-            $table->foreign('candidato_id')->references('id')->on('users');
+            $table->foreign('candidato_id')->references('id')->on('users')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
 
             $table->foreignId('estandar_id');
             $table->foreign('estandar_id')->references('id')->on('estandars');

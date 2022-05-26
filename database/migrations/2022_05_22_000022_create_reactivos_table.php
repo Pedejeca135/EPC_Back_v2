@@ -21,7 +21,9 @@ return new class extends Migration
             $table->integer('valor');
 
             $table->foreignId('modulo_conocimiento_id');
-            $table->foreign('modulo_conocimiento_id')->references('id')->on('modulo_conocimientos');
+            $table->foreign('modulo_conocimiento_id')->references('id')->on('modulo_conocimientos')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
 
             $table->timestamps();
         });

@@ -17,7 +17,11 @@ return new class extends Migration
             $table->id();
             $table->string('titulo');
             $table->foreignId('estandar_competencia_id')->unsigned()->nullable();;
-            $table->foreign('estandar_competencia_id')->references('id')->on('estandars');
+            $table->foreign('estandar_competencia_id')
+            ->references('id')
+            ->on('estandars')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
             $table->string('num_ref');
             $table->boolean('es_auto_evaluacion');
 

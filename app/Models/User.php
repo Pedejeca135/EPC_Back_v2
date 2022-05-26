@@ -23,7 +23,6 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
-        'role'
     ];
 
     /**
@@ -31,19 +30,35 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
-    // protected $hidden = [
-    //     'password',
-    //     'remember_token',
-    // ];
+    protected $hidden = [
+         'password',
+         'remember_token',
+         'role'
+     ];
 
     /**
      * The attributes that should be cast.
      *
      * @var array<string, string>
      */
-    //  protected $casts = [
-    //      'email_verified_at' => 'datetime',
-    //  ];
+      protected $casts = [
+          'email_verified_at' => 'datetime',
+      ];
 
-    public $timestamps = false;
+    
+     // public $timestamps = false;
+
+
+    public function profile(){
+        //$profile = Profile::where('user_id', $this->id)->first();
+
+        // return $this->hasOne(Profile::class);
+        return $this->hasOne('App\Models\Users\Profile');
+
+        //EJEMPLO:
+        /*
+        $profile = Profile::where('foreign_key', $this->local_key)->first();
+         return $this->hasOne('App\Models\Users\Profile', 'foreign_key', 'local_key');
+        */
+    }
 }

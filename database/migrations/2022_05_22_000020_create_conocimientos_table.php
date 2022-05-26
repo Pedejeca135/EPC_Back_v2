@@ -17,8 +17,12 @@ return new class extends Migration
             //id del conocimiento
             $table->id();
             $table->string('titulo');
-            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();;
-            $table->foreign('estandar_competencia_id')->references('id')->on('estandars');
+
+            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
+            $table->foreign('estandar_competencia_id')->references('id')->on('estandars')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+            
             $table->timestamps();
         });
     }

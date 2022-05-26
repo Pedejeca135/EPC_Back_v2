@@ -15,8 +15,14 @@ return new class extends Migration
     {
         Schema::create('desempenyos', function (Blueprint $table) {
             $table->id();
+            
             $table->foreignId('elemento_id');
-            $table->foreign('elemento_id')->references('id')->on('elementos');
+            $table->foreign('elemento_id')
+            ->references('id')
+            ->on('elementos')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+
             $table->string('titulo');
             $table->string('descripcion');
             $table->timestamps();

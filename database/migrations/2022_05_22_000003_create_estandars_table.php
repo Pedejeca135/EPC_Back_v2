@@ -20,12 +20,13 @@ return new class extends Migration
             $table->string('proposito');
             $table->string('descripcion');
             $table->string('sector_productivo');
-            $table->foreignId('nivel_id')->unsigned()->nullable();;
-            $table->foreign('modulo_ocupacional_id')->references('id')->on('nivels');
-            $table->foreignId('modulo_ocupacional_id')->unsigned()->nullable();
-            $table->foreign('nivel_id')->references('id')->on('modulo_ocupacionals');
-            
 
+            $table->foreignId('nivel_id')->unsigned()->nullable();
+            $table->foreign('nivel_id')->references('id')->on('modulo_ocupacionals');
+
+            $table->foreignId('modulo_ocupacional_id')->unsigned()->nullable();
+            $table->foreign('modulo_ocupacional_id')->references('id')->on('nivels');
+            
             $table->timestamps();
         });
     }

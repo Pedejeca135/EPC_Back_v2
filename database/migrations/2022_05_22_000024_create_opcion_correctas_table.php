@@ -16,9 +16,15 @@ return new class extends Migration
         Schema::create('opcion_correctas', function (Blueprint $table) {
             $table->id();
             $table->foreignId('reactivo_id');
-            $table->foreign('reactivo_id')->references('id')->on('reactivos');
+            $table->foreign('reactivo_id')->references('id')->on('reactivos')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+
             $table->foreignId('opcion_correcta_id');
-            $table->foreign('opcion_correcta_id')->references('id')->on('opcions');
+            $table->foreign('opcion_correcta_id')->references('id')->on('opcions')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+
             $table->timestamps();
         });
     }

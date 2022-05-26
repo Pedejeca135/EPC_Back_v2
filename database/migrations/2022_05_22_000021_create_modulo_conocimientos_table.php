@@ -16,8 +16,12 @@ return new class extends Migration
         Schema::create('modulo_conocimientos', function (Blueprint $table) {
             //id modulo conocimiento
             $table->id();
+            
             $table->foreignId('conocimiento_id');
-            $table->foreign('conocimiento_id')->references('id')->on('conocimientos');
+            $table->foreign('conocimiento_id')->references('id')->on('conocimientos')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+
             $table->string('titulo');
             $table->timestamps();
         });

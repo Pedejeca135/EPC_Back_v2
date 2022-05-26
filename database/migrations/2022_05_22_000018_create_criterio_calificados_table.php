@@ -15,13 +15,20 @@ return new class extends Migration
     {
         Schema::create('criterio_calificados', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('criterio_id');
-            $table->foreign('criterio_id')->references('id')->on('criterios');
+
+             $table->foreignId('criterio_id')->nullable();
+             $table->foreign('criterio_id')->references('id')->on('criterios')
+            ->onDelete('set null')
+            ->onUpdate('cascade');
+
             $table->foreignId('user_id');
             $table->foreign('user_id')->references('id')->on('users');
+
             $table->integer('calificacion');
+
             $table->foreignId('reporte_evaluacion_id');
             $table->foreign('reporte_evaluacion_id')->references('id')->on('reporte_evaluacions');
+
             $table->timestamps();
         });
     }

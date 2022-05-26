@@ -21,7 +21,6 @@ return new class extends Migration
             $table->foreignId('user_id')
             ->unsigned()
             ->unique();
-
             $table->foreign('user_id')
             ->references('id')
             ->on('users')
@@ -55,9 +54,6 @@ return new class extends Migration
             $table->string('estado_nacimiento');
             $table->string('pais_nacimiento');
         
-            //para los tokens de sesión 
-            $table->rememberToken();
-            
             //para los logs
             $table->timestamps();
         });

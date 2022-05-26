@@ -4,11 +4,16 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-use App\Models\User;
+
 use Illuminate\Support\Facades\Hash;
+
+/*Los modelos que se necesitan para el UserController*/
+use App\Models\User;
+use App\Models\Users\Profile;
 
 class UserController extends Controller
 {
+    //registro de usuario.
     public function register(Request $request) {
         $request->validate([
             'name' => 'required',
@@ -27,6 +32,7 @@ class UserController extends Controller
         ]);    
     }
 
+    //para hacer el login de usuario 
     public function login(Request $request) {
         $request->validate([
             "email" => "required|email",
@@ -59,6 +65,18 @@ class UserController extends Controller
         }
     }
 
+     //salir de la sesión
+    public function logout() {
+        auth()->user()->tokens()->delete();
+
+        return response()->json([
+            "status" => 1,
+            "msg" => "Cierre de Sesión",            
+        ]); 
+    }
+
+    //Obtiene el perfil del usuario de existir
+    //perfiles de usuario:
     public function getPerfil() {
         return response()->json([
             /*"status" => 0,
@@ -68,12 +86,85 @@ class UserController extends Controller
         ]); 
     }
 
-    public function logout() {
-        auth()->user()->tokens()->delete();
+    //subir perfil en forma de json 
+    public function crearPerfil(Request $request) {
+        $request->validate([
+            'nombres' => "required|unique:profiles",
+            'primer_apellido' => "required",
+            'segundo_apellido'=> "required",
+            'genero'=> "required",
+            'RFC'=> "required|unique:profiles",
+            'NSS'=> "required|unique:profiles",
+            'CURP'=> "required|unique:profiles",
+            'telefono'=> "required|unique:profiles",
+            'calle'=> "required",
+            'numero'=> "required|min:11|numeric",
+            'colonia'=> "required",
+            'ciudad'=> "required",
+            'estado'=> "required",
+            'pais'=> "required",
+            'CP'=> "required",
 
-        return response()->json([
-            "status" => 1,
-            "msg" => "Cierre de Sesión",            
-        ]); 
+            //Natalidad 
+           'fecha_nacimiento'=>"required",
+           'ciudad_nacimiento'=>"required",
+           'estado_nacimiento'=>"required",
+           'pais_nacimiento'=>"required"
+        ]);
+
+        $user_id = auth()->user()->id;
+
+        // $perfil = new Profile();
+        // $perfil->user_id = $user_id;
+        // $request->all()
+
+        $perfil = Profile::create($request->all());
+        $perfil->user_id = $user_id;
+
     }
+
+    public function editarPerfil(){
+        $request->validate([
+            'nombres' => "required|unique:profiles",
+            'primer_apellido' => "required",
+            'segundo_apellido'=> "required",
+            'genero'=> "required",
+            'RFC'=> "required|unique:profiles",
+            'NSS'=> "required|unique:profiles",
+            'CURP'=> "required|unique:profiles",
+            'telefono'=> "required|unique:profiles",
+            'calle'=> "required",
+            'numero'=> "required|min:11|numeric",
+            'colonia'=> "required",
+            'ciudad'=> "required",
+            'estado'=> "required",
+            'pais'=> "required",
+            'CP'=> "required",
+
+            //Natalidad 
+           'fecha_nacimiento'=>"required",
+           'ciudad_nacimiento'=>"required",
+           'estado_nacimiento'=>"required",
+           'pais_nacimiento'=>"required"
+        ]);
+
+
+    }
+
+    public function reportesDeEstandares(){
+
+    }
+    public function reporteDeEstandar(){
+
+    }
+    public function getEstandares(){
+
+    }
+    public function pedirEstandar(){
+
+    }
+    public function getConocimiento(){
+
+    }
+
 }

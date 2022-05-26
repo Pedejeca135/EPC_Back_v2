@@ -16,8 +16,12 @@ return new class extends Migration
         Schema::create('opcions', function (Blueprint $table) {
             //id opcion
             $table->id();
+            
             $table->foreignId('reactivo_id');
-            $table->foreign('reactivo_id')->references('id')->on('reactivos');
+            $table->foreign('reactivo_id')->references('id')->on('reactivos')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+
             $table->string('enunciado_respuesta');
             $table->timestamps();
         });

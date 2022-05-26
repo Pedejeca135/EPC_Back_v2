@@ -19,6 +19,7 @@ return new class extends Migration
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->tinyInteger('role')->default(2); // <---- add this
+            //para los tokens de sesión 
             $table->rememberToken();
             $table->timestamps();
         });
