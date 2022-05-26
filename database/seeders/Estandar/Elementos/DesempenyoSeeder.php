@@ -1,11 +1,11 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeders\Estandar\Elementos;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
-class ProfileSeeder extends Seeder
+class DesempenyoSeeder extends Seeder
 {
     /**
      * Run the database seeds.

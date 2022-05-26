@@ -16,12 +16,11 @@ class UserController extends Controller
     //registro de usuario.
     public function register(Request $request) {
         $request->validate([
-            'name' => 'required',
             'email' => 'required|email|unique:users',
             'password' => 'required|confirmed'            
         ]);
+        
         $user = new User();
-        $user->name = $request->name;
         $user->email = $request->email;
         $user->password = Hash::make($request->password);
         $user->save();
@@ -116,11 +115,10 @@ class UserController extends Controller
 
         // $perfil = new Profile();
         // $perfil->user_id = $user_id;
-        // $request->all()
+        // $request->all();
 
         $perfil = Profile::create($request->all());
         $perfil->user_id = $user_id;
-
     }
 
     public function editarPerfil(){

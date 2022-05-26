@@ -1,11 +1,11 @@
 <?php
 
-namespace Database\Seeders\Estandar\Elementos;
+namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
-class ReporteEvaluacionSeeder extends Seeder
+class ProfileSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -15,5 +15,6 @@ class ReporteEvaluacionSeeder extends Seeder
     public function run()
     {
         //
+        
     }
 }

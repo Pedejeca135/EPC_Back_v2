@@ -1,11 +1,11 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeders\Estandar;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
-class ElementoSeeder extends Seeder
+class EstandarSeeder extends Seeder
 {
     /**
      * Run the database seeds.
