@@ -15,6 +15,7 @@ return new class extends Migration
     {
         Schema::create('opcion_correctas', function (Blueprint $table) {
             $table->id();
+            
             $table->foreignId('reactivo_id');
             $table->foreign('reactivo_id')->references('id')->on('reactivos')
             ->onDelete('cascade')

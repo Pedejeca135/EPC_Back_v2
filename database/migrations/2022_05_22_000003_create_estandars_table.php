@@ -30,9 +30,7 @@ return new class extends Migration
 
             $table->string('modulo_ocupacional')->nullable();
            
-            // $table->foreignId('sector_productivos_id')->unsigned()->nullable();
-            // $table->foreign('sector_productivos_id')->references('id')->on('sector_productivos');
-
+            
             $table->string('link_documento')->nullable();
             
             $table->timestamps();
