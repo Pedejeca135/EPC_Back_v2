@@ -13,8 +13,19 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('reporte_evaluacions', function (Blueprint $table) {
+        Schema::create('actitud_habito_valors', function (Blueprint $table) {
             $table->id();
+            
+            $table->foreignId('estandar_id');
+            $table->foreign('estandar_id')
+            ->references('id')
+            ->on('estandars')
+            ->onDelete('cascade')
+            ->onUpdate('cascade');
+
+            $table->string('titulo');
+            $table->string('descripcion');
+            
             $table->timestamps();
         });
     }
@@ -26,6 +37,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('reporte_evaluacions');
+        Schema::dropIfExists('actitud_habito_valors');
     }
 };

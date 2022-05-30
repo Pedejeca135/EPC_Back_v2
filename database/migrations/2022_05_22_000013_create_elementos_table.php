@@ -15,14 +15,17 @@ return new class extends Migration
     {
         Schema::create('elementos', function (Blueprint $table) {
             $table->id();
+
             $table->string('titulo');
-            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();;
+            $table->string('codigo')->unique()->nullable();
+
+            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
             $table->foreign('estandar_competencia_id')
             ->references('id')
             ->on('estandars')
             ->onDelete('cascade')
             ->onUpdate('cascade');
-            $table->string('num_ref');
+
             $table->boolean('es_auto_evaluacion');
 
             $table->timestamps();

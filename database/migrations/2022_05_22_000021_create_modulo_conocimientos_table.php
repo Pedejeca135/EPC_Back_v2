@@ -17,12 +17,14 @@ return new class extends Migration
             //id modulo conocimiento
             $table->id();
             
+            $table->string('titulo');
+
             $table->foreignId('conocimiento_id');
             $table->foreign('conocimiento_id')->references('id')->on('conocimientos')
             ->onDelete('cascade')
             ->onUpdate('cascade');
 
-            $table->string('titulo');
+            
             $table->timestamps();
         });
     }

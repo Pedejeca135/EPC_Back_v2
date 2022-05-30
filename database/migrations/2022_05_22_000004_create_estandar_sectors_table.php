@@ -13,10 +13,16 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('modulo_ocupacionals', function (Blueprint $table) {
+        Schema::create('estandar_sectors', function (Blueprint $table) {
             $table->id();
-            $table->string('titulo');
-            $table->string('descripcion');
+
+            $table->foreignId('estandar_id')->unsigned()->nullable();
+            $table->foreign('estandar_id')->references('id')->on('estandars');
+
+            $table->foreignId('sector_productivos_id')->unsigned()->nullable();
+            $table->foreign('sector_productivos_id')->references('id')->on('sector_productivos');
+
+
             $table->timestamps();
         });
     }
@@ -28,6 +34,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('modulo_ocupacionals');
+        Schema::dropIfExists('estandar_sectors');
     }
 };

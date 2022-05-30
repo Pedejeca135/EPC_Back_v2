@@ -15,6 +15,7 @@ return new class extends Migration
     {
         Schema::create('sector_productivos', function (Blueprint $table) {
             $table->id();
+            $table->string('codigo');
             $table->string('titulo');
             $table->string('descripcion');
             $table->timestamps();

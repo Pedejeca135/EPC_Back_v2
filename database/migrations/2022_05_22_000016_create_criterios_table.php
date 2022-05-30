@@ -16,14 +16,14 @@ return new class extends Migration
         Schema::create('criterios', function (Blueprint $table) {
             $table->id();
             
-            $table->foreignId('des_prod_id');
-            $table->foreign('des_prod_id')->references('id')->on('productos', 'desempenyos')
+            $table->foreignId('des_prod_ahv_id');
+            $table->foreign('des_prod_ahv_id')->references('id')->on('productos', 'desempenyos', 'actitud_habito_valors')
             ->onDelete('cascade')
             ->onUpdate('cascade');
 
             $table->string('criterio_type');
             $table->string('enunciado');
-            $table->integer('calificacion_maxima');
+            $table->integer('calificacion_maxima')->default(1);
             $table->timestamps();
         });
     }
