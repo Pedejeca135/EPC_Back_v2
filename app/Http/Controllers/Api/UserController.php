@@ -4,7 +4,6 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-
 use Illuminate\Support\Facades\Hash;
 
 /*Los modelos que se necesitan para el UserController*/
@@ -16,8 +15,8 @@ class UserController extends Controller
     //registro de usuario.
     public function register(Request $request) {
         $request->validate([
-            'email' => 'required|email|unique:users',
-            'password' => 'required|confirmed'            
+            'email' => 'required|email|max:255|unique:users',
+            'password' => 'required|min:6|confirmed'            
         ]);
         
         $user = new User();
@@ -88,16 +87,16 @@ class UserController extends Controller
     //subir perfil en forma de json 
     public function crearPerfil(Request $request) {
         $request->validate([
-            'nombres' => "required|unique:profiles",
-            'primer_apellido' => "required",
-            'segundo_apellido'=> "required",
-            'genero'=> "required",
-            'RFC'=> "required|unique:profiles",
-            'NSS'=> "required|unique:profiles",
-            'CURP'=> "required|unique:profiles",
-            'telefono'=> "required|unique:profiles",
+            'nombres' => "required|alpha",
+            'primer_apellido' => "required|alpha",
+            'segundo_apellido'=> "required|alpha",
+            'genero'=> "required|alpha",
+            'RFC'=> "required|unique:profiles|regex:^([A-Z,Ñ,&]{3,4}([0-9]{2})(0[1-9]|1[0-2])(0[1-9]|1[0-9]|2[0-9]|3[0-1])[A-Z|\d]{3})$",
+            'NSS'=> "required|unique:profiles|digits:11",
+            'CURP'=> "unique:profiles|^([A-Z][AEIOUX][A-Z]{2}\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\d|3[01])[HM](?:AS|B[CS]|C[CLMSH]|D[FG]|G[TR]|HG|JC|M[CNS]|N[ETL]|OC|PL|Q[TR]|S[PLR]|T[CSL]|VZ|YN|ZS)[B-DF-HJ-NP-TV-Z]{3}[A-Z\d])(\d)$",
+            'telefono'=> "required|numeric|digits:10",
             'calle'=> "required",
-            'numero'=> "required|min:11|numeric",
+            'numero'=> "required|numeric|max:12",
             'colonia'=> "required",
             'ciudad'=> "required",
             'estado'=> "required",
@@ -105,19 +104,17 @@ class UserController extends Controller
             'CP'=> "required",
 
             //Natalidad 
-           'fecha_nacimiento'=>"required",
-           'ciudad_nacimiento'=>"required",
-           'estado_nacimiento'=>"required",
-           'pais_nacimiento'=>"required"
+           'fecha_nacimiento'=>"required|'date_format:m/d/Y'",
+           'ciudad_nacimiento'=>"required|alpha_num",
+           'estado_nacimiento'=>"required|alpha_num",
+           'pais_nacimiento'=>"required|alpha"
         ]);
-
-        $user_id = auth()->user()->id;
-
         // $perfil = new Profile();
         // $perfil->user_id = $user_id;
         // $request->all();
 
         $perfil = Profile::create($request->all());
+        $user_id = auth()->user()->id;
         $perfil->user_id = $user_id;
     }
 

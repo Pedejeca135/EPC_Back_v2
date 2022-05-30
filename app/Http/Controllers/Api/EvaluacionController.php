@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
 use App\Models\Evaluacion;
-
+use App\Models\Users\Profile;
 
 class EvaluacionController extends Controller
 {

@@ -24,6 +24,10 @@ return new class extends Migration
             $table->foreignId('user_id_candidato');
             $table->foreign('user_id_candidato')->references('id')->on('users');
 
+            //id referenciando el estandar que puede ser evaluado del evaluador al candidato
+            $table->foreignId('estandar_id');
+            $table->foreign('estandar_id')->references('id')->on('estandars');
+
             //para los logs
             $table->timestamps();
         });

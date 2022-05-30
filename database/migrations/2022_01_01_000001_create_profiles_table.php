@@ -36,10 +36,10 @@ return new class extends Migration
             //único
             $table->string('RFC');
             $table->string('NSS');
-            $table->string('CURP');
+            $table->string('CURP')->nullable();
             $table->string('telefono');
 
-            //oDmicilio
+            //Domicilio
             $table->string('calle');
             $table->string('numero');
             $table->string('colonia');

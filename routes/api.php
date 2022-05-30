@@ -45,8 +45,8 @@ Route::group(['middleware' => ["auth:sanctum"]], function(){
     //realizar el examen de conocimiento:
     //-recibe el id del estandar en cuestion
     Route::get('conocimiento', [UserController::class,'getConocimiento']);
-    Route::get('subir-conocimiento', [UserController::class,'subirConocimiento']);
-    Route::get('subir-opcion-respuesta', [UserController::class,'subirOpcionRespuesta']);
+    Route::post('subir-conocimiento', [UserController::class,'subirConocimiento']);
+    Route::post('subir-opcion-respuesta', [UserController::class,'subirOpcionRespuesta']);
 });
 
 
