@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Models\Users;
+namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Evaluador_asignado extends Model
+class EstandarElemento extends Model
 {
     use HasFactory;
 }
