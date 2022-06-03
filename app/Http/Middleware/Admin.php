@@ -21,7 +21,7 @@ class Admin
         if (auth()->user()->role == 0 ) { //solo si el rol es de administrador
             return $next($request);
         }
-        abort(403, "Usted no esta autorizado a realizar esta acción");
+        abort(403, "Usted no esta autorizado para realizar esta acción");
 
     }
 }

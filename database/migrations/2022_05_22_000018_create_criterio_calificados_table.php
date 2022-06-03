@@ -26,8 +26,6 @@ return new class extends Migration
 
             $table->integer('calificacion');
 
-            $table->foreignId('reporte_evaluacion_id');
-            $table->foreign('reporte_evaluacion_id')->references('id')->on('reporte_evaluacions');
 
             $table->timestamps();
         });

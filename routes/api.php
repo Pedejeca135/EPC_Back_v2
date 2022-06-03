@@ -12,7 +12,7 @@ use App\Http\Controllers\Api\EvaluacionController;
 | Here is where you can register API routes for your application. These
 | routes are loaded by the RouteServiceProvider within a group which
 | is assigned the "api" middleware group. Enjoy building your API!
-*/
+   */
 
 /*RUTAS QUE PARA USUARIOS NO AUTENTICADOS*/
 Route::post('register', [UserController::class, 'register']);//registro
@@ -47,6 +47,9 @@ Route::group(['middleware' => ["auth:sanctum"]], function(){
     Route::get('conocimiento', [UserController::class,'getConocimiento']);
     Route::post('subir-conocimiento', [UserController::class,'subirConocimiento']);
     Route::post('subir-opcion-respuesta', [UserController::class,'subirOpcionRespuesta']);
+
+    Route::get('es-admin', [UserController::class,'esAdmin']);
+    Route::get('es-evaluador', [UserController::class,'esEvaluador']);
 });
 
 
@@ -74,26 +77,11 @@ Route::group(['middleware' => ["auth:sanctum", "Evaluador"]], function(){
     //-recive json con nombre de el usuario y el id del estandar
     Route::get('/eval/generar-reporte', [EvaluadorController::class,'generarReporte']);
 
+    //RUTAS EVALUACION:
 
-    //RUTAS MODULAR:
-     //rutas para los estandares:
-     Route::post('/eval/crear-estandar', [EvaluadorController::class,'crearEstandar']);
-
-     //rutas para elementos:
-     //-recive un json con el id del estandar y la informacion del elemento
-     Route::post('/eval/crear-elemento', [EvaluadorController::class,'crearElemento']);
- 
-     //rutas para desempeños:
-     //-recive un json con el id del elemento y la informacion del desempeño
-     Route::post('/eval/crear-desempenyo', [EvaluadorController::class,'crearDesempenyo']);
- 
-     //rutas para productos:
-     //-recive un json con el id del elemento y la informacion del producto
-     Route::post('/eval/crear-producto', [EvaluadorController::class,'crearProducto']);
- 
      //rutas para criterios:
-     //-recive un json con el id del elemento y la informacion del producto
-     Route::post('/eval/crear-criterio', [EvaluadorController::class,'crearCriterio']);
+     //-recive un json con el id del criterio y del evaluado
+     Route::post('/eval/evaluar-criterio', [EvaluadorController::class,'evaluarCriterio']);
 });
 
 
@@ -122,7 +110,6 @@ Route::group(['middleware' => ["auth:sanctum", "Admin"]], function(){
     Route::post('/admin/crear-criterio', [AdminController::class,'crearCriterio']);
     
     /*RUTAS  DE CONOCIMIENTOS */
-
     //rutas para conocimientos:
     //-recive un json con el id del estandar y la informacion del conocimiento
     Route::post('/admin/crear-Conocimiento', [AdminController::class,'crearConocimiento']);
