@@ -32,6 +32,8 @@ class UserSeeder extends Seeder
         $userAdmin2->role = 0;
         $userAdmin2->save();
 
+
+
         /******* EVALUADORES ************/
         //evaluador 1
         $evaluador1 = new User();
@@ -46,6 +48,9 @@ class UserSeeder extends Seeder
         $evaluador2->password = Hash::make("soyElEvaluador2");
         $evaluador2->role = 1;
         $evaluador2->save();
+
+
+
 
         /******* CANDIDATOS ************/
         //candidato 1
@@ -68,6 +73,5 @@ class UserSeeder extends Seeder
         $candidato3->password = Hash::make("soyElCandidato3");
         $candidato3->role = 2;
         $candidato3->save();
-
     }
 }

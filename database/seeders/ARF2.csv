@@ -493,6 +493,7 @@
 763,CREG0412.01,Atención a usuarios en la inscripción de los actos del estado civil de las personas
 764,CREG0413.01,Atención a usuarios en los servicios de certificación de los actos del estado civil resguardados
 765,CSAD0448.01,Reconocimiento aduanero
+#766,CSAD0540.01,Representación del agente aduanal en los actos y formalidades del despacho aduanero
 767,CSCE0535.01,Comercio electrónico básico operativo, cadena de abasto
 768,CSCE0536.01,Comercio electrónico básico operativo, compras
 769,CSCE0537.01,Comercio electrónico básico operativo, procesos administrativos internos
@@ -641,28 +642,83 @@
 913,CVID0457.01,Formación de artículos de vidrio mediante procesos automatizados
 914,CVID0514.01,Decorado de artículos de vidrio mediante procesos semi y automatizados
 915,CVID0533.01,Cortado, pulido y barrenado de piezas de vidrio para la industria automotriz
+#925,NCASS007.01,Cuidado de las niñas y los niños en centros de atención infantil
+#926,NUASS004.01,Promoción de servicios de asistencia social
+#927,NUASS005.01,Atención a personas adultas mayores
+#928,NUASS006.01,Cuidado de niñas, niños y adolescentes en casas hogar, albergues e internados
+#929,NUASS010.01,Prestación del servicio de orientación para la integración familiar a nivel preventivo
+#930,NUASS011.01,Asistencia vía telefónica a víctimas y personas relacionadas en situaciones de violencia de género
 932,NUCNC002.01,Diseño del instrumento de evaluación de competencia laboral
 933,NUCNC003.01,Dirección del desarrollo de la norma técnica de competencia laboral
 934,NUCNC004.01,Evaluación de la competencia laboral de candidatos, referida en Normas Técnicas de Competencia Laboral de una función determinada
+#935,NUCOM004.01,Almacenamiento de mercancías en establecimientos
+#936,NUCOM005.01,Registro y cobro de productos, mercancías y servicios en establecimientos
+#937,NUCOM007.01,Producción de pan bizcocho en tiendas de autoservicio
+#938,NUCOM008.01,Producción de pan francés en tiendas de autoservicio
 939,NUCOM009.01,Dispensación y manejo de medicamentos en farmacias
+940,NUCOM010.01,Procesamiento de efectivo y documentos
 941,NUDEN001.01,Elaboración de aparatos de ortopedia funcional de los maxilares
 942,NUDEN002.01,Elaboración de aparatos de ortodoncia y ortopedia fija
 943,NUDEN003.01,Elaboración de prótesis dental removible
+944,NUGCH001.01,Impartición de cursos de capacitación presenciales
+945,NUGCH002.01,Diseño de cursos de capacitación presenciales, sus instrumentos de evaluación y material didáctico
+946,NUGCH003.01,Diseño de cursos de capacitación para ser impartidos mediante Internet
+947,NUGCH004.01,Uso didáctico de las tecnologías de información y comunicación en procesos de aprendizaje nivel básico
+948,NUIAZ001.01,Implementación de medidas de seguridad en el trabajo y conservación del medio ambiente en el ingenio azucarero
+949,NUINL001.01,Interpretación oral de lengua indígena al español y viceversa en el ámbito de procuración y administración de justicia
+950,NUIPD001.01,Prestación de servicios de interpretación de la lengua de señas mexicana al español y viceversa
+951,NUIVC001.01,Asesoría en materia hipotecaria por vía extrajudicial
+952,NUIVC002.01,Asesoría en materia hipotecaria por vía judicial
 953,NULLA001.01,Balanceo de llantas por computadora
 954,NULLA002.01,Alineación de llantas por computadora
+955,NUOPT001.01,Práctica de examen de refracción
+956,NUOPT002.01,Adaptación de lentes de contacto
+957,NUOPT003.01,Venta de productos ópticos
+958,NUOPT004.01,Obtención de lentes oftálmicas graduadas
+959,NUOPT005.01,Biselado y montaje de lentes oftálmicas graduadas
+960,NUOPT006.01,Supervisión de puntos de venta de productos ópticos
+961,NURUR001.01,Coordinación de acciones para el desarrollo rural sustentable municipal
+962,NURUR002.01,Cosecha de hortalizas
+963,NURUR003.01,Consultoría a empresas rurales
+964,NURUR004.01,Coordinación de acciones para la puesta en marcha de proyectos de inversión del sector rural
 965,NUSFN001.01,Generación del crédito
 966,NUSIM001.01,Asesoría en comercialización de bienes inmuebles
 967,NUSIM002.01,Asesoría en materia de crédito de vivienda
 968,NUSIM002.02,Asesoría en materia de crédito de vivienda
 969,NUSIM003.01,Instalación de recubrimientos cerámicos
 970,NUSIM004.01,Administración de inmuebles en condominio
+971,NUSIM005.01,Instalación del sistema de calentamiento solar de agua
+972,NUSIM006.01,Instalación y mantenimiento de sistemas de aire acondicionado y refrigeración comercial
+973,NUSPV001.01,Adiestramiento de perros en el nivel básico de obediencia
+974,NUSPV002.01,Conducción de perros de seguridad
 975,NUSPV003.01,Cuidado de perros
+976,NUSPV004.01,Vigilancia presencial de bienes y personas
+977,NUSPV005.01,Coordinación de servicios de vigilancia de bienes y personas
+978,NUSPV006.01,Consultoría en sistemas de gestión de la seguridad
+979,NUSPV007.01,Custodia de mercancías en movimiento
+980,NUSPV008.01,Auditoría de los sistemas de gestión de la seguridad
+981,NUSTC001.01,Preparación de órganos para ajuste en banco
+982,NUSTC002.01,Preparación del mantenimiento mayor de caja
+983,NUSTC003.01,Preparación del motocompresor para su mantenimiento mayor
 984,NUTEL001.01,Instalación de acometidas con cable coaxial
 985,NUTUP001.01,Operación del vehículo de transporte público colectivo de pasajeros
+986,NUTUR001.01,Atención a comensales
+987,NUTUR002.01,Limpieza de cocinas industriales
+988,NUTUR003.01,Preparación de alimentos
+989,NUTUR004.01,Preparación y servicio de bebidas
+990,NUTUR005.01,Coordinación de los servicios de alimentos y bebidas
+991,NUTUR006.01,Preparación de habitaciones para alojamiento temporal
+992,NUTUR007.01,Coordinación de los servicios de limpieza de habitaciones y áreas de estancia para alojamiento temporal
+993,NUTUR008.01,Preparación de bebidas con base de café
+994,NUTUR009.01,Prestación del servicio de recepción y atención al huésped para su alojamiento temporal
+995,NUTUR010.01,Prestación de servicios cosmetológicos faciales
+996,NUTUR011.01,Supervisión de las condiciones de re gistro y estancia del huésped
+997,NUTUR012.01,Prestación de servicios estéticos corporales
 998,UCNC0026.03,Evaluar la competencia laboral de candidatos, referida en Normas Técnicas de Competencia Laboral (NTCL) de una función determinada.
 999,UCNC0027.03,Desarrollar instrumentos de evaluación de competencialaboral, referida en NTCL
 1000,UCNC0028.03,Verificar internamente el proceso de evaluación de competencia laboralconforme a lo establecido por el Sistema de Certificación de CompetenciaLaboral
 1001,UCNC0029.03,Verificar externamente los procesos de verificación interna y evaluación decompetencia laboral
+1003,NURUR005.01,Tutoría de cursos de formación en línea
 1104,CCAF0136.01,Operación y control del beneficiado húmedo de café
 1105,CSEG0064.01,Servicios contra incendios
 1106,CCON0147.02,Consultoría general
@@ -721,6 +777,23 @@
 1159,CTUR0007.01,Preparación de alimentos
 1160,CTUR0054.01,Servicio de atención a cuartos y áreas públicas
 1162,CMTO0321.01,Obtención de tortilla
+1163,NUACH001.01,Asistencia primaria de un evento adverso
+1164,NUACP001.01,Asesoría y suministro de crédito en instituciones de ahorro y crédito popular
+1165,NUAOP001.01,Inspección de obra pública federal
+1166,NUASS012.01,Supervisión de establecimientos/espacios de atención infantil
+1167,NUIAZ002.01,Aplicación de medidas de seguridad alimentaria y calidad en el ingenio azucarero
+1168,NUINL002.01,Prestación de servicios de traducción de textos de lengua española a lengua indígena y viceversa en el ámbito de procuración y administración de justicia
+1169,NUIRN001.01,Atención a comensales en servicio de especialidades
+1170,NURUR006.01,Formulación del diseño de proyectos de inversión del sector rural
+1171,NUSPV009.01,Prestación de servicios de instalación y mantenimiento de dispositivos de geolocalización
+1172,NUSPV010.01,Gestionar la conformidad de los sistemas de gestión de la seguridad
+1173,NUSPV011.01,Monitoreo de los sistemas de geolocalización
+1174,NUSTC004.01,Preparación del diferencial para su mantenimiento
+1175,NUSTC005.01,Desarmado del boguie
+1176,NUSTC006.01,Preparación del enganche del tren para su mantenimiento mayor
+1177,NUTIC001.01,Elaboración de documentos mediante un procesador de textos
+1178,NUTIC002.01,Elaboración de presentaciones gráficas mediante herramientas de cómputo
+1179,NUTIC003.01,Elaboración de libros mediante el uso de procesadores de hojas de cálculo
 1180,CAGP0226.01,Producción de agua purificada envasada
 1181,CAGR0145.01,Operación de tractor con implementos agrícolas neumáticos y electrónicos
 1182,CAGR0365.01,Riego presurizado en parcelas
@@ -922,6 +995,7 @@
 1397,CCFE0551.01,Operación de equipos de tratamiento de agua por evaporación para la generación de energía eléctrica
 1398,CCFE0552.01,Operación de equipos de tratamiento de agua por intercambio iónico para la generación de energía eléctrica
 1399,CCFE0553.01,Tratamiento químico del agua en la generación de energía eléctrica
+1400,NUSIM002.02,Asesoría en materia de crédito de vivienda
 1401,EC0270,Asistencia técnica en producción ovina
 1402,EC0271,Coordinación de las actividades operativas de las Redes de recursos fitogenéticos para la alimentación y la agricultura
 1403,EC0147,Armado del Puente Diferencial
@@ -1635,215 +1709,6 @@
 2599,EC1042,Coordinación para una sesión de Yoga especializado
 2600,EC1043,Coordinación para una sesión de Yoga para niños de 4 a 12 años de edad
 2638,EC1077,Prestación de servicios para la operación de sistemas de producción y uso de biogás
-2333,EC0907,Elaboración del Plan de Continuidad de Operaciones para Dependencias y Organizaciones
-2334,EC0908,Elaboración de Programas Especiales de Protección Civil de acuerdo al riesgo
-2474,EC0972,Programación del robot industrial
-2475,EC0973,Realización de estética básica de animales de compañía
-2476,EC0974,Uso de la lengua inglesa en un contexto laboral: Nivel Avanzado
-2477,EC0975,Tutoría entre pares en la práctica docente
-2478,EC0459.01,Operación de autobús urbano
-2479,EC0460.01,Operación del vehículo colectivo van
-2480,EC0813.01,Conducción de autobús de pasaje y turismo
-2481,EC0976,Voladura de barrenos con explosivos en mina subterránea
-2482,EC0977,Conducción de una sesión de meditación: nivel instructor básico
-2483,EC0461.01,Operación del vehículo unitario taxi terrestre
-2484,EC0971,Evaluación del sistema de emisión de gases contaminantes de vehículos
-2513,EC0083.01,Asesoría en materia hipotecaria por vía judicial
-2514,EC0281.01,Asesoría extrajudicial en créditos vencidos, vía telefónica
-2515,EC0282.01,Asesoría en materia hipotecaria por vía extrajudicial
-2516,EC1007,Manejo del Abaco Japonés Soroban, nivel básico
-2519,EC1045,Diseño de cejas con efecto pelo a pelo con pigmento semipermanente/Microblading
-2520,EC0682.01,Dirección de Planeación, Ejecución y Gestión de Estrategias en organizaciones privadas y públicas
-2522,EC0983,Responsable del manejo de un negocio en mercado municipal
-2524,EC0984,Instalación de paneles de fibrocemento en muros y fachadas de edificaciones arquitectónicas en interiores y exteriores
-2525,EC0985,Realizar la instalación de accesorios para cable en media tensión para líneas subterráneas
-2526,EC0989,Asistencia a Procesos Gerenciales en las Organizaciones
-2527,EC0991,Construcción de escenarios digitales para facilitar experiencias de aprendizaje
-2531,EC0980,Operación segura de molinos
-2532,EC0981,Operación del transporte de carga de vehículos sin rodar
-2533,EC0982,Despachador de productos alimenticios en mercados municipales
-2537,EC0978,Administración del Desarrollo Urbano y Ordenamiento Territorial Municipal
-2538,EC0979,Aplicación de buenas prácticas para el manejo reproductivo en los ovinos
-2539,EC0993,Creación de negocios con una propuesta de valor sostenible
-2540,EC0994,Desarrollar los servicios de optometría y los productos ópticos
-2541,EC0995,Desarrollo de sistemas de información informáticos
-2542,EC0987,Administración de sistemas electrónicos y de telecomunicaciones
-2543,EC0988,Aplicación de materiales en el sector automotriz
-2545,EC0998,Facilitación de sesiones de coaching en alimentación
-2546,EC1004,Implementación del mantenimiento Industrial periódico
-2547,EC1021,Procesamiento industrial de alimentos
-2548,EC1018,Operación del sistema de contabilidad en las organizaciones productivas y de servicios
-2549,EC1019,Prestación de servicios de gastronomía con orientación a la sostenibilidad
-2550,EC0999,Facilitar procesos de aprendizaje para el desarrollo de competencias en el nivel medio superior
-2551,EC1000,Gestión de aprovisionamiento para productos y servicios en empresas del sector privado dentro del territorio nacional
-2552,EC1048,Aplicación de masaje con piedras calientes
-2553,EC1049,Aplicación de masaje de reflexoterapia podal
-2554,EC0996,Elaboración de proyecto de emprendimiento con base en el Modelo de Emprendedores de Educación Media Superior
-2555,EC1001,Gestión del Emprendimiento con base al Modelo de Emprendimiento de Educación Media Superior
-2556,EC1002,Gestión de la vinculación en la formación dual
-2557,EC1003,Impartición de cursos para formación de aprendices calificados
-2558,EC1005,Instalación y mantenimiento de sistemas electromecánicos industriales
-2559,EC1006,Instalación y mantenimiento de sistemas mecatrónicos industriales
-2560,EC1009,Manejo de equipos industriales
-2561,EC1010,Manejo de equipos de troquelado
-2562,EC1013,Mantenimiento de sistemas automáticos
-2563,EC1016,Operación de maquinaria para transformación de termoplásticos
-2564,EC1024,Supervisión de la edificación/modificación/ampliación de obras en casa habitación
-2565,EC1025,Tutoría académica de la formación dual
-2566,EC1026,Venta de coches
-2567,EC1027,Amacice de obras mineras con equipo mecanizado
-2568,EC1028,Anclaje de roca con equipo mecanizado
-2569,EC0986,Adaptación de auxiliares auditivos
-2570,EC0990,Atención de grandes cuentas para la compra y venta de productos/servicios de marca
-2571,EC1011,Manejo de instalaciones eléctricas avanzadas
-2572,EC1012,Mantenimiento en matricería y troquelado
-2573,EC1014,Mantenimiento de sistemas automatizados
-2574,EC1015,Mantenimiento de sistemas electrónicos
-2575,EC1030,Evaluación de la conformación y del programa de implementación del Sistemade Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente del Sector Hidrocarburos
-2576,EC1031,Gestión del sistema de medición de hidrocarburos
-2577,EC1032,Operación del sistema de bombeo y almacenamiento de crudo estabilizado
-2578,EC1033,Operación del sistema de compresión de gas natur
-2581,EC1020,Prestación del servicio de hotelería con orientación a la sostenibilidad.
-2582,EC1029,Auditoría Externa a la operación y desempeño del Sistema de Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente del Sector Hidrocarburos
-2584,EC1036,Supervisión de la operación segura de la Estación de Servicio de expendio al público de gasolinas y diésel
-2585,EC1046,Instalación de fuegos artificiales para la presentación de espectáculos aéreos
-2591,EC1022,Procesamiento de sustancias químicas
-2592,EC1023,Realización y mantenimiento de instalaciones y sistemas eléctricos
-2594,EC1037,Apoyo técnico en el desarrollo de la audiencia oral
-2595,EC1038,Intervención para la solución de conflictos
-2597,EC1040,Recepción de promociones en el ámbito judicial
-2603,EC1056,Facilitación para el conocimiento, uso y aprovechamiento del Derecho de acceso a la información
-2604,EC1071,Activación física a través de baile aeróbico para jóvenes y adultos en espacios cerrados y abiertos
-2605,EC1058,Aplicación de las medidas de bioseguridad en la unidad de producción agroalimentaria/acuícola/pesquera
-2606,EC1073,Facilitador para la transformación social en contextos variados
-2607,EC1075,Promoción del aprendizaje mediante proyectos multidisciplinares STEM
-2612,EC1081,Elaboración de peritajes técnicos grafoscópicos
-2613,EC1082,Aplicación de técnicas de combate, salvamento y extinción de incendios en aeronaves e instalaciones aeroportuarias
-2615,EC1074,Manejo de la metodología Wow-Vation para la solución de problemas con inventiva
-2617,EC1078,Gestión de créditos hipotecarios
-2618,EC1085,Enseñanza de la Maayat’aan
-2619,EC1070,Operación del Programa Productividad y Competitividad Agroalimentaria (PPCA)
-2620,EC1066,Operación del programa de Fomento a la Agricultura
-2621,EC1062,Operación del Programa de Fomento a la Productividad Pesquera y Acuícola
-2622,EC1060,Implementación del Proceso de Administración de Riesgos
-2623,EC1086,Conducción de autobús de servicio económico
-2625,EC1067,Operación del Programa Fomento Ganadero (PFG
-2627,EC1079,Implementación de estrategias de aprendizaje para el desarrollo decompetencias bajo el modelo conceptual-colaborativo-práctico
-2629,EC1080,Proporcionar asesoría normativa en materia de seguridad industrial, salud en el trabajo y protección ambienta
-2630,EC1083,Atención a solicitudes de servicio a equipo médico
-2631,EC1064,Operación del Programa de apoyos a la comercialización
-2632,EC1087,Instrucción en la atención a pasajeros y tripulación en materia de seguridad,emergencia y servicio a bordo
-2633,EC1065,Operación del Programa de Apoyo a Pequeños Productores
-2634,EC1069,Operación del Programa de Sanidad e Inocuidad Agroalimentaria (PSIA)
-2635,EC1084,Preparación de gastronomía mexicana popular y tradicional
-2636,EC1068,Operación del Programa de Concurrencia con las Entidades Federativas
-2637,EC1061,Liderazgo efectivo en las organizaciones
-2639,EC1103,Investigación de delitos cometidos contra la libertad de expresión bajo elenfoque diferencial y especializado
-2640,EC1093,Colaboración en la aplicación del Procedimiento Abreviado como forma de terminación anticipada del proceso penal
-2641,EC1104,Promoción de la Aplicación de las Reglas Mínimas de las Naciones Unidas para el Tratamiento de los Reclusos “Reglas Nelson Mandela” en el sistemapenitenciario
-2642,EC1106,Promoción de los principios y derechos del Sistema Integral de Justicia Penal para Adolescentes
-2643,EC1063,Operación de las disposiciones generales aplicables a las reglas de operación de los programas de la SAGARPA
-2644,EC1096,Gestión de la participación voluntaria de los intervinientes en los Mecanismos Alternativos de Solución de Controversias en Materia Penal
-2645,EC1105,Promoción de la atención de las víctimas de tortura de acuerdo con el Protocolo de Estambul
-2646,EC1076,Instalación de calentador de agua a gas L.P. y gas natural para uso doméstico
-2650,EC1047,Prestación de servicios para peinado de cabello
-2651,EC1111,Verificación de operación en materia aduanera y de Comercio Exterior mediante un Oficial de Cumplimiento
-2655,EC1091,Control de accesos de aeronaves
-2656,EC1099,nspección de Equipaje Facturado para su transportación en aeronaves, Categoría 1
-2657,EC1100,Inspección de Equipaje Facturado para su transportación en aeronaves, Categoría 2
-2658,EC1101,Inspección de Equipaje Facturado para su transportación en aeronaves, Categoría 3
-2659,EC1114,Aplicación de los protocolos de seguridad acuática en piscinas, centros acuáticos deportivos y recreativos
-2660,EC1110,Asesoría en sistemas de medición ultrasónicos de tiempo de travesía que no son de carrete para tubería a presión
-2661,EC1115,Estimulación con actividades acuáticas para personas adultas mayores
-2666,EC1108,Operación segura de calderas en el ingenio azucarero
-2676,EC1109,Operación segura de tachos
-2677,EC1130,Aplicación del procedimiento para coordinar la investigación de la Causa Raíz de incidentes y accidentes en eventos tipo dos y tres en el Sector Hidrocarburos
-2683,EC1095,Evaluación del bienestar en perros
-2686,EC1131,Actuación del personal de un Tercero Autorizado/Aprobado del Sector Hidrocarburos
-2688,EC1136,Prestación de servicios de barbería
-2689,EC1053.01,Asesoría en materia de Contraloría Social en la Administración Pública
-2690,EC0449.01,Gestión de los Servicios Preventivos de Seguridad y Salud en el Trabajo
-2691,EC1122,Mantenimiento de troqueles
-2692,EC1123,Mantenimiento de sistemas autotrónicos
-2693,EC1128,Prestación de servicios para la conformación documental de proyectos para generación y uso de biogás
-2694,EC1129,Barrenación larga con equipo mecanizado
-2695,EC1132,Verificación de la operación y mantenimiento de la Estación de Servicio para expendio de diésel y gasolinas
-2696,EC1134,Contratación de adquisiciones, arrendamientos y servicios para la Administración Pública
-2697,EC1149,Sustitución del cerrojo axial en aparato de vía para tren neumático
-2698,EC1094,Ejecución de las visitas de inspección y verificación ambiental a nivel federal
-2699,EC1117,Ejecución de métodos de pruebas básicas en mezclas asfálticas
-2700,EC1118,Impartición de cursos presenciales/remotos en el uso y aplicación de lectores y magnificadores de pantalla para personas con discapacidad visual
-2701,EC0397.01,Vigilancia del cumplimiento de la normatividad en seguridad y salud en el trabajo
-2702,EC0391.01,Verificación de las condiciones de seguridad e higiene en los centros de trabajo
-2704,EC1124,Operación del software de precios unitarios
-2705,EC1133,Atención con calidad y seguridad para el paciente durante la instalación de catéter PICC en adulto
-2706,EC1140,Certificación de Centros de Asistencia Social de Niñas, Niños y Adolescentes
-2707,EC1142,Apoyo en la orientación alimentaria para personas mayores
-2708,EC1127,Venta de productos y servicios manteniendo su sostenibilidad en el mercad
-2709,EC1144,Coordinación de servicios de transportación desde Puestos de Maniobra deTerminales
-2710,EC1146,Inspección de servicios de transportación de pasajeros en tren dentro deestaciones y línea confinada de circulación
-2711,EC1147,Mantenimiento profundo al armario de Pilotaje Automático fijo de 135 kHz
-2712,EC1148,Supervisión efectiva
-2713,EC1145,Conducción de tracto camión quinta rueda para el transporte de carga general
-2720,EC1139,Vigilar el perfil de seguridad de los insumos para la salud en la industriafarmacéutica
-2723,EC1098,Inspección de carga, correo y mensajería para su transportación en aeronaves
-2724,EC1102,Inspección de pasajeros y equipaje de mano para su transportación enaeronaves
-2725,EC1135,Diagnóstico de tarjetas electrónicas
-2727,EC1116,Conducción de autotransporte federal de carga
-2728,EC1119,Instalación de sistemas de climatización y refrigeración residencial y comercial
-2729,EC1120,Mantenimiento del equipo de cómputo, diseño de redes y seguridad informática
-2730,EC1121,Mantenimiento mecánico automotriz
-2731,EC1126,Realizar uniones en metales con los procesos de soldadura básica (OAW, OAC,SMAW) y especiales (GMAW, GTAW)
-2736,EC1059,Atención con calidad en el servicio al ciudadano
-2737,EC1137,Supervisión del diseño de construcción de infraestructura en proyectos desubestaciones eléctricas de potencia
-2738,EC1138,Supervisión del diseño de equipos y sistemas eléctricos de potencia y control
-2739,EC1161,Medición en el transporte por ducto de hidrocarburos, petrolíferos y petroquímicos
-2740,EC1166,Promoción de libros de texto
-2741,EC1170,Venta de boletos y servicios adicionales en taquillas de autotransporte de pasajeros
-2742,EC1154,Capacitación en el sector rural
-2743,EC1155,Promoción para el desarrollo rural sustentable territoria
-2744,EC1160,Implementación del Sistema de Control Interno
-2745,EC1167,Asistencia al pasajero a pie de autobús
-2746,EC1168,Control del equipaje de pasajeros de autotransporte federal
-2747,EC1169,Venta de boletos de autotransporte de pasajeros a pie de autobús
-2748,EC1162,Operación de terminales de almacenamiento de hidrocarburos destilados
-2749,EC1163,Transportación por ducto de hidrocarburos, petrolíferos y petroquímicos en fase líquida
-2750,EC1164,Ensamble de tarjetas electrónicas en el proceso de montaje superficial
-2751,EC1165,Gestión de la tutoría grupal e individual en grupos académicos de Educación Superior
-2752,EC1158,Implementación de habilidades socioemocionales y metodologías para desarrollarlas
-2753,EC1159,Promoción de la venta de tiempos compartidos al público en out/in hous
-2754,EC1097,Implementación del apoyo psicológico de primer contacto a personas afectadas por fenómenos perturbadores
-2755,EC1184,Aplicación de la rehabilitación integral mediante actividades ecuestres
-2757,EC1157,Implementación y mantenimiento de instalaciones eléctricas en la industria
-2759,EC1143,Implementación de intervenciones preventivas del consumo de sustancias psicoactivas en contextos escolares
-2760,EC0715.01,Aplicación de micropigmentación estética facial
-2761,EC1125,Realizar el diagnóstico de verificación de la eficiencia energética y seguridad de instalaciones y equipos eléctricos en vivienda
-2765,EC1141,Aplicación de programas individuales de actividad física multicomponente para personas mayores
-2766,EC1092,Coordinación de las actividades de protección civil del centro de trabajo de acuerdo al Programa Interno de Protección Civil
-2767,EC1171,Garantizar el derecho a la protección de datos personales
-2768,EC1173,Asesoría para la constitución de figuras asociativas
-2769,EC1180,Asesoría técnica-comercial en proyectos de generación distribuida fotovoltaica
-2770,EC1181,Supervisión de sistemas fotovoltaicos en residencia, comercio e industria
-2771,EC1191,Uso de las normas ortográficas en textos impresos/digitales nivel intermedio
-2772,EC1192,Conducción de tren de pasajeros basados en Sistemas Digitales
-2773,EC1193,Mantenimiento preventivo del sistema de puertas electroneumático de tren de
-2786,EC1174,Gestión de mejoras sociales sostenibles en campos agrícolas
-2787,EC1176,Fabricación de aditamentos de control y ensamble
-2788,EC1177,Maquinado de discos, tambores, mazas y partes de hierro nodular (TDP)
-2789,EC1185,Aplicación de técnicas de micropuntura para el mejoramiento de la aparienciacutánea
-2790,EC1189,Manufactura esbelta para la mejora continua de procesos
-2791,EC1186,Coaching para el cambio de hábitos
-2792,EC1188,Liderazgo en los centros de trabajo
-2793,EC1190,Reclutamiento de personal en organizaciones a través de medios y fuentesdigitales
-2795,EC1182,Valuación de vehículos sin resguardo
-2796,EC1172,Acompañamiento inicial para la atención a víctimas
-2807,EC1207,Uso de normas para redactar textos impresos/digitales
-2801,EC1178,Revisión de obra e instalaciones de centros de datos y comunicaciones
-2802,EC1187,Presentación del diseño de centros de datos y comunicaciones
-2803,EC1175,Diseño de aditamentos de control y ensamble
-2804,EC1202,Operación de estudio de grabación y transmisión
-2805,EC1203,Mediación de experiencias educativas en museos interactivos
-2806,EC1205,Gestión del cambio organizaciona
 2814,EC1200,Realización del e studio de espirometría
 2815,EC0538.01,Venta de libros en librerías
 2816,EC1201,Mantenimiento a equipo e instalaciones de audio
@@ -2049,3 +1914,215 @@
 4108,EC1431,Preparación de gimnastas de artística femenil en la categoría 2
 4109,EC1432,Preparación del instructor de tenis en etapa de iniciación
 4110,EC1465,Estima ción d el valor de obras de arte pictóricas , gráficas y escultóricas de acuerdo con el propósito, uso y finalidad del avalúo sin emitir dictamen de avalúo
+2333,EC0907,Elaboración del Plan de Continuidad de Operaciones para Dependencias y Organizaciones
+2334,EC0908,Elaboración de Programas Especiales de Protección Civil de acuerdo al riesgo
+2474,EC0972,Programación del robot industrial
+2475,EC0973,Realización de estética básica de animales de compañía
+2476,EC0974,Uso de la lengua inglesa en un contexto laboral: Nivel Avanzado
+2477,EC0975,Tutoría entre pares en la práctica docente
+2478,EC0459.01,Operación de autobús urbano
+2479,EC0460.01,Operación del vehículo colectivo van
+2480,EC0813.01,Conducción de autobús de pasaje y turismo
+2481,EC0976,Voladura de barrenos con explosivos en mina subterránea
+2482,EC0977,Conducción de una sesión de meditación: nivel instructor básico
+2483,EC0461.01,Operación del vehículo unitario taxi terrestre
+2484,EC0971,Evaluación del sistema de emisión de gases contaminantes de vehículos
+2513,EC0083.01,Asesoría en materia hipotecaria por vía judicial
+2514,EC0281.01,Asesoría extrajudicial en créditos vencidos, vía telefónica
+2515,EC0282.01,Asesoría en materia hipotecaria por vía extrajudicial
+2516,EC1007,Manejo del Abaco Japonés Soroban, nivel básico
+2519,EC1045,Diseño de cejas con efecto pelo a pelo con pigmento semipermanente/Microblading
+2520,EC0682.01,Dirección de Planeación, Ejecución y Gestión de Estrategias en organizaciones privadas y públicas
+2522,EC0983,Responsable del manejo de un negocio en mercado municipal
+2524,EC0984,Instalación de paneles de fibrocemento en muros y fachadas de edificaciones arquitectónicas en interiores y exteriores
+2525,EC0985,Realizar la instalación de accesorios para cable en media tensión para líneas subterráneas
+2526,EC0989,Asistencia a Procesos Gerenciales en las Organizaciones
+2527,EC0991,Construcción de escenarios digitales para facilitar experiencias de aprendizaje
+2531,EC0980,Operación segura de molinos
+2532,EC0981,Operación del transporte de carga de vehículos sin rodar
+2533,EC0982,Despachador de productos alimenticios en mercados municipales
+2537,EC0978,Administración del Desarrollo Urbano y Ordenamiento Territorial Municipal
+2538,EC0979,Aplicación de buenas prácticas para el manejo reproductivo en los ovinos
+2539,EC0993,Creación de negocios con una propuesta de valor sostenible
+2540,EC0994,Desarrollar los servicios de optometría y los productos ópticos
+2541,EC0995,Desarrollo de sistemas de información informáticos
+2542,EC0987,Administración de sistemas electrónicos y de telecomunicaciones
+2543,EC0988,Aplicación de materiales en el sector automotriz
+2545,EC0998,Facilitación de sesiones de coaching en alimentación
+2546,EC1004,Implementación del mantenimiento Industrial periódico
+2547,EC1021,Procesamiento industrial de alimentos
+2548,EC1018,Operación del sistema de contabilidad en las organizaciones productivas y de servicios
+2549,EC1019,Prestación de servicios de gastronomía con orientación a la sostenibilidad
+2550,EC0999,Facilitar procesos de aprendizaje para el desarrollo de competencias en el nivel medio superior
+2551,EC1000,Gestión de aprovisionamiento para productos y servicios en empresas del sector privado dentro del territorio nacional
+2552,EC1048,Aplicación de masaje con piedras calientes
+2553,EC1049,Aplicación de masaje de reflexoterapia podal
+2554,EC0996,Elaboración de proyecto de emprendimiento con base en el Modelo de Emprendedores de Educación Media Superior
+2555,EC1001,Gestión del Emprendimiento con base al Modelo de Emprendimiento de Educación Media Superior
+2556,EC1002,Gestión de la vinculación en la formación dual
+2557,EC1003,Impartición de cursos para formación de aprendices calificados
+2558,EC1005,Instalación y mantenimiento de sistemas electromecánicos industriales
+2559,EC1006,Instalación y mantenimiento de sistemas mecatrónicos industriales
+2560,EC1009,Manejo de equipos industriales
+2561,EC1010,Manejo de equipos de troquelado
+2562,EC1013,Mantenimiento de sistemas automáticos
+2563,EC1016,Operación de maquinaria para transformación de termoplásticos
+2564,EC1024,Supervisión de la edificación/modificación/ampliación de obras en casa habitación
+2565,EC1025,Tutoría académica de la formación dual
+2566,EC1026,Venta de coches
+2567,EC1027,Amacice de obras mineras con equipo mecanizado
+2568,EC1028,Anclaje de roca con equipo mecanizado
+2569,EC0986,Adaptación de auxiliares auditivos
+2570,EC0990,Atención de grandes cuentas para la compra y venta de productos/servicios de marca
+2571,EC1011,Manejo de instalaciones eléctricas avanzadas
+2572,EC1012,Mantenimiento en matricería y troquelado
+2573,EC1014,Mantenimiento de sistemas automatizados
+2574,EC1015,Mantenimiento de sistemas electrónicos
+2575,EC1030,Evaluación de la conformación y del programa de implementación del Sistemade Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente del Sector Hidrocarburos
+2576,EC1031,Gestión del sistema de medición de hidrocarburos
+2577,EC1032,Operación del sistema de bombeo y almacenamiento de crudo estabilizado
+2578,EC1033,Operación del sistema de compresión de gas natur
+2581,EC1020,Prestación del servicio de hotelería con orientación a la sostenibilidad.
+2582,EC1029,Auditoría Externa a la operación y desempeño del Sistema de Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente del Sector Hidrocarburos
+2584,EC1036,Supervisión de la operación segura de la Estación de Servicio de expendio al público de gasolinas y diésel
+2585,EC1046,Instalación de fuegos artificiales para la presentación de espectáculos aéreos
+2591,EC1022,Procesamiento de sustancias químicas
+2592,EC1023,Realización y mantenimiento de instalaciones y sistemas eléctricos
+2594,EC1037,Apoyo técnico en el desarrollo de la audiencia oral
+2595,EC1038,Intervención para la solución de conflictos
+2597,EC1040,Recepción de promociones en el ámbito judicial
+2603,EC1056,Facilitación para el conocimiento, uso y aprovechamiento del Derecho de acceso a la información
+2604,EC1071,Activación física a través de baile aeróbico para jóvenes y adultos en espacios cerrados y abiertos
+2605,EC1058,Aplicación de las medidas de bioseguridad en la unidad de producción agroalimentaria/acuícola/pesquera
+2606,EC1073,Facilitador para la transformación social en contextos variados
+2607,EC1075,Promoción del aprendizaje mediante proyectos multidisciplinares STEM
+2612,EC1081,Elaboración de peritajes técnicos grafoscópicos
+2613,EC1082,Aplicación de técnicas de combate, salvamento y extinción de incendios en aeronaves e instalaciones aeroportuarias
+2614,EC1082,Aplicación de técnicas de combate, salvamento y extinción de incendios en aeronaves e instalaciones aeroportuarias
+2615,EC1074,Manejo de la metodología Wow-Vation para la solución de problemas con inventiva
+2616,EC1075,Promoción del aprendizaje mediante proyectos multidisciplinares STEM
+2617,EC1078,Gestión de créditos hipotecarios
+2618,EC1085,Enseñanza de la Maayat’aan
+2619,EC1070,Operación del Programa Productividad y Competitividad Agroalimentaria (PPCA)
+2620,EC1066,Operación del programa de Fomento a la Agricultura
+2621,EC1062,Operación del Programa de Fomento a la Productividad Pesquera y Acuícola
+2622,EC1060,Implementación del Proceso de Administración de Riesgos
+2623,EC1086,Conducción de autobús de servicio económico
+2625,EC1067,Operación del Programa Fomento Ganadero (PFG
+2627,EC1079,Implementación de estrategias de aprendizaje para el desarrollo decompetencias bajo el modelo conceptual-colaborativo-práctico
+2629,EC1080,Proporcionar asesoría normativa en materia de seguridad industrial, salud en el trabajo y protección ambienta
+2630,EC1083,Atención a solicitudes de servicio a equipo médico
+2631,EC1064,Operación del Programa de apoyos a la comercialización
+2632,EC1087,Instrucción en la atención a pasajeros y tripulación en materia de seguridad,emergencia y servicio a bordo
+2633,EC1065,Operación del Programa de Apoyo a Pequeños Productores
+2634,EC1069,Operación del Programa de Sanidad e Inocuidad Agroalimentaria (PSIA)
+2635,EC1084,Preparación de gastronomía mexicana popular y tradicional
+2636,EC1068,Operación del Programa de Concurrencia con las Entidades Federativas
+2637,EC1061,Liderazgo efectivo en las organizaciones
+2639,EC1103,Investigación de delitos cometidos contra la libertad de expresión bajo elenfoque diferencial y especializado
+2640,EC1093,Colaboración en la aplicación del Procedimiento Abreviado como forma de terminación anticipada del proceso penal
+2641,EC1104,Promoción de la Aplicación de las Reglas Mínimas de las Naciones Unidas para el Tratamiento de los Reclusos “Reglas Nelson Mandela” en el sistemapenitenciario
+2642,EC1106,Promoción de los principios y derechos del Sistema Integral de Justicia Penal para Adolescentes
+2643,EC1063,Operación de las disposiciones generales aplicables a las reglas de operación de los programas de la SAGARPA
+2644,EC1096,Gestión de la participación voluntaria de los intervinientes en los Mecanismos Alternativos de Solución de Controversias en Materia Penal
+2645,EC1105,Promoción de la atención de las víctimas de tortura de acuerdo con el Protocolo de Estambul
+2646,EC1076,Instalación de calentador de agua a gas L.P. y gas natural para uso doméstico
+2650,EC1047,Prestación de servicios para peinado de cabello
+2651,EC1111,Verificación de operación en materia aduanera y de Comercio Exterior mediante un Oficial de Cumplimiento
+2655,EC1091,Control de accesos de aeronaves
+2656,EC1099,nspección de Equipaje Facturado para su transportación en aeronaves, Categoría 1
+2657,EC1100,Inspección de Equipaje Facturado para su transportación en aeronaves, Categoría 2
+2658,EC1101,Inspección de Equipaje Facturado para su transportación en aeronaves, Categoría 3
+2659,EC1114,Aplicación de los protocolos de seguridad acuática en piscinas, centros acuáticos deportivos y recreativos
+2660,EC1110,Asesoría en sistemas de medición ultrasónicos de tiempo de travesía que no son de carrete para tubería a presión
+2661,EC1115,Estimulación con actividades acuáticas para personas adultas mayores
+2666,EC1108,Operación segura de calderas en el ingenio azucarero
+2676,EC1109,Operación segura de tachos
+2677,EC1130,Aplicación del procedimiento para coordinar la investigación de la Causa Raíz de incidentes y accidentes en eventos tipo dos y tres en el Sector Hidrocarburos
+2683,EC1095,Evaluación del bienestar en perros
+2686,EC1131,Actuación del personal de un Tercero Autorizado/Aprobado del Sector Hidrocarburos
+2688,EC1136,Prestación de servicios de barbería
+2689,EC1053.01,Asesoría en materia de Contraloría Social en la Administración Pública
+2690,EC0449.01,Gestión de los Servicios Preventivos de Seguridad y Salud en el Trabajo
+2691,EC1122,Mantenimiento de troqueles
+2692,EC1123,Mantenimiento de sistemas autotrónicos
+2693,EC1128,Prestación de servicios para la conformación documental de proyectos para generación y uso de biogás
+2694,EC1129,Barrenación larga con equipo mecanizado
+2695,EC1132,Verificación de la operación y mantenimiento de la Estación de Servicio para expendio de diésel y gasolinas
+2696,EC1134,Contratación de adquisiciones, arrendamientos y servicios para la Administración Pública
+2697,EC1149,Sustitución del cerrojo axial en aparato de vía para tren neumático
+2698,EC1094,Ejecución de las visitas de inspección y verificación ambiental a nivel federal
+2699,EC1117,Ejecución de métodos de pruebas básicas en mezclas asfálticas
+2700,EC1118,Impartición de cursos presenciales/remotos en el uso y aplicación de lectores y magnificadores de pantalla para personas con discapacidad visual
+2701,EC0397.01,Vigilancia del cumplimiento de la normatividad en seguridad y salud en el trabajo
+2702,EC0391.01,Verificación de las condiciones de seguridad e higiene en los centros de trabajo
+2704,EC1124,Operación del software de precios unitarios
+2705,EC1133,Atención con calidad y seguridad para el paciente durante la instalación de catéter PICC en adulto
+2706,EC1140,Certificación de Centros de Asistencia Social de Niñas, Niños y Adolescentes
+2707,EC1142,Apoyo en la orientación alimentaria para personas mayores
+2708,EC1127,Venta de productos y servicios manteniendo su sostenibilidad en el mercad
+2709,EC1144,Coordinación de servicios de transportación desde Puestos de Maniobra deTerminales
+2710,EC1146,Inspección de servicios de transportación de pasajeros en tren dentro deestaciones y línea confinada de circulación
+2711,EC1147,Mantenimiento profundo al armario de Pilotaje Automático fijo de 135 kHz
+2712,EC1148,Supervisión efectiva
+2713,EC1145,Conducción de tracto camión quinta rueda para el transporte de carga general
+2720,EC1139,Vigilar el perfil de seguridad de los insumos para la salud en la industriafarmacéutica
+2723,EC1098,Inspección de carga, correo y mensajería para su transportación en aeronaves
+2724,EC1102,Inspección de pasajeros y equipaje de mano para su transportación enaeronaves
+2725,EC1135,Diagnóstico de tarjetas electrónicas
+2727,EC1116,Conducción de autotransporte federal de carga
+2728,EC1119,Instalación de sistemas de climatización y refrigeración residencial y comercial
+2729,EC1120,Mantenimiento del equipo de cómputo, diseño de redes y seguridad informática
+2730,EC1121,Mantenimiento mecánico automotriz
+2731,EC1126,Realizar uniones en metales con los procesos de soldadura básica (OAW, OAC,SMAW) y especiales (GMAW, GTAW)
+2736,EC1059,Atención con calidad en el servicio al ciudadano
+2737,EC1137,Supervisión del diseño de construcción de infraestructura en proyectos desubestaciones eléctricas de potencia
+2738,EC1138,Supervisión del diseño de equipos y sistemas eléctricos de potencia y control
+2739,EC1161,Medición en el transporte por ducto de hidrocarburos, petrolíferos y petroquímicos
+2740,EC1166,Promoción de libros de texto
+2741,EC1170,Venta de boletos y servicios adicionales en taquillas de autotransporte de pasajeros
+2742,EC1154,Capacitación en el sector rural
+2743,EC1155,Promoción para el desarrollo rural sustentable territoria
+2744,EC1160,Implementación del Sistema de Control Interno
+2745,EC1167,Asistencia al pasajero a pie de autobús
+2746,EC1168,Control del equipaje de pasajeros de autotransporte federal
+2747,EC1169,Venta de boletos de autotransporte de pasajeros a pie de autobús
+2748,EC1162,Operación de terminales de almacenamiento de hidrocarburos destilados
+2749,EC1163,Transportación por ducto de hidrocarburos, petrolíferos y petroquímicos en fase líquida
+2750,EC1164,Ensamble de tarjetas electrónicas en el proceso de montaje superficial
+2751,EC1165,Gestión de la tutoría grupal e individual en grupos académicos de Educación Superior
+2752,EC1158,Implementación de habilidades socioemocionales y metodologías para desarrollarlas
+2753,EC1159,Promoción de la venta de tiempos compartidos al público en out/in hous
+2754,EC1097,Implementación del apoyo psicológico de primer contacto a personas afectadas por fenómenos perturbadores
+2755,EC1184,Aplicación de la rehabilitación integral mediante actividades ecuestres
+2757,EC1157,Implementación y mantenimiento de instalaciones eléctricas en la industria
+2759,EC1143,Implementación de intervenciones preventivas del consumo de sustancias psicoactivas en contextos escolares
+2760,EC0715.01,Aplicación de micropigmentación estética facial
+2761,EC1125,Realizar el diagnóstico de verificación de la eficiencia energética y seguridad de instalaciones y equipos eléctricos en vivienda
+2765,EC1141,Aplicación de programas individuales de actividad física multicomponente para personas mayores
+2766,EC1092,Coordinación de las actividades de protección civil del centro de trabajo de acuerdo al Programa Interno de Protección Civil
+2767,EC1171,Garantizar el derecho a la protección de datos personales
+2768,EC1173,Asesoría para la constitución de figuras asociativas
+2769,EC1180,Asesoría técnica-comercial en proyectos de generación distribuida fotovoltaica
+2770,EC1181,Supervisión de sistemas fotovoltaicos en residencia, comercio e industria
+2771,EC1191,Uso de las normas ortográficas en textos impresos/digitales nivel intermedio
+2772,EC1192,Conducción de tren de pasajeros basados en Sistemas Digitales
+2773,EC1193,Mantenimiento preventivo del sistema de puertas electroneumático de tren de
+2786,EC1174,Gestión de mejoras sociales sostenibles en campos agrícolas
+2787,EC1176,Fabricación de aditamentos de control y ensamble
+2788,EC1177,Maquinado de discos, tambores, mazas y partes de hierro nodular (TDP)
+2789,EC1185,Aplicación de técnicas de micropuntura para el mejoramiento de la aparienciacutánea
+2790,EC1189,Manufactura esbelta para la mejora continua de procesos
+2791,EC1186,Coaching para el cambio de hábitos
+2792,EC1188,Liderazgo en los centros de trabajo
+2793,EC1190,Reclutamiento de personal en organizaciones a través de medios y fuentesdigitales
+2795,EC1182,Valuación de vehículos sin resguardo
+2796,EC1172,Acompañamiento inicial para la atención a víctimas
+2798,EC1184,Aplicación de la rehabilitación integral mediante actividades ecuestres
+2807,EC1207,Uso de normas para redactar textos impresos/digitales
+2801,EC1178,Revisión de obra e instalaciones de centros de datos y comunicaciones
+2802,EC1187,Presentación del diseño de centros de datos y comunicaciones
+2803,EC1175,Diseño de aditamentos de control y ensamble
+2804,EC1202,Operación de estudio de grabación y transmisión
+2805,EC1203,Mediación de experiencias educativas en museos interactivos
+2806,EC1205,Gestión del cambio organizacional

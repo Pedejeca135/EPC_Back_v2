@@ -68,25 +68,27 @@ class EstandarSeeder extends Seeder
             while (!feof($file)) {
                 $line = fgets($file);
                 // echo ("$line");
+                if ($line)
+                    if ($line[0] != "#") {
+                        //CREANDO UN ESTANDAR
+                        $positionS = $this->arrayOfCsvRow($line, ",");
+                        $estandar2 = new Estandar();
 
-                //CREANDO UN ESTANDAR
-                $positionS = $this->arrayOfCsvRow($line, ",");
-                $estandar2 = new Estandar();
+                        $linkDoc = substr($line, 0, $positionS[0]);
+                        $estandar2->link_documento =  $linkDoc;
+                        echo ($linkDoc);
 
-                $linkDoc = substr($line, 0, $positionS[0]);
-                $estandar2->link_documento =  $linkDoc;
-                echo ($linkDoc);
+                        $codigo =  substr($line, $positionS[0] + 1, $positionS[1] - $positionS[0] - 1);
+                        $estandar2->codigo =  $codigo;
+                        echo ($codigo);
 
-                $codigo =  substr($line, $positionS[0] + 1, $positionS[1] - $positionS[0] - 1);
-                $estandar2->codigo =  $codigo;
-                echo ($codigo);
+                        $titulo =  substr($line, $positionS[1] + 1, strlen($line) - $positionS[1]);
+                        $estandar2->titulo =  $titulo;
+                        echo ($titulo);
 
-                $titulo =  substr($line, $positionS[1] + 1, strlen($line) - $positionS[1]);
-                $estandar2->titulo =  $titulo;
-                echo ($titulo);
-
-                $estandar2->proposito = "";
-                $estandar2->save();
+                        $estandar2->proposito = "";
+                        $estandar2->save();
+                    }
             }
 
 
