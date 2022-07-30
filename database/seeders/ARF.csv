@@ -1,0 +1,2129 @@
+WebLink, Código ,Título
+200 , NUTUR001.01 , Atención a comensales
+201 , NUOPT001.01 , Práctica de examen de refracción
+202 , NUOPT002.01 , Adaptación de lentes de contacto
+203 , NUTUR002.01 , Limpieza de cocinas industriales
+204 , NUTUR003.01 , Preparación de alimentos
+205 , NUSPV004.01 , Vigilancia presencial de bienes y personas
+206 , NUASS010.01 , Prestación del servicio de orientac ión para la inte gración familiar a nivel preventivo
+207 , NUTUR004.01 , Preparación y servicio de bebidas
+208 , NCASS007.01 , Cuidado de las niñas y los niños en centr os de atención infantil
+209 , NUASS004.01 , Promoción de servicios de asistencia social
+210 , NUASS005.01 , Atención a personas adultas mayores
+211 , NUASS006.01 , Cuidado de niñas, niños y adolescentes en cas as hogar, albergues e internados
+212 , NUGCH001.01 , Impartición de cursos de capacitación presenciales
+213 , NUGCH002.01 , Diseño de cursos de capacitación presenciales, sus instrumentos de evaluación y material didáctico
+214 , NUSPV001.01 , Adiestramiento de perros en el nivel básico de obediencia
+215 , NUSPV002.01 , Conducción de perros de seguridad
+216 , NUTUR005.01 , Coordinación de los servicios de alimentos y bebidas
+217 , NURUR001.01 , Coordinación de acciones para el desarrollo rural sustentable municipal
+218 , NUSPV005.01 , Coordinación de servicios de vigilancia de bienes y personas
+219 , NUTUR006.01 , Preparación de habitaciones para alojamiento temporal
+220 , NUTUR007.01 , Coordinación de los servicios de limpieza de habitaciones y áreas de estancia para alojamiento temporal
+221 , NUGCH003.01 , Diseño de cursos de capacitación para ser impartidos mediante Internet
+222 , NUOPT003.01 , Venta de productos ópticos
+223 , NUGCH004.01 , Uso didáctico de las tecnologías de inform ación y comunicación en procesos de aprendizaje nivel básico
+224 , NUSTC001.01 , Preparación de órganos para ajuste en banco
+225 , NUSTC002.01 , Preparación del mantenimiento mayor de caja
+226 , NUSTC005.01 , Desarmado del boguie
+227 , NUSTC004.01 , Preparación del diferencial para su mante nimiento
+228 , NUSTC003.01 , Preparación del motocompresor para su mantenimiento mayor
+229 , NUTUR008.01 , Preparación de bebi das con base de café
+230 , NUOPT004.01 , Obtención de lentes oftálmicas graduadas
+231 , NUTUR009.01 , Prestación del servicio de recepción y atención al huésped para su alojamiento temporal
+232 , NUSTC006.01 , Preparación del enganche del tren para su mantenimiento mayor
+233 , NUSPV006.01 , Consultoría en sistemas de gestión de la seguridad
+234 , NUTUR010.01 , Prestación de servicios cosmetológicos faciales
+235 , NUSPV007.01 , Custodia de mercancías en movimiento
+236 , NUSIM005.01 , Instalación del sistema de calentamiento solar de agua
+237 , NUSIM006.01 , Instalación y mantenimiento de sistemas de aire acondicionado y refrigeración comercial
+238 , NURUR002.01 , Cosecha de hortalizas
+239 , NUASS011.01 , Asis tencia vía telefónica a víctimas y personas relacionadas en si tuaciones de violencia de género
+240 , NUOPT005.01 , Biselado y montaje de lentes oftálmicas graduadas
+241 , NUOPT006.01 , Supervisión de puntos de venta de productos ópticos
+242 , NUSPV008.01 , Auditoría de los sistemas de gestión de la seguridad
+243 , NUTUR011.01 , Supervisión de las condiciones de registro y estancia del huésped
+244 , NURUR003.01 , Consultoría a empresas rurales
+245 , NUIVC002.01 , Asesoría en materia hipotecaria por vía judicial
+246 , NUIVC001.01 , Asesoría en materia hipotecaria por vía extrajudicial
+247 , NURUR004.01 , Coordinación de acciones para la puesta en marcha de proyectos de inversión del sector rural
+248 , NUINL001.01 , Interpre tación oral de len gua indígena al español y viceversa en el á mbito de procuración y administración de justicia
+249 , NUIPD001.01 , Prestación de servicios de interpretación de la lengua de señas mexic ana al español y vicev ersa
+250 , NURUR005.01 , Tutoría de cursos de formación en línea
+251 , NURUR006.01 , Formulación del diseño de proyectos de inversión del sector rural
+252 , NUTUR012.01 , Prestación de servicios estéticos corporales
+253 , NUINL002.01 , Prestación de servicios de traducción de textos de lengua española a lengua indígena y viceversa en el ámbito de procuración y administración de justicia
+254 , NUSPV009.01 , Prestación de servicios de instalación y mantenimiento de dispositivos de geolocalización
+255 , NUIAZ001.01 , Implementación de medidas de seguridad en el trabajo y conservación del medio ambiente en el ingenio azucarero
+256 , NUIRN001.01 , Atención a comensales en servicio de especialidades
+257 , NUAOP001.01 , Inspección de obra pública federal
+258 , NUACP001.01 , Asesoría y suministro de crédito en instituciones de a horro y crédito popular
+259 , NUSPV010.01 , Gestionar la conformidad de los sistemas de gestión de la seguridad
+260 , NUSPV011.01 , Monitoreo de los sistemas de geolocaliza ción
+261 , NUACH001.01 , Asistencia primar ia de un evento adverso
+262 , NUIAZ002.01 , Aplicación de medid as de seguri dad alimentaria y calidad en el ingenio azucarero
+263 , NUTIC001.01 , Elaboración de doc umentos mediante un procesador de textos
+264 , NUTIC002.01 , Elaboración de presentaciones gráficas medi ante herramientas de cómputo
+265 , NUTIC003.01 , Elaboración de libros mediante el uso de procesadores de hojas de cálculo
+266 , NUASS012.01 , Supervisión de establecimientos/espacios de atención infantil
+267 , EC0030 , Recuperación de los créditos otorgados a los socios/usuarios de las instituciones de ahorro y crédito popular
+268 , EC0031 , Generación de Valor Social y Económico a los Grupos de Interés del Ingenio Azucarero
+269 , EC0032 , Vigilancia del cumpl imiento de la normativi dad en seguridad y salud en el trabajo
+273 , EC0036 , Asesoría para la organización vecinal en zonas habitacionales
+276 , EC0072 , Atención in situ al visitante durante recorridos turísticos
+277 , EC0073 , Atención de colisión en crucero a los usuarios de seguros de autos1
+278 , EC0074 , Coordinación de grupos técnicos de expertos para el desarrollo del Estándar de Competencia
+280 , EC0076 , Evaluación de la competencia de candidatos con base en Estándares de Competencia
+283 , EC0079 , Atención en su lengua materna a población hablan te de lenguas indígenas en programas sociales
+284 , EC0080 , Prestación de servicios de consultoría para la implem entación del sist ema de gestión del mode lo de equidad de género
+285 , EC0081 , Manejo higiénico de los alimentos
+286 , EC0091 , Verificació n extern a de la operació n de los Centro s de Evaluació n y Evaluadore s Independientes
+287 , EC0092 , Venta de pinturas, recubrimientos y complementos en establecimientos al menudeo
+288 , EC0137 , Asesoría a la comunidad sobre participación comunitaria en el espacio público.
+289 , EC0106 , Colaboración en el logro de objetivos comunes del ingenio azucarero mediante el trabajo en equipo.
+292 , EC0105 , Atención al ciudadano en el sector público
+293 , EC0104 , Ventas consultivas
+294 , EC0128 , Preparación y servicio de bebidas
+295 , EC0129 , Supervisión de la operación del fondo de aseguramiento agropecuario
+298 , EC0127 , Preparación de alimentos
+299 , EC0103 , Aplicación de pinturas decorativas en edificaciones
+300 , EC0126 , Limpieza de cocinas industriales
+301 , EC0121 , Elaboración de proyectos de aprendizaje integrando el uso de las tecnologías de la información y comunicación
+304 , EC0131 , Asesoría y suministro de crédito en instituciones de ahorro y crédito popular.
+305 , EC0108 , Manejo del procesador de hojas de cálculo digitales
+307 , EC0115 , Venta de equipo de electrónica y cómputo de manera personalizada.
+308 , EC0107 , Manejo de procesador de textos digitales
+309 , EC0109 , Manejo de procesadores de presentaciones digitales.
+311 , EC0116 , Dispensación y manejo de medicamentos en farmacias
+312 , EC0118 , Realización de instalaciones eléctricas en edificación de vivienda.
+313 , EC0110 , Asesoría en comercialización de bienes inmuebles
+314 , EC0132 , Captación de Información Empresarial
+315 , EC0111 , Construcción de muros y plafones a base de placas de yeso en interiores
+316 , EC0113 , Prest ación de servic ios d igitales del promotor en un centro com unitario digital
+317 , EC0138 , Envasado de conservas alimenticias
+318 , EC0130 , Operación de fondos de aseguramiento agrícola
+319 , EC0112 , Administración de inmuebles en condominio
+320 , EC0114 , Obtención de cortes de carne y aves en tiendas de autoservicio.
+321 , EC0146 , Prestación de servicios de manejo integrado de plagas urbanas, nivel Intermedio
+322 , EC0117 , Aplicación de masaje Ayurveda Abhyanga
+324 , EC0123 , Aplicación de Masaje Holístico
+325 , EC0124 , Aplicación de Masaje Sueco
+326 , EC0125 , Venta de mezcal en establecimientos de alimentos y bebidas
+327 , EC0093 , Cosecha de cítricos
+331 , EC0120 , Promoción de la lectura
+332 , EC0122 , Aplicación de Masaje Tejido Profundo
+339 , NUCOM003.01 , Venta de productos, mercancías y servicios de man era per sonali zada en piso
+340 , NUCOM004.01 , Alma cenam iento de mer cancías en estable cimientos
+341 , NUCOM005.01 , Registro y cobro de productos, mercancías y servicios en establecimientos
+342 , NUCOM006.01 , Preparación de pescados y mariscos para su venta en tiendas de autoservicio
+343 , NUCOM007.01 , Producción de pan bizcocho en tiendas de autoser vicio
+344 , NUCOM008.01 , Producción de pan francés en tiendas de autoservicio
+345 , NUCOM010.01 , Procesamiento de efectivo y documentos
+350 , CSAD0540.01 , Representación del agente aduanal en los actos y formalidades del despacho aduanero
+359 , EC0140 , Cuantificación del consumo de agua potable con medición
+363 , EC0141 , Conservación del funcionamiento operativo de la red de alcantarillado.
+365 , EC0136 , Manejo y Dispensación de Medicamentos Antibióticos en Farmacias
+374 , EC0135 , Manejo y dispensación de medicamentos e insumos para la salud en farmacias.
+375 , EC0145 , Conservación de la red de agua potable
+378 , EC0139 , Operación de la Grúa Móvil
+379 , EC0133 , Asesoría en materia de crédito de vivienda
+385 , EC0134 , Operación de la retroexcavadora
+400 , CCFE0554.01 , Cambio de aislamiento en líneas de transmisión energizadas
+401 , CCFE0555.01 , Planeación del mantenimiento de equipos en el sector eléctrico
+402 , CCFE0556.01 , Mantenimiento a generadores eléctricos
+403 , CCFE0557.01 , Mantenimiento a interruptores de media tensión
+404 , CCFE0558.01 , Mantenimiento mecánico a bombas centrífugas multipasos
+405 , CCFE0559.01 , Mantenimiento a transformadores de potencia
+406 , CCFE0560.01 , Mantenimiento a bancos y cargadores de baterías
+407 , CCFE0561.01 , Mantenimiento mecánico a precalentador de aire regenerativo horizontal
+408 , CCFE0562.01 , Mantenimiento a interruptores de instrumentación
+409 , CCFE0563.01 , Mantenimiento a actuadores de elementos finales de control
+410 , CCFE0564.01 , Mantenimiento a equipos de transmisión digital
+411 , CCFE0569.01 , Supervisión del mantenimiento de los equipos en el sector eléctrico
+412 , CCFE0601.01 , Operación de unidades de generación termoeléctrica
+413 , CCFE0602.01 , Mantenimiento a elementos primarios de temperatura
+414 , CCFE0603.01 , Mantenimiento a indicadores locales
+415 , CCFE0604.01 , Mantenimiento a interruptores de baja tensión
+416 , CCFE0605.01 , Mantenimiento mecánico a precalentador de aire regenerativo vertical
+417 , CCFE0606.01 , Operación de generadores eléctricos en procesos de generación termoeléctrica
+418 , CCFE0607.01 , Mantenimiento mecánico a intercambiadores de calor
+419 , CCFE0608.01 , Mantenimiento a transmisores de instrumentación
+420 , CCFE0609.01 , Mantenimiento a instrumentos de medición y control en tableros involucrados en procesos de generación de energía eléctrica
+421 , CCFE0610.01 , Mantenimiento mecánico a ventilador centrífugo radial
+422 , CCFE0611.01 , Facturación de la energía eléctrica consumida
+423 , CCFE0612.01 , Ejecución de los procesos comerciales de campo en el sector eléctrico
+424 , CCFE0613.01 , Configuración del sistema de control y adquisición de datos
+425 , CCFE0614.01 , Integración de los equipos de medición de energía eléctrica
+426 , CCFE0615.01 , Planeación del sistema eléctrico de distribución
+427 , CCFE0616.01 , Mantenimiento a redes y líneas aéreas de distribución de energía eléctrica
+428 , CCFE0617.01 , Mantenimiento a redes y líneas subterráneas de distribución de energía eléctrica
+429 , CCFE0618.01 , Operación de unidades de generación hidroeléctrica
+430 , CCFE0619.01 , Operación del sistema eléctrico de unidades de generación de energía eléctrica
+431 , CCFE0620.01 , Operación de sistemas de combustible en unidades de generación eléctrica
+432 , CCFE0622.01 , Mantenimiento mecánico a bombas de desplazamiento positivo
+433 , CCFE0623.01 , Mantenimiento de las tuberías del generador de vapor mediante soldadura de código
+434 , CCFE0624.01 , Mantenimiento al regulador automático de tensión (AVR)
+435 , CCFE0625.01 , Mantenimiento a relevadores de sobrecorriente
+436 , CCFE0628.01 , Mantenimiento mecánico a turbinas de vapor con cilindro de alta y baja presión
+437 , CCFE0629.01 , Mantenimiento mecánico a compresores de aire reciprocantes y de tornillo
+438 , CCFE0631.01 , Mantenimiento a transductores de instrumentación
+439 , CCFE0632.01 , Mantenimiento a controladores de sistemas automatizados
+440 , CCFE0633.01 , Mantenimiento a equipos de comunicación de ondas portadoras por líneas de alta tensión
+441 , CCFE0634.01 , Mantenimiento al sistema de información y control local de estación
+442 , CCFE0659.01 , Mantenimiento a los equipos de instrumentación y control de energía eléctrica
+443 , CCFE0660.01 , Mantenimiento mecánico a equipo rotativo y de bloqueo de generación de energía eléctrica
+444 , CCFE0661.01 , Mantenimiento eléctrico de equipos de generación de energía eléctrica
+445 , CCFE0670.01 , Mantenimiento del sistema de control supervisorio y adquisición de datos en tiempo real de un centro de control de energía
+446 , CCFE0671.01 , Evaluación de la operación del sistema eléctrico de potencia
+447 , CCHO0267.01 , Recubrimiento de productos con chocolate o sustitutos, y confites
+448 , CCHO0268.01 , Elaboración de productos de chocolate o confitería, a partir de derivados del cacao o grasas sustitutas
+449 , CCHO0323.01 , Elaboración de caramelos y goma de mascar
+450 , CCHO0324.01 , Elaboración de productos de chocolate y confitería por formado manual corte o troquelado
+451 , CCHO0350.01 , Obtención de derivados del cacao a partir del grano
+452 , CCHO0351.01 , Elaboración de productos de confitería por moldeo mecánico
+453 , CCHO0369.01 , Elaboración de productos de chocolate y similares por moldeo o depositado mecánico
+454 , CCHO0531.01 , Envoltura, envasado y empaque de productos de chocolate, similares y confitería
+455 , CCLZ0013.02 , Supervisión de procesos de producción
+456 , CCLZ0021.01 , Control y supervisión de la producción del producto (Calzado Nivel Dos)
+457 , CCLZ0049.02 , Ejecución del corte del calzado
+458 , CCLZ0050.02 , Pespunte del corte del calzado
+459 , CCLZ0097.01 , Planeación y programación de la fabricación del producto
+460 , CCLZ0098.01 , Coordinación de la elaboración de muestrarios
+461 , CCLZ0150.01 , Diseño y rediseño de conceptos y del calzado
+462 , CCLZ0151.01 , Desarrollo de los componentes del calzado
+463 , CCLZ0425.01 , Esmerilado de la piel
+464 , CCLZ0430.01 , Planeación del trabajo en procesos de producción
+465 , CCLZ0636.01 , Terminado del calzado
+466 , CCLZ0637.01 , Montado de calzado
+467 , CCLZ0638.01 , Ensuelado de calzado
+468 , CCNS0068.02 , Construcción de muros de piedra y/o piezas regulares
+469 , CCNS0069.02 , Armado de elementos estructurales con acero de refuerzo
+470 , CCNS0070.02 , Cimbrado de elementos estructurales
+471 , CCNS0071.02 , Colado de elementos de concreto
+472 , CCNS0091.01 , Instalación de refractarios en coquizadora
+473 , CCNS0114.01 , Realización de estudio geotécnico
+474 , CCNS0115.01 , Análisis de suelos y rocas
+475 , CCNS0158.02 , Instalación del sistema eléctrico
+476 , CCNS0160.02 , Instalación y reparación de los sistemas hidráulico y sanitario
+477 , CCNS0161.02 , Instalación del sistema de gas
+478 , CCNS0218.02 , Análisis de precios unitarios
+479 , CCNS0221.01 , Elaboración de estructuras de acero para depósito y almacenamiento.
+480 , CCNS0313.01 , Aplicación de recubrimientos de pintura, pasta y grano
+481 , CCNS0316.01 , Coordinación de maniobras de izaje de cargas
+482 , CCNS0353.02 , Colocación de recubrimiento de cerámica
+483 , CCNS0380.02 , Instalación para el aprovechamiento del gas natural para consumos hasta 170,000 kj/h
+484 , CCNS0405.01 , Operación del tractor Bulldozer
+485 , CCNS0406.02 , Operación de la retroexcavadora-cargadora
+486 , CCNS0429.01 , Construcción de pavimentos asfálticos
+487 , CCNS0456.01 , Impermeabilización de losas y techumbres
+488 , CCNS0499.01 , Toma de muestras de concreto
+489 , CCNS0526.01 , Determinación de propiedades mecánicas del concreto endurecido
+490 , CCNS0541.01 , Instalación y mantenimiento de sistemas de comunicación
+491 , CCNS0543.01 , Instalación de sistemas de placas de yeso con cartoncillo (SPYC)
+492 , CCNS0544.01 , Determinación de propiedades de los agregados para concreto hidráulico
+493 , CCNS0587.01 , Determinación especializada de propiedades del concreto
+494 , CCNS0667.01 , Supervisión de obras de edificación con concreto hidráulico hasta cuatro niveles
+495 , CCOM0026.01 , Compra de mercancías para ventas al menudeo Nivel 3
+496 , CCOM0028.02 , Venta de mercancías en mostrador al menudeo
+497 , CCOM0034.01 , Compra de mercancías para ventas al menudeo Nivel 2
+498 , CCOM0046.02 , Dispensación y manejo de medicamentos en farmacias
+499 , CCOM0075.01 , Almacenaje de mercancías en comercio al menudeo
+500 , CCOM0076.01 , Venta de productos de ferretería en comercio al menudeo
+501 , CCOM0146.01 , Administración de pequeños establecimientos de comercio al detalle
+502 , CCOM0305.01 , Venta de mercancías en tiendas departamentales
+503 , CCOM0306.01 , Registro y cobro de transacciones en comercio al detalle
+504 , CCOM0377.01 , Procesamiento de efectivo y documentos
+505 , CCOM0390.02 , Servicios de atención telefónica y telemercadeo
+506 , CCOM0444.01 , Supervisión del punto de venta
+507 , CCOM0471.01 , Promoción y venta de productos
+508 , CCON0085.02 , Implantación y evaluación de nuevos sistemas
+509 , CCON0147.03 , Consultoría general
+510 , CCON0148.02 , Diseño y evaluación de sistemas
+511 , CCON0219.01 , Diagnóstico de empresas micro, pequeñas y medianas — Operaciones
+512 , CCON0220.01 , Diagnóstico de empresas micro, pequeñas y medianas — Capital Humano y Dirección Estratégica
+513 , CCON0396.02 , Ventas consultivas
+514 , CCON0398.01 , Asesoría general en metrología
+515 , CCON0416.01 , Consultoría en imagen pública
+516 , CCON0480.01 , Asesoría especializada en metrología de temperatura
+517 , CCON0507.01 , Coordinación del proceso de elaboración de un Plan Estratégico
+518 , CCON0657.01 , Detección de áreas de oportunidad y mejoras de PyMEs
+519 , CCPC0567.01 , Servicios de cuidados faciales y corporales
+520 , CCPC0586.01 , Maquillaje del rostro del cliente
+521 , CCPC0600.01 , Cuidado de manos y pies
+522 , CCRJ0439.01 , Servicios básicos de cerrajería
+523 , CDEN0197.02 , Elaboración de prótesis dental removible
+524 , CDEN0198.02 , Elaboración de prótesis dental fija
+525 , CDEN0280.01 , Elaboración de aparatos de ortodoncia y ortopedia dental
+526 , CDEN0308.01 , Preparación de modelos dentales y modelado en materiales calcinables
+527 , CELE0290.01 , Gestión de la producción
+528 , CELE0311.01 , Ensamble de componentes y productos electrónicos
+529 , CELE0328.01 , Mantenimiento de equipo y maquinaria electrónica
+530 , CELE0408.01 , Operación de equipo automático de tecnología de montaje superficial
+531 , CELE0522.01 , Ensamble de equipos mecatrónicos
+532 , CELE0523.01 , Reparación de ensambles eléctricos y electrónicos
+533 , CELE0524.01 , Producción de componentes de equipos mecatrónicos
+534 , CELE0525.01 , Verificación de equipos mecatrónicos y sus componentes
+535 , CFAM0254.01 , Constitución de figuras asociativas con unidades económicas familiares rurales
+536 , CFAM0378.01 , Elaboración del programa de desarrollo de la empresa familiar rural
+537 , CFAM0379.01 , Dirección de la empresa familiar rural
+538 , CFAM0513.01 , Proyección del desarrollo sustentable y sostenible de la empresa familiar rural
+539 , CFER0005.02 , Despacho y control de trenes
+540 , CFER0022.01 , Operación y manejo de trenes en camino
+541 , CFER0108.01 , Formación de trenes
+542 , CFER0134.01 , Coordinación y supervisión del tren, equipo tractivo y unidades de arrastre
+543 , CFER0277.01 , Coordinación y supervisión del despacho y control de trenes
+544 , CFER0374.01 , Apoyo al mantenimiento de vía
+545 , CFOR0057.02 , Obtención de madera aserrada
+546 , CFOR0058.02 , Producción de plantas
+547 , CFOR0059.01 , Dimensionado de madera
+548 , CFOR0060.01 , Diseño e implementación de inventario de recursos forestales
+549 , CFOR0061.02 , Derribo direccional de árboles
+550 , CFOR0078.01 , Elaboración de Programas de Manejo Forestal
+551 , CFOR0079.01 , Planeación y establecimiento de infraestructura para propagación de plantas
+552 , CFOR0109.01 , Programación y capacitación sobre plagas, enfermedades e incendios forestales
+553 , CFOR0110.01 , Obtención de germoplasma y capacitación a personal operativo
+554 , CFOR0162.02 , Prevención, detección y combate de incendios forestales
+555 , CFOR0163.01 , Dirección operativa y ejecución de actividades de prevención, detección y combate de incendios forestales
+556 , CFOR0239.01 , Aplicación de tratamientos silvícolas
+557 , CFOR0240.01 , Organización y dirección del aprovechamiento forestal
+558 , CFOR0241.01 , Documentación de materias primas forestales
+559 , CFRM0012.02 , Producción de formas farmacéuticas sólidas
+560 , CFRM0036.01 , Producción de formas farmacéuticas semisólidas
+561 , CFRM0037.01 , Producción de líquidos estériles
+562 , CFRM0038.01 , Producción de líquidos no estériles
+563 , CFRM0039.01 , Producción de líquidos utilizando el sistema de formado, llenado y sellado (FLS)
+564 , CFRM0062.01 , Acondicionamiento de producto terminado
+565 , CFRM0063.01 , Manufactura de dispositivos médicos
+566 , CFRM0090.01 , Promoción y ventas de productos farmacéuticos
+567 , CFRM0117.01 , Almacenaje y distribución de materiales y producto terminado
+568 , CFRM0180.01 , Planeación y asesoría de ventas de productos farmacéuticos
+569 , CFRM0181.01 , Desarrollo gerencial en ventas de productos farmacéuticos
+570 , CFRM0249.01 , Control de calidad de insumos, productos y servicios en la industria farmacéutica
+571 , CFRM0250.01 , Muestreo y auditoría a procesos para garantizar la calidad en manufactura, acondicionado y servicios críticos en la industria
+572 , CFRM0251.01 , Elaboración de documentación y seguimiento a sistemas de soporte de aseguramiento de calidad en la industria farmacéutica
+573 , CFRM0281.01 , Supervisión de ventas
+574 , CGAS0654.01 , Suministro de gas LP al menudeo
+575 , CGAS0655.01 , Trasiego de gas LP en planta de distribución
+576 , CGRA0389.01 , Producción de granos y oleaginosas
+577 , CGRA0520.02 , Almacenamiento y conservación de granos
+578 , CHAR0464.01 , Determinación de la calidad de harina
+579 , CHAR0518.01 , Obtención de harina de trigo
+580 , CHOR0255.01 , Poda de plantas
+581 , CHOR0256.01 , Mejoramiento de plantas
+582 , CHOR0257.01 , Establecimiento y manejo de plantaciones hortofrutícolas
+583 , CHOR0309.01 , Acondicionamiento del mango
+584 , CHOR0310.01 , Empaque y embarque de mango
+585 , CHUL0126.02 , Extrusión de productos de hule
+586 , CHUL0127.02 , Vulcanización de productos de hule
+587 , CHUL0128.02 , Mezcla de compuestos de hule
+588 , CHUL0129.02 , Construcción de productos de hule
+589 , CHUL0188.01 , Control de procedimientos para la elaboración de productos de hule
+590 , CHUL0292.01 , Calandreo de productos de hule
+591 , CHUL0293.01 , Molienda de productos de hule
+592 , CHUL0294.01 , Preparación de materias primas para la elaboración de productos de hule
+593 , CHUL0372.01 , Apoyos a procesos de manufactura
+594 , CICA0119.01 , Obtención de conservas alimenticias comercialmente estériles
+595 , CICA0120.01 , Embalaje de conservas alimenticias
+596 , CICA0247.01 , Preparación de mezclas para la obtención de conservas alimenticias
+597 , CICA0258.01 , Envasado de conservas alimenticias
+598 , CICA0299.01 , Operación de generadores de vapor
+599 , CICA0445.01 , Surtimiento de órdenes de embarque
+600 , CINF0276.01 , Elaboración de documentos mediante herramientas de cómputo
+601 , CINF0283.01 , Análisis y diseño de centro de datos
+602 , CINF0284.01 , Análisis y diseño de arquitectura cliente/servidor
+603 , CINF0285.01 , Análisis y diseño de sistemas de información
+604 , CINF0286.01 , Análisis y diseño de redes de datos
+605 , CINF0376.01 , Elaboración de documentos y comunicación mediante el empleo de lascaracterísticas avanzadas de aplicaciones de cómputo
+606 , CINF0650.01 , Instalación y soporte técnico de redes de datos (LAN)
+607 , CINF0669.01 , Programación, desarrollo y diseño (arquitectura) de soluciones en JAVA
+608 , CIVH0266.01 , Inspección vehicular
+609 , CJOY0399.01 , Fundido de metales preciosos
+610 , CJOY0442.01 , Laminado y trefilado de metales en joyería
+611 , CJOY0511.02 , Preparación de ceras
+612 , CJOY0512.02 , Vaciado de metales en joyería
+613 , CJOY0642.01 , Troquelado de piezas en joyería
+614 , CLCH0245.01 , Ordeña mecanizada
+615 , CLCH0282.01 , Inseminación artificial de bovinos
+616 , CLCH0370.01 , Distribución de productos en redes locales
+617 , CLCH0375.02 , Elaboración de productos lácteos
+618 , CLCH0426.01 , Transportación de la leche
+619 , CMAU0289.02 , Reparación del sistema de frenos básicos
+620 , CMAU0331.02 , Afinación de motores a gasolina con sistema de inyección
+621 , CMAU0332.02 , Afinación de motores a gasolina con carburador
+622 , CMAU0335.01 , Reparación de motores a gasolina
+623 , CMAU0344.01 , Reparación del sistema de suspensión con alineación y balanceo
+624 , CMAU0345.01 , Reparación del sistema de dirección
+625 , CMAU0346.01 , Servicio de lubricación de los sistemas del vehículo automotriz
+626 , CMAU0347.01 , Reparación del sistema de embrague
+627 , CMAU0348.01 , Reparación del sistema de control de emisión de gases contaminantes
+628 , CMAU0360.01 , Reparación del sistema de transmisión manual
+629 , CMAU0361.01 , Reparación del sistema de transmisión automática
+630 , CMAU0431.01 , Reparación de los componentes plásticos de la carrocería
+631 , CMAU0432.01 , Reparación del motor a diesel de los vehículos de rango medio y servicio pesado
+632 , CMAU0433.01 , Reparación del eje trasero de los vehículos de rango medio y servicio pesado
+633 , CMAU0434.01 , Reparación del sistema de inyección de los vehículos de rango medio y servicio pesado
+634 , CMAU0435.01 , Reparación del sistema de embrague de los vehículos de rango medio y servicio pesado
+635 , CMAU0436.01 , Reparación del sistema de frenos de aire de los vehículos de rango medio y servicio pesado
+636 , CMAU0462.01 , Reparación del sistema de frenos ABS
+637 , CMAU0488.02 , Repintado de los componentes metálicos y plásticos de la carrocería de vehículo automotriz utilizando equipo programable
+638 , CMAU0489.01 , Repintado de los componentes metálicos, plásticos y de madera de la carrocería de vehículo automotriz
+639 , CMAU0520.02 , Igualado de color en el repintado automotor
+640 , CMAU0521.01 , Reparación de los componentes metálicos exteriores de la carrocería
+641 , CMEC0043.01 , Preparación del mantenimiento a sistemas electromecánicos
+642 , CMEC0113.01 , Mantenimiento a sistemas para la transmisión de potencia mecánica
+643 , CMEC0133.01 , Mantenimiento de sistemas de aire acondicionado y refrigeración
+644 , CMEC0149.01 , Mantenimiento a sistemas generadores de vapor
+645 , CMEC0168.01 , Mantenimiento a ventiladores y sopladores
+646 , CMEC0169.01 , Mantenimiento a subestaciones
+647 , CMEC0170.01 , Mantenimiento a plantas eléctricas de emergencia
+648 , CMEC0171.01 , Mantenimiento a circuitos de control
+649 , CMEC0172.01 , Mantenimiento a sistemas ininterrumpibles de energía
+650 , CMEC0173.01 , Mantenimiento a bombas
+651 , CMEC0204.01 , Mantenimiento a generadores de energia eléctrica
+652 , CMEC0205.01 , Mantenimiento a motores eléctricos
+653 , CMEC0206.01 , Mantenimiento a compresores
+654 , CMEC0207.01 , Mantenimiento a reductores de velocidad
+655 , CMEC0208.01 , Mantenimiento a medidores mecánicos
+656 , CMEC0209.01 , Mantenimiento a grúas y polipastos
+657 , CMEC0210.01 , Mantenimiento a sistemas hidráulicos
+658 , CMEC0211.01 , Mantenimiento a elementos mecánicos, mediante proceso de soldadura
+659 , CMEC0212.01 , Mantenimiento a sistemas neumáticos
+660 , CMEC0213.01 , Mantenimiento a válvulas
+661 , CMEC0214.01 , Mantenimiento a instalaciones eléctricas
+662 , CMEC0215.01 , Mantenimiento a elementos mecánicos mediante aplicación de maquinados
+663 , CMEC0216.01 , Administración del servicio de mantenimiento a los sistemas electromecánicos
+664 , CMEC0411.01 , Mantenimiento de sistemas electrónicos y microprocesados
+665 , CMEC0414.01 , Mantenimiento de sistemas mecánicos y electromecánicos
+666 , CMEC0424.01 , Mantenimiento de sistemas eléctricos
+667 , CMEN0647.01 , Traslado de envíos de mensajería y paquetería
+668 , CMIN0044.03 , Fragmentación de roca
+669 , CMIN0478.02 , Operación de la planta de beneficio
+670 , CMIN0479.02 , Carga y acarreo de mineral y tepetate
+671 , CMIN0570.01 , Supervisión de mina y planta
+672 , CMIN0576.01 , Muestreo de minerales en planta de beneficio
+673 , CMIN0578.01 , Extracción de carbón en mina subterránea
+674 , CMIN0579.01 , Extracción de carbón en tajo
+675 , CMIN0589.01 , Beneficio de carbón
+676 , CMIN0630.01 , Control de emergencias en mina y planta de beneficio
+677 , CMIN0649.01 , Separación de metales por electrólisis
+678 , CMME0357.01 , Maquinado de piezas por desprendimiento de viruta
+679 , CMME0469.01 , Preparación de superficies metálicas para la aplicación de recubrimiento anticorrosivo
+680 , CMME0591.01 , Inspección a la superficie del elemento por ensayos no destructivos
+681 , CMME0599.01 , Inspección volumétrica al elemento por ensayos no destructivos
+682 , CMTO0320.02 , Producción de nixtamal y masa
+683 , CMTO0321.02 , Producción de tortilla de maíz
+684 , CMUE0035.01 , Preparación de materia prima en la fabricación y/o ensamble de muebles de madera
+685 , CMUE0065.01 , Control de la calidad de los muebles de madera durante el proceso de producción y embarque
+686 , CMUE0066.01 , Fabricación de piezas de hierro forjado
+687 , CMUE0067.01 , Fabricación de piezas torneadas
+688 , CMUE0102.01 , Almacenaje y embarque de los productos terminados
+689 , CMUE0103.01 , Pintado de piezas, componentes y muebles
+690 , CMUE0104.01 , Montaje final y decorado del mueble
+691 , CMUE0105.01 , Fabricación de piezas rauteadas del mueble
+692 , CMUE0135.01 , Armado de muebles de tablero
+693 , CMUE0154.01 , Corrección de desperfectos de los muebles
+694 , CMUE0184.01 , Aplicación de pintura electrostática en muebles metálicos
+695 , CMUE0237.01 , Acabado de los muebles de madera
+696 , CMUE0238.01 , Tapizado de muebles
+697 , COAS0164.01 , Operación del proceso manual y semiautomático de potabilización y tratamiento de aguas residuales
+698 , COAS0165.01 , Control de los procedimientos operativos manual y semiautomático de potabilización y tratamiento de aguas residuales
+699 , COAS0227.01 , Dirección de empresas de agua y saneamiento
+700 , COAS0228.01 , Difusión de la empresa de agua y saneamiento y promoción de la cultura del agua
+701 , COAS0307.01 , Conservación y operación de la red de agua potable
+702 , COAS0319.01 , Conservación del funcionamiento operativo de la red de alcantarillado
+703 , COAS0391.01 , Conservación de la red de alcantarillado con el vehículo de desazolve
+704 , COAS0453.01 , Atención al suministro de agua potable con micromedición
+705 , COPH0474.01 , Bombeo de aguas
+706 , COPT0139.02 , Venta de productos y servicios ópticos
+707 , COPT0656.01 , Examen de refracción y adaptación de lentes de contacto
+708 , COPT0658.01 , Procesamiento de lentes ópticas
+709 , CPAN0651.01 , Elaboración de productos de panificación
+710 , CPES0055.02 , Preparación de estanquería, siembra y control de cultivo de camarón por el sistema semi intensivo
+711 , CPES0056.02 , Engorda y cosecha de camarón por el sistema semi intensivo
+712 , CPES0081.01 , Operación de equipos de navegación para captura de camarón
+713 , CPES0082.01 , Operación de equipos de propulsión para captura de camarón
+714 , CPES0111.01 , Operación de equipo de cubierta y artes de pesca para captura de camarón
+715 , CPES0182.01 , Obtención de producto envasado de origen pesquero
+716 , CPES0183.01 , Obtención de producto congelado de origen pesquero
+717 , CPES0222.01 , Operación de artes de pesca ribereña y aguas interiores
+718 , CPES0223.01 , Obtención de productos ahumados de origen pesquero
+719 , CPES0224.01 , Obtención de productos seco-salados de origen pesquero
+720 , CPES0225.01 , Manejo y conservación a bordo de productos de pesca ribereña y aguas interiores
+721 , CPES0273.02 , Operación de embarcaciones con motor fuera de borda
+722 , CPES0317.01 , Elaboración de harina de pescado
+723 , CPES0358.02 , Producción de postlarvas de camarón en laboratorio
+724 , CPES0415.01 , Operación de equipo de cubierta y artes de pesca para captura de atún por el sistema de cerco
+725 , CPES0473.01 , Cultivo de especies piscícolas dulce acuícolas por el sistema semi intensivo
+726 , CPES0573.01 , Supervisión del cultivo de camarón por el sistema semi intensivo
+727 , CPLA0131.01 , Obtención de productos de plástico por inyección
+728 , CPLA0132.01 , Obtención de productos de plástico por extrusión
+729 , CPLA0179.01 , Obtención de productos de plástico a través del proceso de extrusión soplo
+730 , CPLA0229.01 , Obtención de productos de plástico reforzado
+731 , CPLA0230.01 , Obtención de productos de plástico por filamento continuo
+732 , CPLA0291.01 , Reciclado de productos de plástico
+733 , CPLA0373.01 , Termoformado de productos plásticos
+734 , CPOD0189.01 , Servicio podológico preventivo
+735 , CPOD0217.01 , Terapéutica podológica
+736 , CPOR0297.01 , Operación de montacargas
+737 , CPOR0298.01 , Supervisión de maniobras portuarias
+738 , CPOR0315.01 , Operación de equipo para maniobras portuarias
+739 , CPOR0338.01 , Inspección de embarcaciones
+740 , CPOR0381.01 , Acomodo y sujeción de la carga
+741 , CPOR0382.01 , Mantenimiento de embarcaciones menores de fibra de vidrio
+742 , CPOR0383.01 , Supervisión de almacenamiento
+743 , CQMC0112.01 , Operación de procesos químicos mediante sistema automático de control
+744 , CQMC0122.01 , Control de procesos químicos
+745 , CQMC0123.01 , Operación de procesos químicos en área operativa
+746 , CQMC0295.01 , Obtención de productos químicos molidos
+747 , CQMC0296.01 , Obtención de productos químicos destilados
+748 , CQMC0326.01 , Manejo de líquidos
+749 , CQMC0327.01 , Mezclado de productos químicos
+750 , CQMC0417.01 , Aplicación de pintura en polvo
+751 , CQMC0418.01 , Instalación de tuberías para el traslado de hidrocarburos
+752 , CQMC0421.01 , Servicio de pailería industrial
+753 , CQMC0466.01 , Obtención de productos químicos por absorción
+754 , CQMC0470.01 , Obtención de productos químicos por extracción
+755 , CRCH0156.01 , Integración de personal a la organización
+756 , CRCH0201.01 , Operación del sistema administrativo de gestión humana
+757 , CRCH0233.01 , Planeación estratégica de recursos humanos
+758 , CRCH0386.01 , Administración de la capacitación
+759 , CRCH0542.01 , Diseño e impartición de cursos de capacitación
+760 , CRCH0542.02 , Diseño e impartición de cursos de capacitación
+761 , CRCH0664.01 , Impartición de cursos de capacitación
+762 , CRCH0665.01 , Diseño didáctico para la capacitación
+763 , CREG0412.01 , Atención a usuarios en la inscripción de los actos del estado civil de las personas
+764 , CREG0413.01 , Atención a usuarios en los servicios de certificación de los actos del estado civil resguardados
+765 , CSAD0448.01 , Reconocimiento aduanero
+766 , CSAD0540.01 , Representación del agente aduanal en los actos y formalidades del despacho aduanero
+767 , CSCE0535.01 , Comercio electrónico básico operativo, cadena de abasto
+768 , CSCE0536.01 , Comercio electrónico básico operativo, compras
+769 , CSCE0537.01 , Comercio electrónico básico operativo, procesos administrativos internos
+770 , CSCE0572.02 , Comercio electrónico para PyMES
+771 , CSCE0575.01 , Intercambio electrónico de datos
+772 , CSCE0598.01 , Determinación de estrategias de comercio electrónico para ofrecer respuestaeficiente al consumidor
+773 , CSCS0397.01 , Servicios de embellecimiento del cabello
+774 , CSCS0509.01 , Control interno de los servicios de limpieza
+776 , CSCS0662.01 , Cuidado del adulto mayor
+777 , CSCS0668.01 , Servicios generales de cuidado de niños, niñas y adolescentes
+778 , CSDO0274.02 , Servicios de lavado y planchado de prendas
+779 , CSDO0275.02 , Servicios generales de limpieza
+780 , CSDO0325.03 , Servicios generales de alimentación
+781 , CSED0260.01 , Desarrollo de diagnósticos de servicios
+782 , CSED0261.01 , Obtención de información para la toma de decisiones
+783 , CSED0262.01 , Análisis e interpretación de información en estudios de evaluación
+784 , CSED0263.01 , Desarrollo de estudios de evaluación
+785 , CSED0264.01 , Desarrollo de programas y proyectos
+786 , CSED0265.01 , Presupuestación de programas y proyectos
+787 , CSED0452.01 , Desarrollo y evaluación de la competencia laboral de capacitandos con base en una Norma Técnica de Competencia Laboral
+788 , CSEG0064.02 , Servicios contra incendios
+789 , CSEG0092.01 , Atención prehospitalaria básica
+790 , CSEG0093.01 , Soporte básico de vida y primeros auxilios
+791 , CSEG0121.01 , Atención prehospitalaria avanzada
+792 , CSEG0190.01 , Primera respuesta a emergencias que involucran materiales peligrosos
+793 , CSEG0191.01 , Respuesta técnica a emergencias que involucran materiales peligrosos
+794 , CSEG0302.01 , Muestreo de emisiones contaminantes a la atmòsfera en fuentes fijas
+795 , CSEG0339.02 , Control básico de plagas urbanas
+796 , CSEG0443.01 , Verificación de las condiciones de seguridad e higiene del centro de trabajo
+797 , CSIM0519.01 , Comercialización de bienes inmuebles
+798 , CSOL0341.02 , Inspección de soldadura. Categoría 1
+799 , CSOL0343.02 , Inspección de Soldadura. Categoría 2
+800 , CSOL0437.01 , Aplicación de soldadura por arco metálico protegida con gas (GMAW)
+801 , CSOL0460.02 , Inspección de soldadura. Categoría 3
+802 , CSOL0490.01 , Aplicación de soldadura oxiacetilénica (autógena). (OFW - A)
+803 , CSOL0491.01 , Aplicación de soldadura por resistencia (RW)
+804 , CSOL0492.01 , Realización de corte con oxígeno y gas combustible (OFC)*
+805 , CSOL0493.01 , Aplicación de soldadura por arco con electrodo metálico revestido (SMAW)
+806 , CSOL0494.01 , Aplicación de soldadura por arco sumergido (SAW)
+807 , CSOL0495.01 , Aplicación de soldadura por arco con tungsteno y gas (GTAW)
+808 , CSOL0496.01 , Aplicación de soldadura protegida con gas (GMAW) en acero inoxidable
+809 , CSOL0497.01 , Aplicación de soldadura por arco con alambre tubular (con núcleo de fundente) (FCAW)
+810 , CSOL0498.01 , Realización de trabajos de recubrimiento con soldadura
+811 , CSPU0362.01 , Funciones básicas de la actuación policial
+812 , CSPU0363.01 , Investigación criminalística
+813 , CSPU0401.01 , Regulación del tránsito de vehículos, personas y transporte
+814 , CSPU0595.01 , Detección de drogas, personas, substancias y artefactos explosivos con perros deintervención
+815 , CSPV0194.02 , Vigilancia de accesos
+816 , CSPV0349.02 , Instalación de sistemas electrónicos de detección y alarma
+817 , CSPV0402.02 , Protección de personas (personalidades) en zona de movimiento
+818 , CSPV0403.02 , Conducción de unidades caninas de seguridad
+819 , CSPV0574.01 , Traslado de valores
+820 , CSPV0648.01 , Adiestramiento básico de perros
+821 , CSSA0359.01 , Dictamen de muestras citológicas
+822 , CSSA0400.01 , Obtención de la imagen de la estructura anatómica del paciente
+823 , CSSA0409.01 , Contribución en la recuperación de las capacidades físicas de las personas
+824 , CSSA0410.01 , Control y restablecimiento de la función pulmonar de las personas
+825 , CSSA0592.01 , Codificación de información médica
+826 , CSSA0646.01 , Limpieza y desinfección de los establecimientos de salud
+827 , CSUE0354.01 , Ejecución del plan de manejo de suelos
+828 , CSUE0355.01 , Dirección y evaluación del plan de manejo de suelos
+829 , CSUE0356.01 , Elaboración del plan de manejo de suelos
+830 , CSUE0672.01 , Producción agrícola en labranza de conservación
+831 , CSUE0673.01 , Desarrollo y evaluación de proyectos agrícolas en labranza de conservación
+832 , CTEL0175.02 , Instalación y mantenimiento de fibra óptica
+833 , CTEL0176.03 , Operación de sistemas de transmisión para jerarquía digital plesiócrona (PDH)
+834 , CTEL0177.03 , Operación de sistemas de transmisión para jerarquía digital síncrona (SDH)
+835 , CTEL0243.02 , Operación de sistemas inalámbricos
+836 , CTEL0303.02 , Operación para servicios de acceso básico
+837 , CTEL0304.02 , Construcción y mantenimiento de la red de acceso de cobre
+838 , CTEL0337.02 , Operación de equipo para proporcionar servicios de acceso de alto orden
+839 , CTEL0449.01 , Operación y mantenimiento de sistemas de conmutación por paquetes en redes de área amplia (WAN)
+840 , CTEL0450.01 , Operación y mantenimiento de sistemas de conmutación por paquetes en redes de área local (LAN)
+841 , CTEL0451.01 , Operación y mantenimiento de sistemas de conmutación de circuitos
+842 , CTEL0454.01 , Instalación de sistemas de conmutación
+843 , CTEX0287.01 , Preparación de hilatura de fibra corta
+844 , CTEX0329.01 , Preparación de fibra para hilatura de alto voluminizado
+845 , CTEX0407.01 , Urdido de hilo para tejidos de calada
+846 , CTEX0467.01 , Engomado de hilos para tejidos de calada
+847 , CTEX0468.01 , Preparación de hilos para tejidos de calada
+848 , CTIN0446.02 , Lavado de ropa en proceso industrial
+849 , CTIN0447.01 , Planchado de prendas en procesos con vapor
+850 , CTIN0476.01 , Atención y venta de servicios en tintorerías y lavanderías
+851 , CTIN0529.01 , Deslavado y teñido de prendas nuevas
+852 , CTOF0199.01 , Establecimiento de comunicación con el cliente
+853 , CTOF0200.01 , Atención a clientes mediante información documental
+854 , CTUP0340.01 , Conducción de transporte público colectivo
+855 , CTUP0385.01 , Conducción de transporte público individual
+856 , CTUP0506.01 , Conducción del tren metropolitano
+857 , CTUP0532.01 , Verificación a empresas de transporte público de pasajeros
+858 , CTUP0571.01 , Operación del tren ligero
+859 , CTUP0583.01 , Mantenimiento a la línea elevada del trolebús
+860 , CTUP0584.01 , Mantenimiento a la vía permanente del tren ligero
+861 , CTUP0585.01 , Operación del trolebús
+862 , CTUR0006.02 , Coordinación de los servicios de alimentos y bebidas
+863 , CTUR0007.03 , Preparación de alimentos
+864 , CTUR0008.02 , Preparación de bebidas
+865 , CTUR0014.02 , Supervisión del arrendamiento de vehículos
+866 , CTUR0015.02 , Operación de arrendamiento de vehículos
+867 , CTUR0030.01 , Venta de servicios integrales de viaje
+868 , CTUR0032.02 , Servicio a comensales
+869 , CTUR0032.03 , Servicio a comensales
+870 , CTUR0051.02 , Coordinación de los servicios de hospedaje
+871 , CTUR0052.02 , Servicio de atención al huésped
+872 , CTUR0054.02 , Servicio de atención a cuartos y áreas públicas
+873 , CTUR0124.01 , Planeación y control de recursos materiales
+874 , CTUR0125.01 , Comercialización de servicios integrados de viaje
+875 , CTUR0130.01 , Desarrollo y coordinación de recursos humanos en establecimientos turísticos
+876 , CTUR0152.01 , Operación del turismo de aventura y ecoturismo
+877 , CTUR0166.01 , Servicios de atención al turismo náutico y sus embarcaciones
+878 , CTUR0185.03 , Supervisión de la comercialización de tiempo compartido
+879 , CTUR0186.03 , Comercialización de tiempo compartido
+880 , CTUR0428.01 , Resguardo del vino
+881 , CTUR0459.01 , Atención al cliente del vino en el lugar de consumo
+882 , CTUR0534.02 , Servicios de conserjería y de comunicación telefónica en hotelería
+883 , CTUR0566.02 , Acondicionamiento físico con técnicas de masajes tradicionales
+884 , CTUR0596.02 , Organización de evento de negocios, sociales y culturales
+885 , CTVC0023.02 , Instalación de acometidas de redes de telecomunicaciones
+886 , CTVC0041.02 , Construcción de redes de telecomunicaciones
+887 , CTVC0042.02 , Iluminación televisiva
+888 , CTVC0073.03 , Registro de imagen con cámara televisiva
+889 , CTVC0074.01 , Instalación del centro de recepción y control de redes de telecomunicaciones
+890 , CTVC0083.01 , Mantenimiento del centro de recepción y control de redes de telecomunicaciones
+891 , CTVC0084.03 , Registro de audio
+892 , CTVC0140.01 , Control de video
+893 , CTVC0141.01 , Mantenimiento a equipos y sistemas de videograbación en televisión
+894 , CTVC0153.01 , Planeación de sistemas de televisión por cable y servicios de telecomunicaciones
+895 , CTVC0196.01 , Proyección técnica de un sistema de televisión por cable y redes de telecomunicaciones
+896 , CTVC0244.01 , Prospección de ventas de servicios de televisión por cable
+897 , CTVC0388.01 , Sistematización de documentación audiovisual
+898 , CTVC0505.01 , Operación de los equipos de generación y transmisión de la señal de televisión y del control maestro
+899 , CVES0029.01 , Ensamble de piezas en prendas de vestir
+900 , CVES0029.02 , Operación de máquinas de confección industrial
+901 , CVES0040.01 , Preparación de piezas en confección
+902 , CVES0099.01 , Corte de piezas para confección
+903 , CVES0100.01 , Tendido de telas
+904 , CVES0101.01 , Trazo de patrones
+905 , CVES0118.01 , Preparación de bultos para confección
+906 , CVES0195.01 , Acabados en prendas de vestir
+907 , CVES0538.01 , Mantenimiento de máquinas de confección
+908 , CVES0539.02 , Elaboración de prendas sartoriales
+909 , CVES0639.01 , Diseño de prendas de vestir
+910 , CVES0640.01 , Desarrollo de prendas de vestir
+911 , CVID0333.01 , Obtención de vidrio
+912 , CVID0334.01 , Formación manual de artículos de vidrio
+913 , CVID0457.01 , Formación de artículos de vidrio mediante procesos automatizados
+914 , CVID0514.01 , Decorado de artículos de vidrio mediante procesos semi y automatizados
+915 , CVID0533.01 , Cortado, pulido y barrenado de piezas de vidrio para la industria automotriz
+925 , NCASS007.01 , Cuidado de las niñas y los niños en centros de atención infantil
+926 , NUASS004.01 , Promoción de servicios de asistencia social
+927 , NUASS005.01 , Atención a personas adultas mayores
+928 , NUASS006.01 , Cuidado de niñas, niños y adolescentes en casas hogar, albergues e internados
+929 , NUASS010.01 , Prestación del servicio de orientación para la integración familiar a nivel preventivo
+930 , NUASS011.01 , Asistencia vía telefónica a víctimas y personas relacionadas en situaciones de violencia de género
+932 , NUCNC002.01 , Diseño del instrumento de evaluación de competencia laboral
+933 , NUCNC003.01 , Dirección del desarrollo de la norma técnica de competencia laboral
+934 , NUCNC004.01 , Evaluación de la competencia laboral de candidatos, referida en Normas Técnicas de Competencia Laboral de una función determinada
+935 , NUCOM004.01 , Almacenamiento de mercancías en establecimientos
+936 , NUCOM005.01 , Registro y cobro de productos, mercancías y servicios en establecimientos
+937 , NUCOM007.01 , Producción de pan bizcocho en tiendas de autoservicio
+938 , NUCOM008.01 , Producción de pan francés en tiendas de autoservicio
+939 , NUCOM009.01 , Dispensación y manejo de medicamentos en farmacias
+940 , NUCOM010.01 , Procesamiento de efectivo y documentos
+941 , NUDEN001.01 , Elaboración de aparatos de ortopedia funcional de los maxilares
+942 , NUDEN002.01 , Elaboración de aparatos de ortodoncia y ortopedia fija
+943 , NUDEN003.01 , Elaboración de prótesis dental removible
+944 , NUGCH001.01 , Impartición de cursos de capacitación presenciales
+945 , NUGCH002.01 , Diseño de cursos de capacitación presenciales, sus instrumentos de evaluación y material didáctico
+946 , NUGCH003.01 , Diseño de cursos de capacitación para ser impartidos mediante Internet
+947 , NUGCH004.01 , Uso didáctico de las tecnologías de información y comunicación en procesos de aprendizaje nivel básico
+948 , NUIAZ001.01 , Implementación de medidas de seguridad en el trabajo y conservación del medio ambiente en el ingenio azucarero
+949 , NUINL001.01 , Interpretación oral de lengua indígena al español y viceversa en el ámbito de procuración y administración de justicia
+950 , NUIPD001.01 , Prestación de servicios de interpretación de la lengua de señas mexicana al español y viceversa
+951 , NUIVC001.01 , Asesoría en materia hipotecaria por vía extrajudicial
+952 , NUIVC002.01 , Asesoría en materia hipotecaria por vía judicial
+953 , NULLA001.01 , Balanceo de llantas por computadora
+954 , NULLA002.01 , Alineación de llantas por computadora
+955 , NUOPT001.01 , Práctica de examen de refracción
+956 , NUOPT002.01 , Adaptación de lentes de contacto
+957 , NUOPT003.01 , Venta de productos ópticos
+958 , NUOPT004.01 , Obtención de lentes oftálmicas graduadas
+959 , NUOPT005.01 , Biselado y montaje de lentes oftálmicas graduadas
+960 , NUOPT006.01 , Supervisión de puntos de venta de productos ópticos
+961 , NURUR001.01 , Coordinación de acciones para el desarrollo rural sustentable municipal
+962 , NURUR002.01 , Cosecha de hortalizas
+963 , NURUR003.01 , Consultoría a empresas rurales
+964 , NURUR004.01 , Coordinación de acciones para la puesta en marcha de proyectos de inversión del sector rural
+965 , NUSFN001.01 , Generación del crédito
+966 , NUSIM001.01 , Asesoría en comercialización de bienes inmuebles
+967 , NUSIM002.01 , Asesoría en materia de crédito de vivienda
+968 , NUSIM002.02 , Asesoría en materia de crédito de vivienda
+969 , NUSIM003.01 , Instalación de recubrimientos cerámicos
+970 , NUSIM004.01 , Administración de inmuebles en condominio
+971 , NUSIM005.01 , Instalación del sistema de calentamiento solar de agua
+972 , NUSIM006.01 , Instalación y mantenimiento de sistemas de aire acondicionado y refrigeración comercial
+973 , NUSPV001.01 , Adiestramiento de perros en el nivel básico de obediencia
+974 , NUSPV002.01 , Conducción de perros de seguridad
+975 , NUSPV003.01 , Cuidado de perros
+976 , NUSPV004.01 , Vigilancia presencial de bienes y personas
+977 , NUSPV005.01 , Coordinación de servicios de vigilancia de bienes y personas
+978 , NUSPV006.01 , Consultoría en sistemas de gestión de la seguridad
+979 , NUSPV007.01 , Custodia de mercancías en movimiento
+980 , NUSPV008.01 , Auditoría de los sistemas de gestión de la seguridad
+981 , NUSTC001.01 , Preparación de órganos para ajuste en banco
+982 , NUSTC002.01 , Preparación del mantenimiento mayor de caja
+983 , NUSTC003.01 , Preparación del motocompresor para su mantenimiento mayor
+984 , NUTEL001.01 , Instalación de acometidas con cable coaxial
+985 , NUTUP001.01 , Operación del vehículo de transporte público colectivo de pasajeros
+986 , NUTUR001.01 , Atención a comensales
+987 , NUTUR002.01 , Limpieza de cocinas industriales
+988 , NUTUR003.01 , Preparación de alimentos
+989 , NUTUR004.01 , Preparación y servicio de bebidas
+990 , NUTUR005.01 , Coordinación de los servicios de alimentos y bebidas
+991 , NUTUR006.01 , Preparación de habitaciones para alojamiento temporal
+992 , NUTUR007.01 , Coordinación de los servicios de limpieza de habitaciones y áreas de estancia para alojamiento temporal
+993 , NUTUR008.01 , Preparación de bebidas con base de café
+994 , NUTUR009.01 , Prestación del servicio de recepción y atención al huésped para su alojamiento temporal
+995 , NUTUR010.01 , Prestación de servicios cosmetológicos faciales
+996 , NUTUR011.01 , Supervisión de las condiciones de re gistro y estancia del huésped
+997 , NUTUR012.01 , Prestación de servicios estéticos corporales
+998 , UCNC0026.03 , Evaluar la competencia laboral de candidatos, referida en Normas Técnicas de Competencia Laboral (NTCL) de una función determinada.
+999 , UCNC0027.03 , Desarrollar instrumentos de evaluación de competencialaboral, referida en NTCL
+1000 , UCNC0028.03 , Verificar internamente el proceso de evaluación de competencia laboralconforme a lo establecido por el Sistema de Certificación de CompetenciaLaboral
+1001 , UCNC0029.03 , Verificar externamente los procesos de verificación interna y evaluación decompetencia laboral
+1003 , NURUR005.01 , Tutoría de cursos de formación en línea
+1104 , CCAF0136.01 , Operación y control del beneficiado húmedo de café
+1105 , CSEG0064.01 , Servicios contra incendios
+1106 , CCON0147.02 , Consultoría general
+1107 , COPT0107.01 , Producción de lentes ópticas
+1108 , CCNS0071.01 , Colado de elementos de concreto simple y de concreto armado
+1109 , CSPV0403.01 , Conducción de unidades caninas de seguridad
+1110 , CAGR0144.01 , Operación de tractor con implementos agrícolas mecánicos e hidráulicos
+1111 , CCNS0218.01 , Análisis de precios unitarios
+1112 , CSOL0343.01 , Inspección de soldadura. Categoría 2
+1113 , COPT0139.01 , Venta de productos y servicios ópticos
+1114 , CFOR0061.01 , Derribo direccional de arboles
+1115 , CCAF0178.01 , Establecimiento y operación de semilleros y viveros de café
+1116 , CFOR0057.01 , Obtención de madera aserrada
+1117 , CCNS0158.01 , Instalación de sistema eléctrico
+1118 , CFOR0162.01 , Prevención, detección y combate de incendios forestales
+1119 , COPT0248.01 , Fabricación de lentes de contacto
+1120 , CPES0056.01 , Engorda y cosecha de camarón por el sistema semi intensivo
+1121 , CART0024.01 , Obtención de la reproducción de impresos, de acuerdo al sistema de impresión enoffset
+1122 , CCNS0068.01 , Construcción de muros de piedra y/o piezas regulares
+1123 , CTUR0006.01 , Desarrollo y coordinación de la preparación de alimentos y bebidas
+1124 , CMTO0320.01 , Obtención de nixtamal y masa
+1125 , CTUR0008.01 , Preparación de bebidas
+1126 , CAPI0270.01 , Cosecha de miel de abeja
+1127 , CTUR0014.01 , Supervisión y coordinación del arrendamiento de vehículos
+1128 , CTUR0033.01 , Apoyo del servicio a comensales
+1129 , CTUR0186.02 , Comercialización de inversiones vacacionales
+1130 , CCOM0390.01 , Servicios de atención telefónica y telemercadeo
+1131 , COPT0106.01 , Producción de anteojos
+1132 , CFOR0058.01 , Producción de plantas
+1133 , CCON0147.01 , Consultoría general
+1134 , CTUR0007.02 , Preparación de alimentos
+1135 , CSPV0194.01 , Vigilancia de accesos
+1136 , CTUR0052.01 , Servicio de atención al huésped
+1137 , CCLZ0048.01 , Terminación del calzado
+1138 , CRCH0387.01 , Impartición de cursos de capacitación
+1139 , CHUL0129.01 , Construcción de productos de hule
+1140 , CTUR0566.01 , Acondicionamiento físico con técnicas de masaje tradicionales
+1141 , CHUL0126.01 , Extrusión de productos de hule
+1142 , CTUR0032.01 , Servicio a comensales
+1143 , COPT0138.01 , Práctica de exámenes de refracción
+1144 , CMAU0331.01 , Afinación de motores a gasolina con sistema de inyección
+1145 , CCOM0046.01 , Dispensación y manejo de medicamentos en farmacias
+1146 , CTUR0031.01 , Coordinación y supervisión del servicio a comensales
+1147 , CCLZ0050.01 , Preparación y pespunte de la capellada del calzado
+1148 , CHUL0128.01 , Mezclado de compuestos de hule
+1149 , CCOM0028.01 , Venta de mercancías en comercio al menudeo Nivel 2
+1150 , CCNS0159.01 , Instalación de sistema hidrosanitario
+1151 , CPES0273.01 , Operación de embarcaciones con motor fuera de borda
+1152 , CTUR0051.01 , Coordinación del servicio a cuartos y áreas públicas
+1153 , CCLZ0049.01 , Ejecución y preparación del corte del calzado
+1154 , CTUR0053.01 , Coordinación del servicio de atención a huéspedes
+1155 , CSPV0349.01 , Intalación de sistemas electrónicos de detección y alarma
+1156 , COPT0187.01 , Adaptación de lentes de contacto
+1157 , CCAF0137.01 , Operación y control del beneficiado seco de café
+1158 , CHUL0127.01 , Vulcanización de productos de hule
+1159 , CTUR0007.01 , Preparación de alimentos
+1160 , CTUR0054.01 , Servicio de atención a cuartos y áreas públicas
+1162 , CMTO0321.01 , Obtención de tortilla
+1163 , NUACH001.01 , Asistencia primaria de un evento adverso
+1164 , NUACP001.01 , Asesoría y suministro de crédito en instituciones de ahorro y crédito popular
+1165 , NUAOP001.01 , Inspección de obra pública federal
+1166 , NUASS012.01 , Supervisión de establecimientos/espacios de atención infantil
+1167 , NUIAZ002.01 , Aplicación de medidas de seguridad alimentaria y calidad en el ingenio azucarero
+1168 , NUINL002.01 , Prestación de servicios de traducción de textos de lengua española a lengua indígena y viceversa en el ámbito de procuración y administración de justicia
+1169 , NUIRN001.01 , Atención a comensales en servicio de especialidades
+1170 , NURUR006.01 , Formulación del diseño de proyectos de inversión del sector rural
+1171 , NUSPV009.01 , Prestación de servicios de instalación y mantenimiento de dispositivos de geolocalización
+1172 , NUSPV010.01 , Gestionar la conformidad de los sistemas de gestión de la seguridad
+1173 , NUSPV011.01 , Monitoreo de los sistemas de geolocalización
+1174 , NUSTC004.01 , Preparación del diferencial para su mantenimiento
+1175 , NUSTC005.01 , Desarmado del boguie
+1176 , NUSTC006.01 , Preparación del enganche del tren para su mantenimiento mayor
+1177 , NUTIC001.01 , Elaboración de documentos mediante un procesador de textos
+1178 , NUTIC002.01 , Elaboración de presentaciones gráficas mediante herramientas de cómputo
+1179 , NUTIC003.01 , Elaboración de libros mediante el uso de procesadores de hojas de cálculo
+1180 , CAGP0226.01 , Producción de agua purificada envasada
+1181 , CAGR0145.01 , Operación de tractor con implementos agrícolas neumáticos y electrónicos
+1182 , CAGR0365.01 , Riego presurizado en parcelas
+1183 , CAPI0232.01 , Fortalecimiento de las colonias de abejas
+1184 , CAPI0318.01 , Aprovechamiento de cera de abeja
+1185 , CAPI0367.01 , Obtención de jalea real
+1186 , CAPI0368.01 , Obtención de propóleo
+1187 , CAPI0419.01 , Obtención de polen
+1188 , CAUT0047.01 , Operación de vehículos de autotransporte
+1189 , CAUT0072.01 , Manejo de carga general durante el viaje
+1190 , CAUT0080.01 , Programación y control del traslado de la carga
+1191 , CAUT0116.01 , Revisión vehicular antes y después del viaje
+1192 , CAUT0167.01 , Traslado de materiales y residuos peligrosos
+1194 , CAUT0423.01 , Conducción y operación de unidades motorrevolvedoras
+1195 , CAUT0455.01 , Revisión y diagnóstico de vehículos de autotransporte de carga general unitarios
+1196 , CAZA0017.01 , Tratamiento de aguas
+1197 , CAZA0018.01 , Generación y distribución de vapor
+1198 , CAZA0086.01 , Planeación y control de la producción y de la cosecha de materia prima
+1199 , CAZA0087.01 , Programación y verificación de la producción y de la cosecha de materia prima
+1200 , CAZA0088.01 , Organización del desarrollo del campo y de la cosecha de la materia prima
+1201 , CCER0155.01 , Preparación y suministro de pasta para procesos de formado
+1202 , CCER0174.01 , Producción de piezas cerámicas por el proceso de vaciado
+1203 , CCER0234.01 , Formado de piezas cerámicas en torno
+1204 , CCHO0235.01 , Elaboración de productos de chocolate y confitería, a partir de corte, depositadomanual y modelado
+1205 , CCLZ0013.01 , Control y supervisión de la fabricación del producto (Calzado)
+1206 , CCNS0069.01 , Armado de elementos estructurales con acero de refuerzo
+1207 , CCNS0070.01 , Cimbrado de elementos estructurales
+1208 , CCNS0160.01 , Instalación y reparación de sistema hidrosanitario residencial
+1209 , CCNS0161.01 , Instalación de sistema de gas
+1210 , CCNS0353.01 , Colocación de recubrimiento de cerámica
+1211 , CCNS0380.01 , Instalación para el aprovechamiento del gas natural para consumos hasta 170,000kJ/h
+1212 , CCNS0406.01 , Operación de la retroexcavadora
+1213 , CCOM0027.01 , Venta de mercancías en comercio al menudeo Nivel 1
+1214 , CCON0085.01 , Implantación y evaluación de nuevos sistemas
+1215 , CCON0148.01 , Diseño y evaluación de sistemas
+1216 , CCON0396.01 , Ventas consultivas
+1217 , CDEN0197.01 , Elaboración de prótesis removible
+1218 , CDEN0198.01 , Elaboración de prótesis fija
+1219 , CDEN0253.01 , Reparación de prótesis dentales
+1220 , CFER0005.01 , Despacho y control de trenes
+1221 , CFRM0012.01 , Producción de formas farmacéuticas sólidas
+1222 , CGRA0520.01 , Almacenamiento y conservación de granos y oleaginosas
+1223 , CJOY0511.01 , Preparación de ceras
+1224 , CJOY0512.01 , Vaciado de metales en joyería
+1225 , CLCH0375.01 , Elaboración de productos lácteos
+1226 , CMAU0289.01 , Mantenimiento de los sistemas de frenos
+1227 , CMAU0332.01 , Afinación de motores a gasolina con carburador
+1228 , CMAU0488.01 , Repintado de los componentes metálicos, plásticos y de madera de la carroceríade vehículo automotriz utlizando equipo programable
+1229 , CMAU0520.01 , Igualado del color en el repintado de los componentes metálicos, plásticos y demadera del vehículo automotriz
+1230 , CMIN0044.01 , Fragmentación de roca
+1231 , CMIN0044.02 , Fragmentación de roca
+1232 , CMIN0094.01 , Transporte y carga de mineral
+1233 , CMIN0095.01 , Aseguramiento de la granulometria del mineral
+1234 , CMIN0096.01 , Recuperación de minerales o metales
+1235 , CMIN0202.01 , Preparación del sistema de fundición de metales y minerales
+1236 , CMIN0203.01 , Obtención de minerales y metales
+1237 , CMIN0259.01 , Obtención de carbón
+1238 , CMIN0478.01 , Operación de la planta beneficio
+1239 , CMIN0479.01 , Carga y acarreo de mineral y tepetate
+1240 , COPT0107.02 , Producción de lentes ópticas y anteojos
+1241 , CPAN0278.01 , Elaboración de pan francés
+1242 , CPAN0279.01 , Elaboración de pan dulce
+1243 , CPAN0322.01 , Elaboración de pasteles y productos de repostería
+1244 , CPES0055.01 , Preparación de estanquería, siembra y control del cultivo de camarón por elsistema semi intensivo
+1245 , CPES0358.01 , Producción de postlarvas de camarón en laboratorio
+1246 , CSCE0572.01 , Planeación de la reconversión de pequeñas y medianas empresas al comercioelectrónico
+1247 , CSDO0274.01 , Lavado y planchado de prendas del hogar
+1248 , CSDO0275.01 , Servicios básicos de limpieza en el hogar
+1249 , CSDO0325.01 , Servicios de alimentación en el hogar
+1250 , CSDO0325.02 , Servicios generales de alimentación
+1251 , CSDO0510.01 , Servicios generales de cuidado de niños y niñas
+1252 , CSEG0339.01 , Control básico de plagas urbanas
+1253 , CSOL0341.01 , Inspección de soldadura. Categoría 1
+1254 , CSOL0460.01 , Inspección de soldadura. Categoría 3
+1255 , CSPV0402.01 , Protección de personas
+1256 , CSUE0527.01 , Aplicación del sistema de labranza de conservación
+1257 , CTEL0175.01 , Instalación y mantenimiento de fibra óptica
+1258 , CTEL0176.01 , Operación de sistemas de transmisión PDH
+1259 , CTEL0176.02 , Operación de sistemas de transmisión de jerarquía digital plesiócrona (PDH)
+1260 , CTEL0177.01 , Operación de sistemas de transmisión SDH
+1261 , CTEL0177.02 , Operación de sistemas de transmisión de jerarquía digital síncrona (SDH)
+1262 , CTEL0242.01 , Operación de sistemas inalámbricos para el servicio movil de radio comunicaciónespecializada
+1263 , CTEL0243.01 , Operación de sistemas de transmisión inalámbrica de alta capacidad
+1264 , CTEL0303.01 , Operación para servicios de acceso básico
+1265 , CTEL0304.01 , Instalación y mantenimiento de la red de acceso de cobre
+1266 , CTEL0337.01 , Operación de equipo para proporcionar servicios de acceso de alto orden
+1267 , CTIN0446.01 , Lavado de ropa en proceso industrial
+1268 , CTUR0015.01 , Operación del arrendamiento de vehículos
+1269 , CTUR0185.01 , Supervisión de la comercialización de inversiones vacacionales
+1270 , CTUR0185.02 , Supervisión de la comercialización de inversiones vacacionales
+1271 , CTUR0186.01 , Comercialización de inversiones vacacionales
+1272 , CTUR0534.01 , Servicios de conserjería y de comunicación telefónica en hotelería
+1273 , CTUR0596.01 , Organización de eventos de negocios, sociales y culturales
+1274 , CTVC0023.01 , Instalación de acometidas de redes de telecomunicaciones y sistemas de televisiónpor cable
+1275 , CTVC0041.01 , Construcción de redes de telecomunicaciones
+1276 , CTVC0042.01 , Iluminación
+1277 , CTVC0073.01 , Registro de imagen con cámara
+1278 , CTVC0073.02 , Registro de imagen con cámara televisiva
+1279 , CTVC0084.01 , Registro de audio
+1280 , CTVC0084.02 , Registro de audio
+1281 , CVES0539.01 , Elaboración de prendas sartoriales
+1300 , CADM0593.01 , Recopilación de información financiera en apoyo contable
+1301 , CADM0594.01 , Control de crédito y cobranza
+1302 , CADM0645.01 , Captación de información demográfica, económica y social
+1303 , CAEL0481.01 , Atención de solicitudes para el servicio a los aparatos domésticos
+1304 , CAEL0500.01 , Mantenimiento a los aparatos domésticos
+1305 , CAGO0666.01 , Producción orgánica de cultivos agrícolas
+1306 , CAGP0226.02 , Producción de agua purificada envasada
+1307 , CAGP0352.01 , Análisis de agua para uso y consumo humano
+1308 , CAGR0143.01 , Operación de cosechadora autopropulsada
+1309 , CAGR0144.02 , Operación de tractor con implementos agrícolas
+1310 , CAGR0364.01 , Riego superficial en parcelas
+1311 , CAGR0365.02 , Riego presurizado en parcelas
+1312 , CAPE0440.01 , Gestión de las prestaciones y remuneraciones del personal
+1313 , CAPE0515.01 , Establecimiento de vínculos y programas de desarrollo de la micro, pequeña ymediana Empresas
+1314 , CAPE0597.01 , Adquisición de bienes y servicios por licitación
+1315 , CAPI0231.01 , Emplazamiento de apiarios
+1316 , CAPI0232.02 , Fortalecimiento de las colonias de abejas
+1317 , CAPI0269.01 , Mantenimiento de la infraestructura apícola
+1318 , CAPI0420.01 , Cría de abeja reina
+1319 , CAPI0528.01 , Prestación del servicio de polinización
+1320 , CAPI0652.01 , Cosecha de miel y cera de abeja
+1321 , CAPI0663.01 , Obtención de propóleos, polen y jalea real
+1322 , CART0024.02 , Reproducción de impresos
+1323 , CART0025.01 , Obtención de la reproducción de impresos, de acuerdo al sistema de impresión enserigrafía
+1324 , CART0045.01 , Impresión en tipografía
+1325 , CART0089.01 , Desarrollo del producto gráfico
+1326 , CART0142.01 , Ejecución del diseño gráfico
+1327 , CART0568.01 , Corte de producto gráfico
+1328 , CART0643.01 , Cosido de producto gráfico
+1329 , CAUP0521.01 , Maquinado de piezas por control numérico
+1330 , CAUP0626.01 , Fusión de metales en hornos
+1331 , CAUP0627.01 , Fabricación de moldes para fundición de metales
+1332 , CAUP0653.01 , Estampado de componentes metálicos y no metálicos y ensamble de piezas metalmecánicas y de autopartes
+1333 , CAUT0047.02 , Operación de vehículos quinta rueda articulados de autotransporte de cargageneral
+1334 , CAUT0072.02 , Manejo y transportación de carga general en caja seca
+1335 , CAUT0080.02 , Programación y control del traslado de la carga
+1336 , CAUT0116.02 , Revisión y diagnóstico de vehículos de autotransporte de carga general quintarueda articulados
+1337 , CAUT0167.02 , Traslado de materiales y residuos peligrosos
+1338 , CAUT0246.01 , Distribución de gas LP y carburante
+1339 , CAUT0422.01 , Operación de vehículos de autotransporte de carga general unitarios
+1340 , CAUT0423.02 , Conducción y operación de unidades revolvedoras
+1341 , CAUT0455.02 , Diagnóstico y determinación del mantenimiento a vehículos de autotransporte decarga general unitarios
+1342 , CAUT0503.01 , Traslado de materiales y residuos peligrosos en vehículos unitarios
+1343 , CAUT0504.01 , Distribución de gas L. P. en autotanque
+1344 , CAZA0001.01 , Manejo de insumos y productos
+1345 , CAZA0002.01 , Preparación de la caña y extracción del jugo
+1346 , CAZA0003.01 , Purificación del jugo. Eliminación primaria de impurezas
+1347 , CAZA0004.01 , Evaporación y cristalización
+1348 , CAZA0009.01 , Centrifugación, secado y envase
+1349 , CAZA0010.01 , Refinación de azúcar con carbón no regenerable
+1350 , CAZA0011.01 , Refinación de azúcar con carbón regenerable
+1351 , CAZA0016.01 , Control del proceso de producción de azúcar
+1352 , CAZA0017.02 , Operación de equipos de tratamiento de aguas
+1353 , CAZA0019.01 , Generación y distribución de energía eléctrica
+1354 , CAZA0020.01 , Transformación de vapor en energía térmica y trabajo mecánico
+1355 , CAZA0077.01 , Control de prioridades de corte
+1356 , CAZA0086.02 , Planeación y control de la producción y de la cosecha de materia prima
+1357 , CAZA0087.02 , Programación y verificación de la producción y de la cosecha de materia prima
+1358 , CAZA0088.02 , Organización del desarrollo del campo y de la cosecha de materia prima
+1359 , CCAF0136.02 , Operación y control del beneficiado húmedo de café
+1360 , CCAF0137.02 , Operación y control del beneficiado seco de café
+1361 , CCAF0178.02 , Establecimiento y operación de semilleros y viveros
+1362 , CCAF0236.01 , Manejo y preservación del café para el beneficio seco
+1363 , CCAF0271.01 , Evaluación de la calidad en el beneficiado de café
+1364 , CCAF0272.01 , Evaluación de la calidad en la industrialización de café verde
+1365 , CCAF0404.01 , Exportación de productos
+1366 , CCAF0475.01 , Tostado y molido de café
+1367 , CCAR0288.01 , Recepción y preparación del ganado a sacrificar
+1368 , CCAR0336.01 , Alimentación, manejo y cuidados del ganado en pastoreo
+1369 , CCAR0384.01 , Alimentación, manejo y cuidados del ganado en confinamiento
+1370 , CCAR0441.01 , Obtención de carne de bovino en canal
+1371 , CCAR0508.01 , Obtención de piezas y cortes de carne
+1372 , CCCA0192.01 , Elaboración de planes de capacitación en el sector rural
+1373 , CCCA0193.01 , Facilitación de procesos de formación de productores rurales
+1374 , CCCA0366.01 , Evaluación de programas de desarrollo rural
+1375 , CCCA0427.01 , Capacitación especializada para el sector rural
+1376 , CCCA0580.01 , Formulación y evaluación de proyectos de inversión del sector rural
+1377 , CCER0155.02 , Preparado de pasta para procesos de formado
+1378 , CCER0157.01 , Manufactura de matrices para productos cerámicos
+1379 , CCER0174.02 , Producción de piezas cerámicas por el proceso de vaciado
+1380 , CCER0234.02 , Formado de piezas cerámicas en torno
+1381 , CCER0300.01 , Producción de piezas cerámicas por tarraja
+1382 , CCER0301.01 , Producción de piezas cerámicas por cabezal giratorio (Roller Head)
+1383 , CCER0312.01 , Producción de piezas cerámicas por prensado
+1384 , CCER0330.01 , Formado de piezas cerámicas por extrusión
+1385 , CCER0371.01 , Forjado a mano de piezas cerámicas
+1386 , CCER0477.01 , Esmaltado de piezas cerámicas
+1387 , CCER0581.01 , Decorado de piezas cerámicas
+1388 , CCER0582.01 , Horneado de piezas cerámicas
+1389 , CCFE0392.01 , Atención de solicitudes de servicio y restablecimiento del suministro de energía eléctrica
+1390 , CCFE0393.01 , Mantenimiento a redes de distribución de energía eléctrica
+1391 , CCFE0545.01 , Análisis del comportamiento del sistema eléctrico de potencia
+1392 , CCFE0546.01 , Planeación de la operación de los equipos en el sector eléctrico
+1393 , CCFE0547.01 , Operación del sistema eléctrico de potencia del área de control
+1394 , CCFE0548.01 , Operación del sistema eléctrico de potencia de la subárea de control
+1395 , CCFE0549.01 , Operación de generadores de vapor en procesos de generación de energía eléctrica en centrales convencionales
+1396 , CCFE0550.01 , Operación del sistema de agua de alimentación de una central termoeléctrica
+1397 , CCFE0551.01 , Operación de equipos de tratamiento de agua por evaporación para la generación de energía eléctrica
+1398 , CCFE0552.01 , Operación de equipos de tratamiento de agua por intercambio iónico para la generación de energía eléctrica
+1399 , CCFE0553.01 , Tratamiento químico del agua en la generación de energía eléctrica
+1400 , NUSIM002.02 , Asesoría en materia de crédito de vivienda
+1401 , EC0270 , Asistencia técnica en producción ovina
+1402 , EC0271 , Coordinación de las actividades operativas de las Redes de recursos fitogenéticos para la alimentación y la agricultura
+1403 , EC0147 , Armado del Puente Diferencial
+1404 , EC0286 , Embalaje de conservas alimenticias
+1405 , EC0149 , Operación de vehículo oficial para transporte de personal
+1408 , EC0142 , Aplicación de recubrimientos industriales en estructuras y edificaciones
+1409 , EC0143 , Aplicación de Masaje Shiatsu
+1410 , EC0144 , Aplicación de impermeabilizantes acrílicos y asfálticos prefabricados en losa
+1411 , EC0148 , Auditoria de Certificación del Sistema de Gestión del Modelo de Equidad de Género
+1412 , EC0150 , Coordinación de procesos en Gestión Educativa Estratégica en Centros Escolares de Educación Básica
+1413 , EC0287 , Obtención de conservas alimenticias comercialmente estériles
+1414 , EC0152 , Promoción de la práctica de la actividad física.
+1416 , EC0153 , Atención a usuarios en la solicitud de servicios en entidades administradoras de agua
+1417 , EC0154 , Prestación de los servicios de limpieza
+1418 , EC0155 , Dirigir el Consejo de Administración de una sociedad cooperativa de los sectores agropecuario o pesquero
+1419 , EC0156 , Manejo básico del equipo de cómputo
+1420 , EC0157 , Manejo de Internet y correo electrónico
+1423 , EC0160 , Desarrollo de código de software
+1436 , EC0174 , Construcción de dispositivos excluidores de tortugas marinas
+1437 , EC0175 , Operación del dispositivo excluidor de to rtugas marinas en redes de arrastre camaroneras
+1438 , EC0176 , Implementación del Acuerdo por el que se emiten las Disposiciones en Materia de Control Interno y se expide el Manual Administrativo de Aplicación General en Materia de Control Interno en la Administración Pública Federal.
+1439 , EC0200 , Operación de Montacargas Horizontal
+1440 , EC0193 , Prestación de servicios de cortes de cabello
+1441 , EC0194 , Operación de Vehículo Colectivo Van
+1442 , EC0202 , Operación de la grúa hidráulica móvil telescópica sobre neumáticos tipo sobre camión en instalaciones petroleras
+1443 , EC0203 , Operación de la grúa hidráulica móvil telescópica sobre neumáticos tipo todo terreno convencional en instalaciones petroleras
+1444 , EC0206 , Coordinación de grupos de trabajo de línea
+1445 , EC0211 , Prestación de servicios para modificar la coloración del cabello
+1446 , EC0212 , Prestación de servicios para peinado de cabello
+1447 , EC0213 , Monitoreo de sistemas de videovigilancia
+1448 , EC0205 , Conducción de práctica de yoga nivel preparador básico
+1452 , EC0191 , Operación de Autobús Urbano
+1453 , EC0207 , Operación de piscinas
+1454 , EC0184 , Operación de lavandería industrial
+1455 , EC0188 , Venta de productos de juegos y sorteos
+1456 , EC0204 , Ejecución de sesiones de Coaching
+1457 , EC0199 , Liderazgo en el servicio público
+1458 , EC0217 , Impartición de cursos de formación del capital humano de manera presencial grupal.
+1459 , EC0197 , Cosecha de caña
+1460 , EC0181 , Facilitación de la información en poder del sujeto obligado
+1461 , EC0192 , Supervisión de Obra en Infraestructura Carretera
+1462 , EC0196 , Promoción de los programas públicos de salud en la población hablante de lengua indígena
+1463 , EC0198 , Establecimiento del servicio doméstico de autotransporte de productos
+1464 , EC0308 , Capacitación presencial a servidoras y servidores públicos en y desde el enfoque de Igualdad entre mujeres y hombres. Nivel básico
+1465 , EC0201 , Operación de la grúa viajera.
+1466 , EC0185 , Impartición de acciones de capacitación presencial con enfoque incluyente
+1467 , EC0189 , Administración de actividades de capacitación en línea en los centros de trabajo
+1468 , EC0190 , Manejo de aplicaciones e información en equipo de cómputo, nivel básico
+1469 , EC0173 , Aplicación de pinturas y recubrimientos decorativos en edificaciones
+1470 , EC0180 , Promoción de cultura del agua
+1471 , EC0182 , Representación de afiliados en su relación con el patrón
+1472 , EC0183 , Prestación del servicio al cliente del Negocio Spa
+1473 , EC0186 , Gestión del Negocio Spa
+1474 , EC0195 , Reparación de cables de energía monopolares de 15 y 23 Kv de mediana tensión de la red eléctrica.
+1475 , EC0208 , Conservación de la red de alcantarillado mediante vehículo de desazolve
+1476 , EC0209 , Operación de plantas potabilizadoras
+1477 , EC0215 , Mantenimiento correctivo a instalaciones eléctricas industriales
+1478 , EC0216 , Tratamiento de aguas residuales con lagunas de estabilización
+1479 , EC0187 , Manejo de trámites ciudadanos y fuentes de información en línea
+1480 , EC0210 , Tratamiento de aguas residuales con tanque Imhoff
+1481 , EC0214 , Tratamiento de aguas residuales con lodos activados
+1484 , EC0226 , Asesoría en procesos de producción de miel
+1485 , EC0228 , Coordinación de acciones de operación del Comité Sistema Producto
+1489 , EC0249 , Proporcionar servicios de consultoría general
+1493 , EC0218 , Administración de Estación de Servicio de la Franquicia PEMEX
+1494 , EC0310 , Mantenimiento a los torniquetes de acceso a transporte terrestre con lector de boletos magnéticos y validador de tarjetas recargables.
+1497 , EC0223 , Asesoría para la búsqueda y selección de programas de posgrado en Centros de Apoyo para Estudios de Posgrado
+1498 , EC0236 , Implementación del programa de activación física
+1499 , EC0225 , Asesoría en los procesos de pr oducción del sistema producto bovinos-carne
+1500 , EC0227 , Atención al cliente en el área de despacho de la Estación de Servicio de la Franquicia PEMEX
+1501 , EC0230 , Desarrollo de líneas de manufactura de componentes automotrices
+1502 , EC0231 , Ejecución del ciclo de desarrollo de componentes automotrices
+1503 , EC0232 , Preparación de jóvenes y adultos en el fútbol asociación.
+1504 , EC0233 , Facilitación de Procesos de Aprendizaje en el entorno del Sector Automotriz
+1505 , EC0256 , Aplicación de la armonización de la contabilidad gubernamental en la Administración Pública
+1506 , EC0257 , Manejo del Sistema Gubernamental Armonizado de Información Financiera (sig@if) Nivel Básico.
+1507 , EC0258 , Promoción de exportaciones, internacionalización de empresas mexicanas y de la inversión extranjera directa en México.
+1510 , EC0261 , Presupuestación del Gasto Público con base en Resultados
+1511 , EC0262 , Venta de boletos, tarjeta recargable y recarga electrónica.
+1512 , EC0263 , Acompañamiento emocional a mujeres diagnosticadas con cáncer de mama
+1513 , EC0264 , Resolución de problemas a través de la Metodología Seis Sigma Nivel I
+1514 , EC0220 , Apoyo a la incorporación y desarrollo de las figuras solidarias e institucionales en lengua indígena y español como segunda lengua.
+1515 , EC0222 , Asesoría, asistencia técnica y capacitación en el sistema bovino de doble propósito
+1517 , EC0244 , Operación de la Motoconformadora
+1518 , EC0224 , Asesoría en el proceso de producción bovino leche
+1520 , EC0235 , Facilitación de sesiones para el desarrollo de competencias con apoyo de tecnologías de información
+1521 , EC0245 , Operación de Vehículo Unitario Taxi Terrestre
+1522 , EC0237 , Instalación de la toma domiciliaria
+1523 , EC0252 , Respuesta a emergencias que involucran materiales peligrosos
+1524 , EC0254 , Venta de productos y servicios vía telefónica.
+1525 , EC0219 , Análisis de Precios Unitarios
+1526 , EC0242 , Mantenimiento preventivo en cambio de aceites lubricantes en vehículos automotores a gasolina
+1527 , EC0251 , Realizar actos administrativos de notificación personal y ejecución emitidos por autoridades fiscales
+1528 , EC0243 , Operación aduanera en el ámbito empresarial
+1529 , EC0234 , Facilitación de sesiones de coaching transformacional
+1530 , EC0229 , Coordinación del Centro de Apoyo para Estudios de Posgrado.
+1531 , EC0241 , Mantenimiento industrial básico
+1532 , EC0253 , Supervisión de la operación en piso de la Estación de Servicio de la Franquicia PEMEX
+1533 , EC0238 , Instalación de micromedidor de flujo de agua
+1534 , EC0246 , Operación del vehículo de transporte público individual
+1535 , EC0247 , Prestación de servicios de consultoría en gestión organizacional
+1536 , EC0248 , Prestación de servicios de limpieza y desinfección de los establecimientos de salud.
+1537 , EC0311 , Mantenimiento preventivo a equipos hidroneumáticos y de bombeo con alternancia y simultáneo para el suministro de agua.
+1538 , EC0312 , Mantenimiento preventivo a sistemas centrales de enfriamiento de aire acondicionado de expansión directa.
+1539 , EC0267 , Gestión de la productividad en el servicio público
+1540 , EC0272 , Cosecha de café
+1541 , EC0277 , Asesoría en comercialización de bienes inmuebles en zonas turísticas
+1542 , EC0279 , Venta de pinturas, recubrimientos y complementos en tiendas de autoservicio
+1543 , EC0288 , Operación de Montacargas Vertical
+1544 , EC0301 , Diseño de cursos de formación del capital humano de manera presencial grupal, sus instrumentos de evaluación y manuales del curso.
+1545 , EC0275 , Inspección de la calidad de semillas en campo
+1546 , EC0290 , Atención de incendios que involucran materiales, productos y sustancias químicas.
+1553 , EC0269 , Asesoría especializada en caprinos
+1554 , EC0276 , Asesoría en materia de crédito de vivienda para el mercado de no afiliados a INFONAVIT y FOVISSSTE
+1555 , EC0278 , Transporte de pinturas, acabados y accesorios relacionados
+1556 , EC0291 , Implementación de acciones de respuesta a emergencias en plantas industriales
+1557 , EC0293 , Elaboración de Peritajes Grafológicos
+1558 , EC0282 , Asesoría en materia hipotecaria por vía extrajudicial
+1559 , EC0281 , Asesoría extrajudicial en créditos vencidos, vía telefónica
+1560 , EC0274 , Formación de formadores para el desarrollo rural sustentable
+1561 , EC0283 , Operación de grúa a bordo de buque
+1562 , EC0285 , Maquinado de piezas por control numérico
+1563 , EC0289 , Preparación de mezclas para la obtención de conservas alimenticias
+1564 , EC0300 , Autonomía e iniciativa personal en la ejecución de actividades en los centros de trabajo
+1565 , EC0306 , Reclutamiento y Selección de Personal Operativo y Administrativo
+1566 , EC0314 , Manejo práctico del vino en establecimientos de venta y consumo
+1567 , EC0265 , Asesoría en materia de contraloría social en la Administración Pública.
+1568 , EC0266 , Gestión de la capacitación en la Administración Pública.
+1569 , EC0284 , Tramitación del despacho de mercancías de importación y exportación en aduanas marítimas
+1570 , EC0309 , Conducción del metro férreo
+1571 , EC0313 , Fabricación de mezcal artesanal
+1572 , EC0315 , Aprender a aprender en los centros de trabajo
+1573 , EC0280 , Proporcionar servicios de consultoría para la familia empresaria
+1574 , EC0303 , Manejo integrado de plagas en grado de inocuidad.
+1576 , EC0292 , Custodia del Material Fílmico Cinematográfico
+1577 , EC0307 , Atención Prehospitalaria Nivel Básico
+1578 , EC0305 , Prestación de servicios de atención a clientes
+1579 , EC0302 , Evaluación de metales en fase líquida por el método espectrofotométrico.
+1580 , EC0304 , Operación de controlador lógico programable
+1581 , EC0316 , Identificación de variedades vegetales
+1586 , EC0321 , Cimbrado manual de elementos estructurales con sistema de moldes monolíticos.
+1587 , EC0322 , Colocación de recubrimientos pétreos y cerámicos en piso y muros
+1590 , EC0325 , Instalación de sistema de calentamiento solar de agua termosifónico en vivienda sustentable
+1594 , EC0329 , Analizar información para el desarrollo de productos de inteligencia
+1596 , EC0331 , Prestación de servicios de micropigmentación facial en nivel básico
+1597 , EC0332 , Prestación de servicios para modifi car permanentemente la estructura del cabello.
+1600 , EC0335 , Prestación de servicios de Educación Inicial
+1601 , EC0336 , Tutoría de cursos y diplomados en línea
+1602 , EC0337 , Uso educativo de dispositivos móviles
+1603 , EC0338 , Atención ciudadana a distancia en materia registral y electoral .
+1604 , EC0339 , Cultivo de papaya
+1605 , EC0340 , Evaluación sensorial básica de producto s acuícola s/pesquero s
+1606 , EC0341 , Fortalecimiento de las c olonias de abejas
+1607 , EC0342 , Manejo sustentable de café
+1608 , EC0343 , Producción de chile habanero a cielo abierto
+1609 , EC0344 , Producción de miel
+1610 , EC0345 , Producción de núcleos y paquetes de abejas
+1611 , EC0346 , Producción de plántula de chile habanero
+1612 , EC0347 , Suministro del servicio de p olinización con abejas en cultivos comerciales
+1613 , EC0348 , Riego presurizado en parcelas
+1614 , EC0349 , Riego superficial en parcelas
+1615 , EC0350 , Tostado de café
+1616 , EC0351 , Armado de elementos estructurales con acero de refuerzo
+1617 , EC0353 , Venta de pinturas, recubrimientos y complementos en establecimientos al menudeo
+1618 , EC0355 , Aplica ción de uñas postizas
+1619 , EC0356 , Cuidado estético de uñas de manos y pies en nivel básico
+1620 , EC0357 , Despacho de materiales sintéticos.
+1621 , EC0358 , Promotoría de p roductos en tiendas de a utoservicio
+1622 , EC0359 , Proporcionar servicios de consultoría a PyME’s
+1623 , EC0352 , Dirigir actividades para montaje de obra mecánica en construcción industrial .
+1624 , EC0354 , Supervi sión del proceso de manufactura/ maquilado
+1625 , EC0360 , Aplicación de la metodología básica de investigación en el ámbito educativo.
+1627 , EC0366 , Desarrollo de cursos de formación en línea
+1628 , EC0371 , Diseño de sistemas básicos de rociadores automáticos contra incendios
+1629 , EC0372 , Diseño del plan estratégico para una institución e ducativa.
+1630 , EC0376 , Facilitación de la i mplementación del Sistema Integral de Medición y Avance de la Productividad y Trabajo Decente en las organizaciones.
+1631 , EC0381 , Liderar generacionalmente a una organización
+1632 , EC0383 , Operación de nóminas e stándar
+1633 , EC0384 , Operación segura de apertura y cierre de circuitos en media y alta tensión
+1634 , EC0385 , Prestación de servicios incluyentes para personas con d iscapacidad
+1635 , EC0389 , Realizar la v ocería de una organización
+1636 , EC0363 , Balanceo de líneas de producción
+1637 , EC0373 , Elaboración de i nvestigación de mercados cuantitativa
+1638 , EC0374 , Elaboración de pólizas contables
+1639 , EC0379 , Levantamiento de información catastral de precisión de predio/inmueble
+1640 , EC0380 , Levantamiento de información catastral del predio/inmueble en camp o
+1642 , EC0397 , Vigilancia del cumplimiento de la normatividad en seguridad y salud en el trabajo.
+1643 , EC0361 , Aplicación de uñas acrílicas postizas en nivel básico
+1644 , EC0364 , Barrena ción con equipo jumbo
+1645 , EC0365 , Calibración de sembradora fertilizadora para labranza de conservación
+1646 , EC0368 , Dirigir las actividades de montaje de equipo e instalaciones eléctricas para obras de construcción i ndustrial
+1647 , EC0369 , Dirigir las actividades en el montaje de tubería s en obras de construcción industrial
+1648 , EC0370 , Dirigir las actividades en la fabricación de spools de tuberías en taller en obras de construcción i ndustrial .
+1650 , EC0377 , Gestión del mantenimiento industrial
+1651 , EC0390 , Rezagar mineral y tepetate con cargador frontal de bajo perfil
+1652 , EC0386 , Producción de planta de café en vivero
+1653 , EC0387 , Pro pagac ión de hortalizas por semilla para trasplante
+1654 , EC0393 , Calibración de cabezales de riego para nutrición de plantas
+1655 , EC0396 , Representación del Agente Aduanal en los actos y formalidades del d espacho aduanero.
+1656 , EC0378 , Instalación de sistemas fotovoltaicos interconectados a la red hasta 10 kW. en baja tensión sin respaldo de baterías
+1657 , EC0394 , Preparación a niños de 6 a 12 años en la inducción de los estilos de natación
+1659 , EC0392 , Atención general a pacientes en idioma distinto al español
+1660 , EC0395 , Preparación de soluciones nutritivas para producción hidropónica
+1661 , EC0367 , Desinfección de sustratos por solarización
+1662 , EC0375 , Esterilización química de sustratos para la producción de plántulas
+1663 , EC0382 , Mantenimiento preventivo a disyuntores de corriente contínua .
+1664 , EC0398 , Aplicación de la armonización de la contabilidad g ubernamental en la Administración Pública
+1665 , EC0399 , Asesoría en materia de contraloría social en la Administración Pública
+1666 , EC0400 , Gestión de la capacitación en la Administración Pública
+1667 , EC0401 , Liderazgo en el servicio público
+1668 , EC0402 , Presupuestación del Gasto P úblico con base en r esultados
+1669 , EC0403 , Dibujo y manufactura de componentes
+1670 , EC0404 , Venta de automotores en agencias distribuidoras
+1671 , EC0405 , Aplicación de pinturas decorativas en edificaciones
+1672 , EC0406 , Asesoría en materia de crédito de vivienda para el mercado abierto
+1673 , EC0407 , Colado simultáneo de muros y losas mediante sistemas de moldes monolíticos
+1674 , EC0408 , Colocación de concreto hidráulico hecho en obra de forma manual y mecánica
+1675 , EC0409 , Construcción de muros y plafones a base de placas de yeso en interiores
+1676 , EC0410 , Ejecució n de trabajos auxiliares de topografía
+1677 , EC0411 , Realizar trabajos de p ailería
+1678 , EC0412 , Gestión de eficiencia energética en la organización
+1679 , EC0413 , Gestión del mantenimiento al sistema energético de inmuebles
+1680 , EC0414 , Instalación de sistemas de iluminación eficientes
+1682 , EC0416 , Operación del mantenimiento al sistema energético de inmuebles
+1683 , EC0417 , Barrenación con máquina rotaria
+1684 , EC0418 , Supervisión de las condiciones del transporte de substancias, materiales y residuos peligrosos
+1688 , EC0422 , Administración de las personas en las organizaci ones
+1689 , EC0423 , Ensamble de productos ortopédicos mediante una máquina de costura
+1690 , EC0424 , Impartición de cursos de formación mediante la Guía de Autoformación SIMAPRO
+1691 , EC0425 , Proporcionar servicios de consultoría en negocios
+1692 , EC0426 , Combate y extinción de incendios estructurales
+1693 , EC0427 , Aplicación de masaje drenaje linfático manual
+1694 , EC0428 , Gestión de la productividad en el servicio público
+1695 , EC0429 , Registr o de establecimientos en el padrón empresarial electrónico.
+1697 , EC0431 , Promoción del ahorro en el desempeño integral de los sist emas energéticos de la vivienda
+1698 , EC0432 , Clasificación arancelaria de mercancías de comercio e xterior
+1699 , EC0433 , Coordinación de refugios para mujeres víctimas de violencia familiar , sus hijas e hijos
+1700 , EC0434 , Gestión de la ejecución de contratos
+1701 , EC0435 , Prestación de s ervicios para la atención, cuidado y desarrollo i ntegral de las niñas y los niños en Centros de Atención Infantil
+1702 , EC0436 , Acarreo de mineral y tepetate con camión fuera de carretera
+1703 , EC0437 , Acarreo de mineral y tepetate con camión de bajo perfil
+1704 , EC0438 , Aplicación del buen uso y manejo de agroquímicos sección campo
+1705 , EC0439 , Facilitación de procesos de desarrollo participativo comunitario para la seguridad alimentaria
+1706 , EC0440 , Operación de secciones de riego por gravedad
+1707 , EC0441 , Asesoría para la venta de productos en tienda departamental.
+1708 , EC0442 , Aplicación de impermeabilizantes acrílicos y asfálticos en frío sobre losa
+1709 , EC0444 , Prestación de servicios educativos comunitarios
+1710 , EC0445 , Captación de Información Empresarial
+1711 , EC0446 , Conducción de procesos de autoconocimiento profundo en el ámbito productivo
+1712 , EC0447 , Desarrollo de prácticas de aprendizaje por competencias
+1713 , EC0443 , Realizar instalación y mantenimiento de sistemas de aire acondicionado y refrigeración comercial
+1714 , EC0449 , Gestión de los Servicios Preventivos de Seguridad y Salud en el Trabajo
+1720 , EC0451 , Colocación de puertas, ventanas y domos prefabricados
+1721 , EC0452 , Operación de la retroexcavadora
+1722 , EC0453 , Realización de trabajos preliminares sobre el terreno, método manual
+1727 , EC0458 , Asesoría en materia de crédito de vivienda
+1728 , EC0460 , Operación del vehículo colectivo van
+1729 , EC0461 , Operación del vehículo unitario taxi terrestre
+1730 , EC0459 , Operación de autobús urbano
+1731 , EC0463 , Integración del tomo apéndice
+1732 , EC0464 , Validación del proyecto de precalificación registral
+1733 , EC0465 , Asesor ía de servicios postventa de automotores en agencias distribuidoras
+1734 , EC0466 , Diagnóstico electrónico automotriz
+1735 , EC0468 , Asistencia en farmacias para la dispensación de medicamentos y demás insumos para la salud .
+1736 , EC0469 , Venta de bebidas no alcohólicas, conservas alimenticias y alimentos perecederos en vehículo de reparto
+1738 , EC0471 , Administración del inmueble de Mini Bodegas para auto -almacenaje .
+1739 , EC0472 , Ejecución de trabajos de c arpintería de o bra blanca
+1740 , EC0474 , Acondiciona miento físic o de jóvenes y adultos para el mantenimiento de la salud
+1741 , EC0475 , Estimulación con actividades acuáticas a niños y niñas de uno a tres años once meses de edad .
+1742 , EC0476 , Organización de eventos locales de natación .
+1743 , EC0477 , Tutoría en la E ducación Media S uperior y Superior
+1744 , EC0478 , Operación del vehículo de quinta rueda
+1745 , EC0479 , Aplicación de la metodología de análisis c ausa raíz en el análisis de incidentes
+1746 , EC0480 , Mantenimiento mecánico, electromecánico y electrónico a equipos de producción de bebidas no alcohólicas y conservas alimenticias
+1747 , EC0481 , Cosecha de berries
+1748 , EC0482 , Interpretación en museos/ instituciones culturales
+1750 , EC0485 , Asesoría para la obtención de pensión en los Sistemas de Seguridad Social en México
+1751 , EC0486 , Compra de libros para librerías
+1752 , EC0487 , Efectuar actos administrativos de notificación personal y ejecución emitidos por autoridades fiscales .
+1753 , EC0488 , Entrega de correspondencia y envíos a domicilio
+1754 , EC0489 , Facilitación de procesos de innovación de mejora competitiva con personas, grupos sociales y organizaciones económicas
+1755 , EC0490 , Gestión ambiental estratégica en las organizaciones productivas y de servicios.
+1756 , EC0491 , Implementación de la Metodología de las 5´S para la mejora continua
+1757 , EC0492 , Implementación de la metodología para la gestión de Perfiles y Mapas de Riesgo en Seguridad y Salud en el Trabajo en la organizaci ón.
+1759 , EC0497 , Orientación telefónica a mujeres y víctimas de la violencia basada en el género
+1761 , EC0462 , Ejecuci ón de las A tribucione s de la Secretaría del Ayuntamiento
+1762 , EC0467 , Dibujo y manufactura de componentes
+1763 , EC0473 , Instalación del sistema de calentamiento solar de agua de circulación forzada con termotanque
+1765 , EC0495 , Operación segura de calderas
+1767 , EC0484 , Asesoría en el cuidado preventivo y beneficios del uso de productos para la salud bucal.
+1768 , E04999 , Conducción del tren n eumático .
+1769 , EC0500 , Acción con legalidad y pre vención de la corrupción en la A dministración Pública.
+1770 , EC0501 , Coordinar actividades de montaje de obra mecánica de construcción i ndustrial .
+1771 , EC0502 , Dirigir las actividades civiles de terracerías, cimentaciones y estructuras de concreto reforzado para obras de construcción i ndustrial .
+1772 , EC0503 , Dirigir las actividades de montaje e instalación de instrumentos para obras de construcción i ndustrial .
+1774 , EC0504 , Operación de una estación total topográfica .
+1775 , EC0505 , Operación del nivel fijo t opográfico .
+1776 , EC0506 , Prestación de servicios de instalación y mantenimiento de sistemas de refrigeración hasta 25 toneladas de refrigeración.
+1777 , EC0507 , Liderazgo para la autonomía de gestión en centros de trabajo educativos.
+1778 , EC0508 , Coordina ción de servicios de extensionismo integral y territorial
+1783 , EC0513 , Aprender a emprender en los centros de trabajo .
+1784 , EC0514 , Asesoría para la obtención de pensión a través del nuevo sistema de cuentas individuales .
+1785 , EC0517 , Operación del sistema de gestión ambiental en las organizaciones productivas y de servicios .
+1786 , EC0515 , Gestión de requisitos para el otorgamiento de licencias de construcción.
+1787 , EC0516 , Gestión para el otorgamiento de licencias de funcionamiento de establecimientos comerciales.
+1788 , EC0518 , Venta especializada de productos y servicios .
+1789 , EC0519 , Operación de ventanilla telegráfica .
+1790 , EC0520 , Fabricación de piezas por desprendimiento de viruta .
+1791 , EC0521 , Preparación del mantenimiento a los sistemas e lectromecánicos.
+1792 , EC0522 , Colocación de concreto hidráulico hecho en obra.
+1793 , EC0523 , Ejecución de trabajos de soldadura por arco eléctrico y alambre tubular con núcleo de fundente FCAW -G con protección de gas en tubería de acero al carbono en posición 6G .
+1794 , EC0524 , Ejecución de trabajos de soldadura por arco eléctrico y electrodo de tungsteno con protección de gas GTAW/TIG en tubería de acero al carbono en posición 6G.
+1795 , EC0525 , Ejecución de trabajos de soldadura por arco metálico protegido con gas GMAW -MIG/MAG en tubería de acero al carbono en posición 6G .
+1796 , EC0526 , Operación de cargador f rontal .
+1797 , EC0527 , Operación de excavadora .
+1798 , EC0528 , Operación de tractor de c adenas .
+1800 , EC0530 , Mantenimiento al aerogenerador .
+1801 , EC0531 , Operación de la grúa móvil .
+1802 , EC0532 , Operación de l vehículo de emergencia .
+1803 , EC0533 , Instalación de aprovechamiento de gas para uso doméstico.
+1806 , EC0536 , Auditoría de los sistemas de gestión del riesgo .
+1807 , EC0537 , Comercialización internacional de productos.
+1808 , EC0538 , Venta de libros en librerías .
+1809 , EC0539 , Atención presencial de primer contacto a mujeres víctimas de violencia de género .
+1810 , EC0540 , Desarroll o de procesos de troquelado
+1811 , EC0541 , Imparti ción del programa de educación para el consumo responsable
+1818 , EC0548 , Consejería en adicciones
+1819 , EC0549 , Realización de los proc esos técnicos en archivos de trá mite
+1822 , EC0552 , Promoción especializada para productos de crédito INFONAVIT
+1823 , EC0553 , Comunicación efectiva en el t rabajo
+1824 , EC0554 , Trabajo en equipo
+1825 , EC0555 , Conducción y manejo del camión motobomba
+1826 , EC0556 , Manejo de equino s
+1827 , EC0557 , Promoción del Desarrollo Rural Sustentable de la Agricultura Familiar
+1830 , EC0560 , Promoción de servicios de Educación Inicial
+1831 , EC0561 , Prestación de servicios de aseo y alimentación en el hogar
+1832 , EC0562 , Obtención de volumetría de movimiento de tier ras mediante una plataforma CAD
+1833 , EC0563 , Diseño de acciones formativas presencial es con enfoque de competencias
+1834 , EC0564 , Diseño de estrategias didácticas aplicando tecnologías de la información y la comunicación
+1835 , EC0565 , Prestación de servicios de consultoría para la familia empresaria
+1836 , EC0566 , Prestación de servicios de consultoría en negocios
+1837 , EC0567 , Impartici ón de cursos con educaci ón experiencial
+1838 , EC0568 , Elaboración de guion de televisión
+1839 , EC0569 , Realiza ción de maquillaje correctivo en medios masivos de comunicación
+1840 , EC0570 , Producción ejecutiva de cine
+1841 , EC0571 , Producción ejecutiva de televisión
+1842 , EC0572 , Prestación de los s ervicios de limpieza integral
+1844 , EC0574 , Supervisión de los servicios de seguridad privada
+1845 , EC0575 , Operación de máquinas de costura recta y overlock
+1846 , EC0576 , Aplicación de soldadura en placa de acero al carbono mediante el proceso FCAW con protección de gas en posición 3G
+1847 , EC0577 , Aplicación de soldadura en placa de acero al carbono mediante el proceso GMAW en posición 3G .
+1848 , EC0578 , Aplicación de b uenas prácticas de manejo de productos pesqueros a bordo de embarcaciones menores
+1849 , EC0579 , Instalación de dispositivos excluidores de peces en redes de arrastre camaroneras
+1850 , EC0580 , Recepción del pago de peaje en plaza de cobro
+1851 , EC0581 , Integración y Funcionamiento de las Comisiones Mixtas de Capacitación, Adiestramiento y Productividad .
+1852 , EC0582 , Conducción y operación de tracto camión quinta rueda para el t ransporte de materiales y residuos peligrosos
+1853 , EC0583 , Manejo y d ispensación de medicamentos g enéricos e n farmacias
+1854 , EC0584 , Manejo y dispensación de medicamentos de libre acceso en farmacias y establecimientos autorizados
+1856 , EC0586 , Instalación de sistemas fotovoltaicos en residencia, comercio e industria
+1858 , EC0573 , Prestación de servicios de seguridad privada i ntegral
+1860 , EC0595 , Manejo de agricultura protegida para pequeños productores
+1862 , EC0597 , Manejo de c ultivo s hortícola s en agricultura protegida
+1864 , EC0599 , Producción de g ranos
+1865 , EC0600 , Mantenimiento preventivo de lubricación para máquinas industriales
+1866 , EC0601 , Realización de c ambio de aceite de motor y ajuste de niveles de fluidos en vehículos automotores a gasolina
+1867 , EC0616 , Prestación de servicios auxiliares de enfermería en cuidados básicos y orientación a personas en unidades de atención médica.
+1868 , EC0617 , Prestación de servicios de representación y apoyo del sindicalismo responsable a los trabajadores
+1869 , EC0618 , Producción de pan artesanal
+1870 , EC0619 , Solución de conflictos mediante técnicas de neuro -negociación
+1871 , EC0620 , Coordinación de las operaciones de restaurantes PYME
+1872 , EC0621 , Mantenimiento de habitaciones para alojamiento temporal
+1873 , EC0622 , Preparación de bebidas con base de café
+1874 , EC0623 , Venta de mezcal en establecimientos de alimentos y bebidas
+1875 , EC060 , Realización de cambio de aceite de motor y ajuste de niveles de fluidos en unidades automotora s a diésel de trabajo pesado
+1876 , EC0603 , Aplicación de herramientas de c omunicaci ón d igital
+1877 , EC0604 , Atención Educativa para Adultos Mayores
+1878 , EC0605 , Facilitación d el proceso de aprendizaje con los usuarios de los servicios educativos y sociales en las unidades territoriales
+1879 , EC0606 , Configuración de equipos de control numérico computarizado para maquinado de pi ezas de aplicación aeroespacial
+1880 , EC0607 , Maquinado de piezas de aplicación aeroespacial en equipos de control numérico computarizado
+1881 , EC0608 , Maquinado de b otones
+1884 , EC0587 , Trasiego en planta de distribución de Gas L.P. a unidades de distribución
+1885 , EC0588 , Prestación del servicio de suminis tro de Gas L.P. a usuario final
+1886 , EC0589 , Ejecución de los procesos operativos del RUV
+1887 , EC0590 , Operación de plataforma de trabajo móvil para elevación de personal
+1888 , EC0591 , Oper ación de trabajo en altura con andamios tipo torre/estructura
+1891 , EC0611 , Aplicación de extensiones de pestañas una a una
+1892 , EC0612 , Aplicación de prácticas verdes en su área de trabajo
+1893 , EC0613 , Aplicación de uñas acrílicas con técnica escultural
+1895 , EC0615 , Elaboración e implementación de un plan de procuración de fondos
+1942 , EC0624 , Administración de la documentación en archivo de concentración
+1943 , EC0625 , Administra ción de la Obra Pública Municipal
+1944 , EC0626 , Preser vación del lugar de los hechos en la investigación de un posible delito
+1945 , EC0627 , Coordinación del seguimiento a las acciones de sanidad e inocuidad agroalimentaria, acuícola y pesquera
+1946 , EC0628 , Operación de planta de tratamiento de aguas residuales para riegos agrícolas
+1947 , EC0629 , Afinación de motores a gasolina con sistemas de inyección electrónica
+1948 , EC0630 , Aplicación de pintura automotriz.
+1949 , EC0640 , Dire cción técnica de equipos de futbol asociación en etapa base .
+1950 , EC0641 , Gestión de eventos locales de futbol
+1951 , EC0631 , Mante nimiento del sistema de frenos de vehículos.
+1952 , EC0632 , Producción de componentes y sistemas mecánicos
+1953 , EC0642 , Preparación de jóvenes y adultos en la inducción de los estilos de natación
+1954 , EC0643 , Preparación física de futbolistas amateu rs
+1955 , EC0633 , Comercialización de insumos agrícolas
+1956 , EC0634 , Auditoría de la seguridad en la cadena de suministros de comercio exterior
+1957 , EC0645 , Diseño e instrumentación de secuencias didácticas que incluyen el uso de dispositivos móviles
+1958 , EC0646 , Facilitación de procesos de aprendizaje bajo el enfoque por competencias en Educación Media Superior
+1959 , EC0635 , Ejecución de trabajos de soldadura con el proceso SMAW / Soldadura con Arco metálico protegido en tubería de aceros al carbono y baja aleación en posición 6G
+1960 , EC0636 , Ejecución de trabajos de soldadura por arco eléctrico y alambre tubular con núcleo de fundente FCAW -S autoprotegido en tubería de acero al carbono en posición 6G R
+1961 , EC0637 , Evaluación de la calidad de la infraestructura física educativa
+1963 , EC0638 , Instalación y mantenimiento de sistemas electromecánicos
+1964 , EC0639 , Arbitraje de partidos de futbol en etapas de especialización y alta competencia .
+1965 , EC0644 , Diseño de propuestas y estrategias para atender la diversidad con enfoque intercultural en Educación Media Superior
+1967 , EC0647 , Propiciar el aprendizaje significativo en Educación Media Superior y S uperior
+1968 , EC0648 , Mantenimiento a circuitos de control
+1969 , EC0649 , Gestión general de procesos fiduciarios
+1970 , EC0651 , Mantenimiento a motores diésel
+1971 , EC0650 , Fabricación de p iezas /elementos mecánicos en máquinas h erramienta por arranque de viruta.
+1975 , EC0667 , Presta ción de los servicios de hotelería
+1976 , EC0657 , Administración en organizaciones productivas y de servicios
+1977 , EC0658 , Atención de notificación/ejecución de resoluciones judiciales
+1978 , EC0659 , Coordinación de la realización de trabajo con riesgo
+1979 , EC0660 , Gestión de mejora Ki Wo Tsukau en las organizaciones
+1980 , EC0661 , Implementación de un plan de acciones para la mejora de la productividad laboral en la MIPYME en el contexto del trabajo decente
+1981 , EC0662 , Mantenimiento al instrumento de medición taxímetro
+1982 , EC0663 , Prestación del servicio de manejo de plagas urbanas
+1983 , EC0664 , Valuación de alhajas y relojes en ventanilla
+1985 , EC0666 , Tutela los derechos del afiliado al Sistema de Protección Social en Salud
+1986 , EC0668 , Representación de actores de comercio exterior para promover el despacho aduanero directo de las mercancías sin intervención de un agente aduanal
+1987 , EC0669 , Cuidado básico de la persona adulta mayor en domicilio
+1988 , EC0670 , Facilitación para el desarrollo de inteligencia económica y financiera de niños y jóvenes
+1989 , EC0676 , 
+1990 , EC0679 , Uso de la lengua inglesa en un contexto laboral
+1991 , EC0677 , Gestión de mejora Ki Wo Tsukau en organizaciones
+1992 , EC0681 , Aplicación de mortero de cemento en acabados verticales
+1995 , EC0684 , Gestión de las estrategias de seguridad y convivencia ciudadana
+1996 , EC0685 , Identificación, evaluación y control de los factores de r iesgo ergonómico.
+1997 , EC0686 , Facilitación del programa de los 6 pasos de la salud con prevención
+1998 , EC0687 , Prestación de s ervicios de consultoría del Sistema Nacional de Certificación Turístic a
+1999 , EC0672 , Valuación de daños en automóviles
+2000 , EC0688 , Facilitación de los procesos de aprendizaje de nivel superior basados en programas curriculares por competencia
+2001 , EC0689 , Ejecución de las atribuciones de la Hacienda Pública Municipal
+2002 , EC0671 , Realizar la instalación y mantenimiento de un sistema mecatrónico
+2004 , EC0674 , Manejo de residuos peligrosos
+2005 , EC0675 , Operación de una máquina de inyección de plástico
+2006 , EC0678 , Prestación de servicios auxiliares en establecimientos médicos veterinarios zootecnistas .
+2007 , EC0680 , Supervisión en seguridad industrial para líderes de equipos de trabajo
+2029 , EC0690 , Administración de la operación de la Oficina p ostal
+2030 , EC0691 , Administración de los ingresos, egresos y documentación comprobatoria por venta de servicios postales
+2031 , EC0692 , Administración de los recursos asignados a los proyectos especiales que involucren la gestión de requerimientos humanos, materiales y financieros en Correos de México
+2032 , EC0695 , Asesoría de servicios, recepción y entrega de correspondencia y envíos
+2033 , EC0693 , Aplicación del procedimiento de verificación en materia de movimientos transfronterizos de mercancías reguladas ambientalmente
+2034 , EC0694 , Aseguramiento de la operación de las unidades administrativas del Servicio Postal Mexicano
+2035 , EC0698 , Ejecución de las actividades de recepción, clasificación y despacho de correspondencia
+2036 , EC0699 , Entrega de mensajería y paquetería a domicilio
+2037 , EC0696 , Atención a solicitudes para la coordinación de la operación de las Unidades Administrativas de Correos de México
+2038 , EC0700 , Inspección postal en la identificación de irregularidades en el manejo de correspondencia y envíos
+2039 , EC0701 , Operación de actividades de recepción, apertura, clasificación, despacho y de correspondencia y envíos para exportación
+2040 , EC0702 , Operación de automotores para transportar correspondencia y envíos
+2041 , EC0703 , Operación de la correspondencia y envíos procedentes del extranjero
+2042 , EC0697 , Coordinación de actividades de recepción, clasificación, distribución, despacho y control de correspondencia y envíos
+2043 , EC0704 , Proporcionar el servicio de Almacenes e Inventarios
+2044 , EC0705 , Proporcionar servicios de mantenimiento a los bienes, muebles, e inmuebles del organismo
+2045 , EC0715 , Aplicación de micropigmentación estética facial
+2046 , EC0706 , Supervisión de la operación de las unidades administrativas de Correos de México
+2047 , EC0707 , Operación aduanera en el ámbito empresarial
+2048 , EC0718 , Asesoría en actividades de auditoría de una unidad económica
+2049 , EC0719 , Asistencia de procesos físicos para la obtención de productos
+2050 , EC0708 , Aplicación de pinturas y recubrimientos en edificaciones residenciales y comerciales
+2051 , EC0709 , Asesoría en soluciones integrales para el manejo de agua en edificaciones residenciales
+2052 , EC0720 , Asistencia en el desarrollo de procesos químicos
+2053 , EC0710 , Promoción especializada para productos de crédito INFONAVIT
+2054 , EC0711 , Administración de soluciones de e-learning y comercio electrónico
+2055 , EC0712 , Administración para el servicio de almacenaje de bienes
+2056 , EC0721 , Atención al cliente sobre los movimientos de logística
+2057 , EC0713 , Análisis de materiales mediante técnicas cualitativas
+2058 , EC0714 , Análisis de materiales mediante técnicas cuantitativas
+2059 , EC0722 , Atención al comensal
+2060 , EC0723 , Brindar apoyo en el cálculo de los costos de la cadena logística
+2061 , EC0716 , Apoyo en procesos comerciales en el área de ventas
+2062 , EC0717 , Asesoría al cliente para la venta de bienes/servicios
+2063 , EC0724 , Coaching para la Ejecución
+2064 , EC0725 , Comercialización mediante estrategias de comunicación
+2065 , EC0726 , Configuración de sistemas operativos de aplicaciones y servicios
+2066 , EC0727 , Desarrollo de aplicaciones web y móviles
+2067 , EC0729 , Elaboración de productos de panadería y repostería
+2068 , EC0728 , Diagnóstico del estado de circuitos eléctricos y electrónicos
+2069 , EC0730 , Elaboración de la Ruta de Mejora para una Institución Educativa
+2070 , EC0731 , Elaboración del estudio de mercado
+2071 , EC0732 , Fabricación de piezas y estructuras metálicas para el mantenimiento de equipos y mecanismos de transmisión
+2072 , EC0734 , Implementación de redes LAN
+2073 , EC0733 , Implementación de los elementos mecánicos en un sistema mecatrónico
+2074 , EC0735 , Instalación de equipo de cómputo
+2075 , EC0736 , Instalación de máquinas eléctricas rotativas, de equipo de control eléctrico y electrónico
+2076 , EC0737 , Instalación eléctrica y mantenimiento a máquinas eléctricas rotativas
+2077 , EC0738 , Lanzamiento de un producto/servicio en el mercado.
+2078 , EC0739 , Manejo del proceso de suministro de bienes
+2079 , EC0740 , Mantenimiento a equipo de cómputo y software
+2080 , EC0741 , Mantenimiento a equipos neumáticos, hidráulicos y de refrigeración
+2081 , EC0742 , Mantenimiento a sistemas mecatrónicos
+2082 , EC0744 , Operación de procesos contables dentro de un sistema electrónico
+2086 , EC0743 , Manufactura piezas mecánicas en máquinas de control numérico por computadora
+2087 , EC0745 , Operación de redes LAN
+2088 , EC0746 , Organización del transporte de mercancías
+2089 , EC0747 , Preparación de alimentos
+2090 , EC0748 , Preparación de bases culinarias
+2091 , EC0749 , Preparación de bebidas y cocteles
+2092 , EC0750 , Prestación del servicio de soporte técnico a equipos de cómputo
+2093 , EC0751 , Producción de productos químicos mediante procesos de transformación
+2096 , EC0767 , Mantenimiento de extintores de incendio portátiles y sobre ruedas sin locomoción propia
+2097 , EC0752 , Registro de operaciones contables de entidades económicas
+2098 , EC0753 , Facilitación para la educación financiera a través de programas sociales
+2099 , EC0771 , Unión de perfiles de vía por soldadura aluminotérmica
+2101 , EC0754 , Implementación de la educación financiera con enfoque productivo para trabajadores
+2102 , EC0755 , Promoción de la educación financiera para el empoderamiento e igualdad de género de la mujer
+2107 , EC0761 , Aplicación de pintura automotriz sobre superficies metálicas
+2108 , EC0762 , Atención de colisión en crucero a los usuarios de seguros de autos
+2109 , EC0765 , Elaboración de peritaje en hechos de tránsito terrestre
+2110 , EC0766 , Manejo de carga general
+2111 , EC0763 , Determinación de grados Brix /sólidos solubles en el análisis de calidad de alimentos
+2112 , EC0764 , Diseño de sistemas básicos de rociadores automáticos contra incendios
+2117 , EC0768 , Prestación de servicios de cerrajería
+2118 , EC0769 , Implementación de estrategias informativas para la prevención del consumo de drogas en población de 12 a 17 años de edad
+2119 , EC0770 , Supervisión en talleres de material rodante
+2133 , EC0772 , Evaluación del aprendizaje con enfoque en competencias profesionales
+2142 , EC0782 , Aplicación de habilidades genéricas para la competitividad laboral
+2159 , EC0786 , Evaluación del aprendizaje con enfoque formativo
+2160 , EC0787 , Manufactura ción de piezas en cepillo y rectificadora
+2161 , EC0788 , Manufacturación de piezas en equipos de control numérico
+2162 , EC0794 , Producción de planta de café en vivero
+2169 , EC0802 , Comunicación efectiva en las actividades de evaluación y acreditación de los organismos de la evaluación de la conformidad
+2170 , EC0775 , Administración de los servicios públicos municipales
+2171 , EC0803 , Conformado de lámina de acero en carrocería de automóvi les
+2172 , EC0807 , Pintado de plástic os en carrocería de automóviles
+2173 , EC0808 , Promoción de orden, limpieza y formación de valores en la familia
+2174 , EC0809 , Promoción de productos farmacéuticos asignados al visitador médico en un territorio geográfico determinado
+2175 , EC0811 , Trabajo en Equipos Multiculturales
+2176 , EC0810 , Realización de soporte técnico para la operación de Tecnologías de Información y C omunicación en las organizaciones
+2178 , EC0813 , Conducción de autobús de pasaje y turismo
+2179 , EC0815 , Prestación del servicio de transporte escolar/personal
+2185 , EC0814 , Conducción de transporte de carga ligera
+2186 , EC0780 , Aplicación de pinturas y recubrimientos decorativos en edificaciones
+2187 , EC0773 , Tutoría presencial de programas de formación de capital humano
+2188 , EC0774 , Supervisión del diseño de cimentaciones y estructuras para proyectos de líneas de transmisión aéreas
+2190 , EC0776 , Atención oral en lengua indígena en materia de acceso a la información pública y datos personales
+2191 , EC0777 , Ejecución de las atribuciones de la contraloría municipal
+2200 , EC0121.01 , Elaboración de proyectos de aprendizaje integrando el uso de las tecnología s de la información y la comunicació n
+2201 , EC0778 , Inscripción de actos y hechos jurídicos relativos al estado civil de las personas
+2202 , EC0779 , Transversalización de la perspectiva de género en la administración pública municipa l
+2203 , EC0781 , Elaboración de artículos de estudios de investigación sobre actividad física y deporte
+2204 , EC0805 , Evaluación en organismos de evaluación de la conformidad con fines de evaluación y acreditación
+2205 , EC0806 , Impartición de programas comunitarios
+2206 , EC0785 , Elaboración de argumentos sobre la práctica didáctica
+2207 , EC0789 , Manufactura ción de piezas en fresadora
+2208 , EC0804 , Embalsamamiento de cadáveres
+2209 , EC0783 , Asesoría en suplementación alimenticia para la actividad física y el deporte
+2210 , EC0784 , Atención al cliente vía telefónica
+2211 , EC0790 , Manufacturación de piezas en taladro
+2212 , EC0791 , Manufacturación de piezas en torno
+2213 , EC0792 , Prestación de servicios auxiliares en el manejo del material de consumo en unidades de atención médica
+2214 , EC0793 , Prestación de servicios auxiliares en el uso de equipo médico e instrumental en unidades de atención médica
+2215 , EC0801 , Aplicación de soldadura en lámina de acer o en carrocería de automóviles
+2216 , EC0816 , Conducción de práctica de yoga nivel preparador avanzado
+2217 , EC0817 , Coordinación de la operación de las acciones de sanidad e inocuidad agroalimentaria, acuícola y pesquera
+2218 , EC0822 , Coordinación de la ejecución de la obra pública
+2219 , EC0840 , Instalación y mantenimiento de sistemas de climatización
+2220 , EC0828 , Atención al huésped durante su alojamiento
+2221 , EC0852 , Registro de operaciones contables de una entidad fabril
+2222 , EC0865 , Valuación de artículos varios en ventanilla
+2223 , EC0841 , Instalación y mantenimiento de sistemas de refrigeración
+2224 , EC0842 , Moldeado de plásticos por el proceso de extrusión
+2225 , EC0843 , Moldeado de p lásticos por el proceso de inyección
+2226 , EC0844 , Moldeado de plásticos por procesos de compresión
+2227 , EC0845 , Preparación de compuesto para moldeo
+2228 , EC0846 , Preparación de moldes y d ados para los procesos de transformación de plásticos
+2229 , EC0861 , Gestión de la seguridad integral en el trabajo
+2230 , EC0866 , Supervisión de c entro s de asistencia social/c entro s de atención para niñas, niños y adolescentes
+2231 , EC0868 , Asesoría de servicios turísticos en agencias de viajes
+2238 , EC0847 , Promoción de Servicios de Educación Inicial
+2242 , EC0818 , Facilitación de procesos de innovación de mejora competitiva con personas, grupos sociales y organizaciones económicas
+2243 , EC0819 , Inspección sanitaria de productos/materiales agroalimentarios movilizados
+2244 , EC0848 , Realiza r el mantenimiento a sist emas de climatización hasta 25 TR
+2245 , EC0849 , Realiza r el mantenimiento a sist emas de refrigeración hasta 25 TR
+2246 , EC0850 , Realizar instalación y mantenimiento de sistemas d e refrigeración y climatización
+2247 , EC0851 , Reconversión de procesos de manufactura
+2248 , EC0823 , Gestión de la residencia de obra pública
+2249 , EC0824 , Instalación de puertas y ventanas de aluminio
+2250 , EC0826 , Aplicación de soldadura a metales especiales
+2251 , EC0827 , Aplicación del proceso MAG/MIG GMAW para trazado y suelda de placa y tubería de acero al carbono
+2252 , EC0829 , Codificación de comandos y datos de controladores en sistema s mecatrónico s
+2253 , EC0830 , Comercializa ción de servicios turísticos relacionados con el hospedaje
+2254 , EC0831 , Coordinación de eventos
+2257 , EC0853 , Supervisión de limpieza de habitaciones y áreas públicas
+2258 , EC0854 , Supervisión del programa de educación inicial para la organización del módulo
+2259 , EC0855 , Tutoría para el aprendizaje basado en la colaboración y el diálogo
+2264 , EC0862 , Implementación de estrategias para promover la certificación de competencias
+2265 , EC0863 , Operación de ambulancia terrestre de traslado
+2266 , EC0864 , Seguimiento a un programa de entrenamiento deportivo
+2267 , EC0867 , Operación de l vehículo de carga articulado
+2268 , EC0825 , Supervisión de la ejecución de los trabajos de obra pública
+2269 , EC0832 , Coordina ción de servicios de hospedaje
+2270 , EC0857 , Aplicación de eslingado en el proceso de izaje .
+2271 , EC0833 , Coordinación de Servicios educativos
+2272 , EC0834 , Ejecución de software con c odificación de comandos y datos estructurada .
+2273 , EC0835 , Ejecución de software con codificación de comandos y datos orientada a objetos .
+2274 , EC0836 , Elaboración de corte y soldadura a metales ferrosos
+2275 , EC0837 , Elaboración de corte y soldadura en placa y tubería de acero inoxidable
+2276 , EC0858 , Desarrollo de proyectos de regulación técnica/normas
+2278 , EC0820 , Monitoreo de la actividad pesquera ribereña
+2279 , EC0821 , Operación de las acciones técnicas de sanidad e inocuidad agroalimentaria, acuícola y pesquera
+2280 , EC0838 , Elaboración de trazado y soldadura de acero al carbono estructural
+2282 , EC0856 , Gestión de la educación financiera para el sector de ahorro, crédito popular y cooperativo
+2283 , EC0385.01 , Prestación de servicios incluyentes para personas con d iscapacidad
+2284 , EC0869 , Manejo preventi vo de camión unitario tipo C
+2285 , EC0870 , Aplicación de masaje con técnica zapoteca
+2286 , EC0871 , Operación de máquina industrial de coser overlock
+2287 , EC0872 , Operación de máquina industrial de coser recta
+2288 , EC0873 , Aplicación de técnicas fotográficas
+2289 , EC0874 , Preparación y cata de tés
+2290 , EC0875 , Intervención en el estado físico del usuario mediante equinoterapia
+2291 , EC0876 , Conducción de perros para la búsqueda y detección de aromas
+2292 , EC0877 , Prestación de servicios de guía de buceo en aguas abiertas
+2293 , EC0878 , Aplicación del procedimiento de servicios periciales en materia ambiental
+2294 , EC0879 , Supervisión de las condiciones del transporte de substancias, materiales y residuos peligrosos
+2311 , EC0895 , Operación de piscinas
+2312 , EC0888 , Coordinación normativa y operativa de la administración de archivos y la gestión documental del Si stema Institucional de Archivos
+2313 , EC0883 , Aplicación de masaje ayurveda abhyanga
+2314 , EC0899 , Aplicación de m asaje tejido p rofundo
+2315 , EC0900 , Aplicación de m asaje holístico
+2316 , EC0901 , Aplicación de m asaje sueco
+2317 , EC0902 , Aplicación de masaje drenaje linfático manual
+2318 , EC0903 , Promoción especializada para productos de crédito INFONAVIT
+2319 , EC0890 , Entrenamiento de jugadores amateurs en el juego de Frontball
+2320 , EC0893 , Impartición de sesiones de entrenamiento de taichichuan forma 24 para personas adultas mayores
+2321 , EC0894 , Mantenimiento preventivo mayor y diag nóstico de fallas en motores dié sel de equipos de la industria minera
+2326 , EC0887 , Coordinación de la formación dual de educandos en las organizaciones productivas y de servicios
+2327 , EC0891 , Facilitación de la implementación de l programa SOLVE promoción de la salud en el trabajo
+2328 , EC0889 , Elaboración de estudios de riesgo en procesos industriales
+2329 , EC0886 , Atención, cuidado y desarrollo integral de niñas y niños de 4 a 12 años inscritos en el sistema escolarizado en Centros de Bienestar /Atención Infantil con horario extendido
+2330 , EC0897 , Proporcionar consejo breve para la cesación del co nsumo de alcohol y tabaco en el primer nivel de atención en salud
+2332 , EC0896 , Prestación de servicios d e guía en espeleobuceo zonas de cueva niveles 1 y 2
+2336 , EC0898 , Realizar el proceso de impresión digital
+2352 , EC0892 , Gestión para el Reconocimiento de Validez Oficial de Estudios
+2375 , EC0910 , Facilitación del proceso metodológico del Programa Liderazgo Ambiental para la Competitividad , para el desarrollo de proyectos de e co-eficiencia en organizaciones
+2376 , EC0911 , Aplicación de buenas prácticas para el manejo sanitario en los ovinos
+2377 , EC0912 , Promoción en lengua indígena de acciones para el desarrollo sustentable
+2378 , EC0913 , Asesoría en medidores de carrete para tubería a presión
+2379 , EC0915 , Dire cción técnica de equipos de futbol en etapa de especialización
+2380 , EC0916 , Facilitación de la enseñanza del ajedrez
+2381 , EC0917 , Impartición de sesiones de actividad física a personas adultas mayores
+2382 , EC0919 , Aplicación de competencias comunicativas en Lengua Náhuatl para Educación Indígena
+2383 , EC0920 , Prestación de servicios au xiliares en las actividades de promoción, prevención y detección integrada s en los programas naci onales de salud en la comunidad
+2384 , EC0921 , Proporcionar la técnica del m anejo del ábaco japonés soroban en forma presencial , nivel básico
+2385 , EC0922 , Aceptación de riesgos en cultivos de granos básicos
+2386 , EC0923 , Elaboración de programas de aseguramiento en cultivos de granos básicos
+2387 , EC0924 , Prestación de servicio de maquillaje social
+2393 , EC0930 , Elaboración de la preprensa para impresión digital
+2394 , EC0932 , Promoción de valores de orden, limpieza e higiene personal con Ki Wo Tsukau
+2395 , EC0933 , Proporcionar asesoría para el bienestar integral, basado en nutrición natural y mejora de hábitos
+2396 , EC0935 , Gestión de trabajo por proyectos
+2397 , EC0936 , Supervisión de personal de taquilla
+2398 , EC0937 , Unión de perfiles por soldadura derivada de arco eléctrico
+2399 , EC0110.01 , Asesoría en comercialización de bienes inmuebles
+2400 , EC0909 , Facilitación de la información en poder del sujeto obligado
+2401 , EC0914 , Asesoría en sistemas fijos de medición de gasto para canales
+2402 , EC0918 , Verificación de la funcionalidad de los Centros Escolares de Ed ucaci ón Básica
+2403 , EC0934 , Atención de Niñas, Niños y Adolescentes en establecimientos de asistencia social
+2408 , EC0931 , Impartición de Terapias Ecuestres Integrales
+2409 , EC0938 , Prestación de medidas de atención y ayuda inmediata a personas en situación de víctima
+2410 , EC0939 , Aplicación de las reglas para el otorgam iento de l primer crédito hipotecario a las/los traba jador es derechohabientes del INFONAVIT en los diferentes productos
+2411 , EC0940 , Asesor ía en los lineamientos de s ervicio del Esquema de Cobranza Social del INFONAVIT
+2412 , EC0941 , Asesoría en los proces os de Recaudación Fiscal y Administración de la Subcuenta de Vivienda
+2413 , EC0942 , Colocación de pisos industriales de concreto simple
+2414 , EC0943 , Promoción de igualdad y no di scriminación
+2415 , EC0944 , Promoción especializada para productos de crédito en cofinanciamiento
+2416 , EC0945 , Investigación privada para la obtención de datos/elementos/objetos relacionados con u n evento
+2417 , EC0946 , Prestación de servicios integrales de consultoría
+2418 , EC0947 , Vinculación de soluciones de transferencia de conocimiento a sectores público, privado y social
+2419 , EC0948 , Orientación alimentaria a Centros Escolares con prestación de servicio de alimentos para población infantil
+2420 , EC0949 , Operación de la máquina perforadora montada sobre patines en la ejecución de sondeos de exploración geotécnica en suelo y roca
+2421 , EC0951 , Anodizado de piezas aeroespaciales
+2422 , EC0952 , Aplicación de soldadura por inducción en metales f erromagnéticos
+2423 , EC0953 , Coordinar la operación de establecimientos en un centro de eduentretenimiento
+2424 , EC0954 , Cuidado estético de uñas de manos y pies y acabado gel semipermanente
+2425 , EC0955 , Diseño de sistemas de alarma, detección de incendio y notificaciones de emergencia
+2426 , EC0956 , Fumigación de productos almacenados para control de plagas con la aplicación del fosfuro de aluminio y /o fosfuro de magnesio
+2427 , EC0957 , Gestión de bibliotecas escolares
+2428 , EC0958 , Operación de establecimientos en un centro de eduentretenimiento
+2429 , EC0959 , Operación de la f ormación dual en organismos empresariales/empresas
+2430 , EC0962 , Uso de Herramientas Digitales en el Trabajo
+2431 , EC0963 , Atención de Niñas, Niños y Adolescentes con discapacidad en Establecimientos de Asistencia Social
+2432 , EC0966 , Prestación de servicios para el desarrollo de las niñas y los niños a través de actividades de juego en Establecimientos de Asistencia Social
+2433 , EC0967 , Conducción de práctica de yoga para niños
+2437 , EC0120.01 , Promoción de la lectura
+2461 , EC0950 , Elaboración de pan francés y sus variedades
+2462 , EC0960 , Prestación de Servicios de limpieza general , de muebles e inmuebles
+2463 , EC0961 , Prestación de Servicios de pulido/encerado/abrillantado/ lavado de al fomb ras , en muebles e inmuebles
+2464 , EC0964 , Evaluación de la capacidad funcional de personas mayores
+2465 , EC0965 , Manejo inicial de factores de riesgo de discapacidad en personas mayores
+2473 , EC0586.01 , Instalación de sistemas fotovoltaicos en residencia, comercio e industria
+2521 , EC1053 , Asesoría en materia de Contraloría Social en la Administración Pública
+2536 , EC1044 , Desarrollo del proceso de producción piloto en Tecnología de Montaje Superficial
+2544 , EC0997 , Fabricación de piezas/elementos mecánicos mediante máquinas h erramienta s
+2580 , EC1017 , Operación del sistema de admini stración en las organizaciones productivas y de servicios
+2583 , EC1035 , Suministro seguro de combustibles en la Estación de Servicio para el expendio al público de gasolinas y diésel
+2586 , EC1051 , Conducción de tracto camión doblemente articulado en sus distintas configuraciones
+2589 , EC1008 , Manejo de cámaras para producción audiovisual profesional
+2590 , EC0992 , Coordinación de los subsistemas educativos en la formación dual
+2593 , EC1034 , Operación de sistema s de separación de hidrocarburos provenientes de los sistemas de producción
+2596 , EC1039 , Proyección de acuerdos judiciales
+2598 , EC1041 , Coordinación para una sesión de As htanga Yoga
+2599 , EC1042 , Coordinación para una sesión de Yoga especializado
+2600 , EC1043 , Coordinación para una sesión de Yoga para niños de 4 a 12 años de edad
+2638 , EC1077 , Prestación de servicios para la operación de sistemas de producción y uso de biogás
+2814 , EC1200 , Realización del e studio de espirometría
+2815 , EC0538.01 , Venta de libros en librerías
+2816 , EC1201 , Mantenimiento a equipo e instalaciones de audio
+2817 , EC1206 , Preparación del servicio de dieta hospitalaria .
+2818 , EC1210 , Preparación y aseguramiento de la carga en unidad de autotransporte, en territorio nacional
+2819 , EC1211 , Medición de las variables operativas de los sistemas integrales de producción primaria de hidrocarburos
+2820 , EC1212 , Operación del sistema de bombeo de crudo estabilizado
+2821 , EC1213 , Operación de l sistema de compresión de gas natural
+2822 , EC1214 , Operación del sistema de separación de aceite, agua y gas provenientes de los sistemas de producción
+2823 , EC1222 , Evaluación de los programas educativos de Nivel Superior
+2824 , EC1235 , Atención de primer contacto para la búsqueda de personas desaparecidas y no localizadas
+2825 , EC1236 , Implementación de las funciones de los Órganos Internos de Control en la Administración Pública Estatal
+2827 , EC0903.01 , Promoción especializada para productos de crédito INFONAVIT
+2829 , EC1233 , Sumini stro de combustible para aviación
+2830 , EC1234 , Almacenamiento de combustibles para aviación
+2837 , EC1231 , Conducción de vehículos para el transporte terrestre de pasajeros de y hacia los puertos marítimos y aeropuertos fede rales
+2838 , EC1237 , Gestión operativa de los procesos de las Entidades de Certificación y Evaluación (ECE) y de los Organismos Certificadores (OC)
+2839 , EC1224 , Operación de grúa tipos A y B para transporte de vehículos ligeros .
+2840 , EC1225 , Operación de grúa tipos C y D para arrastre de vehículos pesados y semi- pesados .
+2841 , EC1226 , Coordina ción de las maniobras de carga y descarga de mercancías en buques
+2842 , EC1227 , Inspección de vehículos nuevos de exportación e importación .
+2843 , EC1228 , Operación de m ontacargas de gran capacidad en maniobras de carga y descarga
+2844 , EC1229 , Inspección de seguridad de las unidades de transporte terrestre para comercio exterior.
+2845 , EC1215 , Conducción de tra cto camión quinta rueda para el transporte de materiales y residuos peligrosos
+2846 , EC1232 , Depilación facial y corporal con hilo
+2849 , EC1252 , Ejecución de prueba de software
+2850 , EC1251 , Mantenimiento preventivo y correctivo al equipo de distribución y transmisión del sistema pilotaje automático 135KHz a nivel vías
+2851 , EC1249 , Prestación de servicios de traducción de lengua indígena al español y viceversa en diferentes ámbitos
+2852 , EC1250 , Conciliación para la solución de conflictos en materia laboral
+2853 , EC1256 , Gestión de programas socio familiares en el ámbito sindical
+2854 , EC1257 , Cata de destilados nacionales con denominación de origen
+2855 , EC1255 , Coordinación de acciones de gestión sindical con base en Contratos Colectivos de Trabajo (CCT)
+2856 , EC1258 , Gestión de documentos sonoros
+2857 , EC1253 , Asesoría y promoción de productos, servicios y soluciones financieras en instituciones de crédito y ahorro.
+2858 , EC1204 , Elaboración de peritajes técnicos .
+2859 , EC1223 , Desarrollo de proyectos de emprendimiento
+2860 , EC1248 , Gestión de equipos de representantes profesionales de la industria farmacéutica
+2861 , EC1208 , Aplicación de programa individual de e stimulación cognitiva para personas mayores .
+2862 , EC1209 , Brindar a poyo de orientación a cuidadores informales de personas mayores .
+2863 , EC1259 , Ejecución de labores en la modalidad de trabajo a distancia mediante el uso de las tecnologías de información y comunicación
+2864 , EC1254 , Administración de inmuebles en arrendamiento
+2865 , EC1263 , Traducción de textos literarios y humanísticos al español
+2866 , EC1260 , Proporcionar asesoría para el uso de aceites esenciales
+2867 , EC0940.01 , Asesoría en los lineamientos de servicio del modelo de soluciones de pago del Infonavit.
+2868 , EC1265 , Aplicación de competencias suaves para la empleabilidad en el contexto laboral nivel básico
+2869 , EC1264 , Diseño de un modelo de negocio para PyME’s
+2870 , EC1267 , Aplicación de prácticas de higiene y desinfección por parte de los prestadores de servicios turísticos
+2871 , EC1268 , Atención al usuario basada en la cultura del buen trato
+2872 , EC1276 , Elaboración de platillos aplicando técnicas culinarias de la cocina Queretana
+2873 , EC1285 , Mercadotecnia digital y c omercialización transfronteriza
+2874 , EC1286 , Elaboración de productos de pastelería
+2875 , EC1200.01 , Realización del e studio de espirometría
+2876 , EC1271 , Atención inicial al usuario para la recepción de la denuncia conforme al modelo de atención diferenciada de la demanda
+2877 , EC1274 , Atención telefónica a solicitudes de apoyo en emergencias a través de la línea 9 -1-1, conforme al Modelo COSMOS
+2878 , EC1272 , Revisión de las carpetas de investigación para analizar la procedencia de Mecanismos Alternativos de Solución de Controversias en materia penal
+2879 , EC1273 , Aplicación de técnicas para el desarrollo del plan de supervisión de obligaciones judiciales en libertad
+2880 , EC1275 , Detección de las necesidades de protección integral de la persona adolescente a quien se atribuya la realización de una conducta tipificada como delito por las leyes penales y activación de los operadores asistenciales correspondientes
+2881 , EC1269 , Proporcionar técnicas físicas, mentales y artísticas mediante la ejecución de prácticas para el desarrollo de habilidades socioemocionales, en cualquier contexto
+2882 , EC1270 , Prestación de servicios de estimulación temprana individual y grupal en centros de atención y desarrollo de niñas y niños de cuarenta y tres días a cuatro años de edad
+2883 , EC1287 , Ejecución de actividades con apego a la legalidad para prevenir la corrupción en los procesos de la cadena de suministros
+2884 , EC0939.01 , Aplicación de las reglas para el otorgamiento del crédito a los/las trabajadores(as) derechohabientes del Infonavit en las diferentes alternativas de financiamiento.
+2885 , EC1288 , Supervisión de la evaluación económica de medicamentos y tecnologías sanitarias
+2886 , EC1289 , Supervisión de la evaluación técnica de medicamentos y tecnologías sanitarias
+2912 , EC1299 , Instalación de ajustes razonables en vehículos de transporte individual para la inclusión y la movilidad
+2914 , EC1296 , Ejecución de las entrevistas para la conformación de la información aplicativa al Plan de Actividades por Expectativa
+2915 , EC1297 , ulo Registro de la denuncia por delitos patrimoniales con autor desconocido, a través del dispositivo electrónico
+2916 , EC1298 , Administración del sistema integral de audiencias en el ámbito jurídico administrativo
+2917 , EC1302 , Cálculo editorial y precio de venta al público
+2926 , EC1313 , Aplicación de técnicas para el mejoramiento de la apariencia cutánea facial mediante el dermapen
+2927 , EC1280 , Operador de cabina del servicio de grúas
+2928 , EC1283 , Coordinación de la administración y logística de almacenes en los sectores industriales, empresariales, bodegas y en la cadena de suministro de los centros de distribución de mercancías
+2930 , EC1183 , Trabajo seguro en alturas.
+2931 , EC1278 , Aplicación de uñas postizas con sistema de gel
+2932 , EC1279 , Inspección de la unidad automotriz en pista de pruebas
+2933 , EC1281 , Diseño de troqueles a través de software CAD/CAE
+2934 , EC1292 , Atención de primer contacto ante la comisión de posibles infracciones/faltas administrativas en el ámbito de justicia cívica
+2936 , EC1314 , Evaluación de la s Instituciones de Educación Superior
+2937 , EC1320 , Evaluación de los programas educativos de Nivel Superior
+2938 , EC1291 , Prestación del servicio de transporte con vehículos terrestres mediante plataformas tecnológicas
+2939 , EC1293 , Asesoría general para proyectos de emprendedores
+2940 , EC1331 , Conducción del vehículo motocicleta para su uso en la vialidad, nivel básico
+2944 , EC1301 , Identificación, prevención y mitigación de riesgos en mate ria aduanera y Comercio Exterior
+2945 , EC1261 , Coaching de finanzas personales
+2949 , EC1305 , Gestión de estrategias para el incremento y remuneración de la productividad
+2950 , EC1306 , Estimar el valor de alhajas y gemas de acuerdo con el propósito, uso y finalidad de su avalúo . Nivel intermedio
+2951 , EC1307 , Impartición de sesiones/clases síncronas utilizando plataformas, dispositivos y herramientas digitales
+2952 , EC1311 , Registro del Informe P olicial Homologado del Policía en funciones de “Primer Respondiente” por la probable comisión de una infracción administrativa
+2955 , EC1277 , Aplicación de uñas acrílicas en nivel avanzado
+2956 , EC1312 , Registro del Informe Policial Homologado del Policía en funciones de “Primer Respondiente” ante un hecho probablemente delictivo
+2957 , EC1336 , Prestación de servicios cosmetológicos faciales y corporales
+2958 , EC1319 , Interpretación de conferencia de lengua de señas mexicana <> español
+2959 , EC1310 , Construcción de aulas virtuales de aprendizaje
+2960 , EC1338 , Apoyo en la identificación de las habilidades de la vida cotidiana y académicas de la persona con diagnóstico de discapacidad intelectual
+2961 , EC1332 , Aplicación de la Entrevista Integral Interdisciplinaria para la detección de las necesidades de la víctima
+2962 , EC1333 , Prestación de s ervicios de atención y orientación a víctimas de delito, derivado de un Procedimiento Penal Acusatorio
+2963 , EC1337 , Facilitación de sesiones de carácter vivencial a través de prácticas socioemocionales
+2964 , EC1348 , Realizar una entrega segura de mercancía s/producto s en motocicleta
+2965 , EC1345 , Coordinación del ensamble de despensas
+2966 , EC1365 , Desarrollo de la creativida d e innovación de un producto o servicio dentro de una organización
+2967 , EC1366 , Atención para la protección especializada de niñas/niños/adolescentes y personas adultas pertenecientes a grupo vulnerable/prioritario en contexto de migración
+2971 , EC1343 , Manejo integral de tratamientos estéticos faciales
+2972 , EC1364 , Prestación de s ervicios de limpieza y desinfección , con el uso de equipo de protección en establecimientos de salud
+2976 , EC1344 , Generación de negocios sostenibles y escalables
+2977 , EC1347 , Aplicación de Masaje Tuina
+2978 , EC0217.01 , Impartición de cursos de formación del capital humano de manera presencial grupal
+2979 , EC1346 , Esterilizar dispositivos médicos
+2980 , EC1335 , Identificación de actos/acciones en materia de anticorrupción e integridad en el ámbito de responsabilidad
+2981 , EC1309 , Gestión de habilidades gerenciales en las organizaciones
+2982 , EC1300 , Diseño de moldes de inyección de plástico para termoplásticos a través de software CAD/CAE
+2983 , EC1262 , Aplica ción de entrevistas para la investigación de información
+2984 , EC1342 , Elaboración de discos y tambores de hierro gris.
+2985 , EC1303 , Impleme ntación y mantenimiento de sistemas electrónicos
+2986 , EC1370 , Medición dinámica de flujo de líquidos en sistemas cerrados
+2996 , EC1282 , Desarrollo de software /sistema y aplicaciones informáticas
+2997 , EC1368 , Atención y o rientación a la persona imputada o requerida por Instituciones de Justicia P enal
+2998 , EC1379 , Preparación de instructores deportivos especializados en Minitenis
+2999 , EC1381 , Aplicación de técnicas para el desarrollo de la evaluación de riesgos procesales
+3000 , EC1367 , Dar seguimiento a Acuerdos Reparatorios de Cumplimiento Diferido Incumplidos
+3001 , EC1376 , Prestación del servicio de Lectura de Tonalamatl
+3002 , EC1304 , Impleme ntación y mantenimiento de sistemas hidráulicos y neumáticos
+3003 , EC1317 , Realizar la orientación perinatal a la mujer embarazada y su acompañante en forma presencial grupal
+3004 , EC1316 , Brindar acompañamiento como doula a la mujer embarazada durante el nacimiento y el puerperio
+3005 , EC0869.01 , Manejo preventivo de camión unitario tipo C
+4004 , EC1363 , Gestionar la central de esterilización en los establecimientos de salud
+4005 , EC1356 , Cumplimiento a las disposiciones normativas referentes a la Cédula de Operación Anual (COA ) para el sector productivo en México
+4007 , EC1372 , Preparación de gimnastas de artística femenil en la categoría 1
+4008 , EC1375 , Prestación de servicios auxiliares en la contribución tradicional y complementaria de la recuperación de las condiciones físicas y socioemocionales de las personas
+4009 , EC1334 , Aplicación de controles de revisión, verificación y seguimiento para el cumplimiento de la normatividad por la incorporación en la administración pública municipal
+4010 , EC1357 , Cumplimiento normativo de las condiciones y relaciones laborales del sector productivo con base en el T -MEC
+4011 , EC1354 , Operación segura de auto -tanques para la distribución de Gas L.P.
+4012 , EC1380 , Preparación de arqueros en etapa de iniciación
+4013 , EC1371 , Atención en primeros auxilios
+4014 , EC1369 , Conducción y operación de vehículos de emergencia tipo ambulancia terrestre
+4015 , EC1374 , Conciliación para la solución de conflictos en materia laboral individual
+4016 , EC1315.01 , Auxiliar en la prevención y atención de las lesiones de la piel de la persona con dependencia al cuidado
+4017 , EC1318.01 , Brindar orientación en salud sexual y salud reproductiva para las personas
+4018 , EC1395 , Preparación de alim entos en centros penitenciarios
+4021 , EC1400 , Detección y orientación ante riesgos de vulneración de derechos en niñas, niños y adolescentes para proteger su integridad
+4022 , EC1391 , Prestación de servicios de cosmiatr ía estética
+4023 , EC0307.01 , Atención prehospitalaria nivel básico
+4024 , EC1378 , Diseño del Plan de Continuidad de los Servicios E ducativos ante una condición de emergencia y sus etapas de crisis
+4025 , EC1393 , Aplicación de acciones básicas de seguridad para los usuarios de instituciones de s alud
+4029 , EC1351 , Valoración de la operatividad de las Unidades Médicas , de acuerdo con la seguridad estructural y la seguridad no estructural
+4030 , EC1352 , Valoración de la seguridad y la capacidad funcional de las Unidades Médicas en situaciones de desastre
+4031 , EC1362 , Inspecció n de las condiciones de almacenaje del buque para la operación de carga /descarga de mercanc ía de importación y exportación
+4035 , EC1410 , Gestión de procesos de coaching educativo
+4036 , EC1412 , Administración de cuentas estratégicas clave y acceso de productos farmacéuticos
+4037 , EC1439 , Coordinación de acciones de gestión sindical con base en Contratos Colectivos de Trabajo (CCT)
+4039 , EC1359 , Operación de grúa de pluma tipo pato en maniobras auxiliares de montaje y desmontaje
+4040 , EC1360 , Ejecución de los actos y gestiones administrativas con relación a la embarcación en el puerto de consignación
+4041 , EC1361 , Operación d el vehículo de arrastre bimodal para maniobras de equipo ferroviario
+4042 , EC1394 , Prestación de servicio s en prótesis fija o removible dentales.
+4043 , EC1409 , Enseñanza del emprendimiento
+4044 , EC1413 , Aplicación de masaje con técnica polaridad
+4047 , EC1373 , Prestación del servicio de Temazcalli con Xictli integrado
+4048 , EC1377 , Prestación del servicio de Temazcalli con Xictli al centro
+4049 , EC1405 , Desarrollo del proceso de legitimación de contratos colectivos de trabajo .
+4051 , EC1425 , Detección de posibles víctimas de trata de personas durante las diligencias migratorias en el marco de protección a los Derechos Humanos
+4052 , EC1396 , Proporcionar el servicio de investigación genealógica para la elaboración del árbol genealógico y de historia familiar.
+4053 , EC1401 , Monitoreo comunitario de la biodiversidad en Áreas Naturales Protegidas para su manejo y conservación
+4057 , EC1426 , Revisión de documentación de identidad y viaje de las personas connacionales y extranjeras con base en estándares nacionales e internacionales y en el marco del respeto a los Derechos Humanos
+4058 , EC1349 , Estimación del valor de maquinaria y equipo de acuerdo con el propósito, uso y finalidad del avalúo
+4060 , EC1424 , Prestación de servicios para la promoción alimentaria con base en los productos derivados de la milpa
+4061 , EC1441 , Conducción y operación de grúas tipos A y B para el arrastre y transporte de vehículos ligeros
+4062 , EC1442 , Conducción y operación de grúa s tipos C y D para el arrastre y transporte de vehículos pesados y semipesados
+4063 , EC1420 , Desarrollo de procesos notariales relacionados con actividades vulnerables
+4064 , EC1428 , Verifica ción del cumplimiento de las Obligaciones de Transparencia en la dimensión portale s
+4065 , EC1430 , Conducción de Autobuses de Trá nsito Rápido en el Sistema de Corredores Metrobús
+4066 , EC1440 , Administración de un Centro de Evaluación de competencia laboral
+4067 , EC1434 , Apoyo en la elaboración de estrategias de movilidad en la Administración Pública Municipal
+4068 , EC1427 , Conciliación para la solución de conflict os en materia laboral colectiv a
+4069 , EC1399 , Gestionar el sistema de integridad en las organizaciones del sector público y privado
+4070 , EC1353 , Implementación de metodología STEM/STEAM
+4071 , EC1417 , Prestación de servicio auxiliar de quiropodia
+4072 , EC1403 , Operación y técnicas de extracción vehicular básicas
+4073 , EC1402 , Prevención, seguridad, rescate y salvamento en albercas/parques acuáticos
+4074 , EC1429 , Verificación del cumplimiento fiscal de una Organización de la Sociedad Civil (OSC)
+4075 , EC1398 , Ejecución de estrategias de potencialización de habilidades individuales para la mejora del desempeño del equipo/grupo
+4076 , EC1416 , Aplicaci ón de habilidades personales de liderazgo en organizaciones
+4077 , EC1392 , Elaboración de pastas alimenticias en grado artesanal e industrial en sus distintas variedades
+4078 , EC1418 , Redacción de documentos e n la empresa
+4079 , EC1422 , Generación y seguimiento de la documentación para la logística de los departamentos reparto, extras y equipo técnico
+4080 , EC1389 , Prestación de servicios preventivo y correctivo a equipo s de refrigeración autocontenidos con carga máxima permisible de hasta 150 gr de refrigerante hidrocarburo .
+4081 , EC1390 , Prestación de servicios de instalación y mantenimiento de sistemas de climatización/aire acondicionado de hasta 3 toneladas de refrigeración
+4082 , EC1421 , Realizar la b úsqueda de locaciones para industria cinematográfica y audiovisual
+4083 , EC1388 , Rescate minero subterráneo
+4086 , EC1419 , Aplicación de protocolos de atención de respuesta inmediata, como integrante de una brigada de primeros auxilios en el centro de trabajo
+4087 , EC1397 , Auxiliar en la estimación del valor de los bienes inmuebles de acuerdo con el propósito, uso y finalidad del avalúo
+4089 , EC1456 , Cata de destilados nacionales con denominación de origen
+4090 , EC1444 , Aplicación de sistemas de alisados progresivos y procedimientos para la reparación y nutrición de la fibra capilar
+4091 , EC1446 , Aten ción a las personas que requieren de tratamientos de recompresión en la cámara hiperbárica
+4092 , EC1448 , Consultoría en el uso de productos farmacéuticos y dispositivos médicos a profesionales de la salud
+4093 , EC1450 , Mantenimiento a suspensiones dependientes e independientes del vehículo
+4094 , EC1452 , Proporcionar servicios de mantenimiento para direcciones de vehículos automotores
+4098 , EC1445 , Asesoría en operaciones de comercio exterior y aduanera s
+4099 , EC1447 , Conducción de práctica de yoga Nivel Preparador Master
+4100 , EC1449 , Mantenimiento a equipo biomédico de diagnóstico básico
+4101 , EC1451 , Prestación de servicios de mentoría profesional
+4102 , EC0283.01 , Operación de grúa a bordo de buque
+4104 , EC1453 , Administración de refugios temporales durante la presencia/ocurrencia de agentes perturbadores
+4106 , EC1454 , Asesoría para facilitar procesos educativos dirigidos a personas jóvenes y adultas
+4107 , EC1455 , Promoción y seguimiento de los servicios educativos dirigidos a personas jóvenes y adultas
+4108 , EC1431 , Preparación de gimnastas de artística femenil en la categoría 2
+4109 , EC1432 , Preparación del instructor de tenis en etapa de iniciación
+4110 , EC1465 , Estima ción d el valor de obras de arte pictóricas , gráficas y escultóricas de acuerdo con el propósito, uso y finalidad del avalúo sin emitir dictamen de avalúo
+2333 , EC0907 , Elaboración del Plan de Continuidad de Operaciones para Dependencias y Organizaciones
+2334 , EC0908 , Elaboración de Programas Especiales de Protección Civil de acuerdo al riesgo
+2474 , EC0972 , Programación del robot industrial
+2475 , EC0973 , Realización de estética básica de animales de compañía
+2476 , EC0974 , Uso de la lengua inglesa en un contexto laboral: Nivel Avanzado
+2477 , EC0975 , Tutoría entre pares en la práctica docente
+2478 , EC0459.01 , Operación de autobús urbano
+2479 , EC0460.01 , Operación del vehículo colectivo van
+2480 , EC0813.01 , Conducción de autobús de pasaje y turismo
+2481 , EC0976 , Voladura de barrenos con explosivos en mina subterránea
+2482 , EC0977 , Conducción de una sesión de meditación: nivel instructor básico
+2483 , EC0461.01 , Operación del vehículo unitario taxi terrestre
+2484 , EC0971 , Evaluación del sistema de emisión de gases contaminantes de vehículos
+2513 , EC0083.01 , Asesoría en materia hipotecaria por vía judicial
+2514 , EC0281.01 , Asesoría extrajudicial en créditos vencidos, vía telefónica
+2515 , EC0282.01 , Asesoría en materia hipotecaria por vía extrajudicial
+2516 , EC1007 , Manejo del Abaco Japonés Soroban, nivel básico
+2519 , EC1045 , Diseño de cejas con efecto pelo a pelo con pigmento semipermanente/Microblading
+2520 , EC0682.01 , Dirección de Planeación, Ejecución y Gestión de Estrategias en organizaciones privadas y públicas
+2522 , EC0983 , Responsable del manejo de un negocio en mercado municipal
+2524 , EC0984 , Instalación de paneles de fibrocemento en muros y fachadas de edificaciones arquitectónicas en interiores y exteriores
+2525 , EC0985 , Realizar la instalación de accesorios para cable en media tensión para líneas subterráneas
+2526 , EC0989 , Asistencia a Procesos Gerenciales en las Organizaciones
+2527 , EC0991 , Construcción de escenarios digitales para facilitar experiencias de aprendizaje
+2531 , EC0980 , Operación segura de molinos
+2532 , EC0981 , Operación del transporte de carga de vehículos sin rodar
+2533 , EC0982 , Despachador de productos alimenticios en mercados municipales
+2537 , EC0978 , Administración del Desarrollo Urbano y Ordenamiento Territorial Municipal
+2538 , EC0979 , Aplicación de buenas prácticas para el manejo reproductivo en los ovinos
+2539 , EC0993 , Creación de negocios con una propuesta de valor sostenible
+2540 , EC0994 , Desarrollar los servicios de optometría y los productos ópticos
+2541 , EC0995 , Desarrollo de sistemas de información informáticos
+2542 , EC0987 , Administración de sistemas electrónicos y de telecomunicaciones
+2543 , EC0988 , Aplicación de materiales en el sector automotriz
+2545 , EC0998 , Facilitación de sesiones de coaching en alimentación
+2546 , EC1004 , Implementación del mantenimiento Industrial periódico
+2547 , EC1021 , Procesamiento industrial de alimentos
+2548 , EC1018 , Operación del sistema de contabilidad en las organizaciones productivas y de servicios
+2549 , EC1019 , Prestación de servicios de gastronomía con orientación a la sostenibilidad
+2550 , EC0999 , Facilitar procesos de aprendizaje para el desarrollo de competencias en el nivel medio superior
+2551 , EC1000 , Gestión de aprovisionamiento para productos y servicios en empresas del sector privado dentro del territorio nacional
+2552 , EC1048 , Aplicación de masaje con piedras calientes
+2553 , EC1049 , Aplicación de masaje de reflexoterapia podal
+2554 , EC0996 , Elaboración de proyecto de emprendimiento con base en el Modelo de Emprendedores de Educación Media Superior
+2555 , EC1001 , Gestión del Emprendimiento con base al Modelo de Emprendimiento de Educación Media Superior
+2556 , EC1002 , Gestión de la vinculación en la formación dual
+2557 , EC1003 , Impartición de cursos para formación de aprendices calificados
+2558 , EC1005 , Instalación y mantenimiento de sistemas electromecánicos industriales
+2559 , EC1006 , Instalación y mantenimiento de sistemas mecatrónicos industriales
+2560 , EC1009 , Manejo de equipos industriales
+2561 , EC1010 , Manejo de equipos de troquelado
+2562 , EC1013 , Mantenimiento de sistemas automáticos
+2563 , EC1016 , Operación de maquinaria para transformación de termoplásticos
+2564 , EC1024 , Supervisión de la edificación/modificación/ampliación de obras en casa habitación
+2565 , EC1025 , Tutoría académica de la formación dual
+2566 , EC1026 , Venta de coches
+2567 , EC1027 , Amacice de obras mineras con equipo mecanizado
+2568 , EC1028 , Anclaje de roca con equipo mecanizado
+2569 , EC0986 , Adaptación de auxiliares auditivos
+2570 , EC0990 , Atención de grandes cuentas para la compra y venta de productos/servicios de marca
+2571 , EC1011 , Manejo de instalaciones eléctricas avanzadas
+2572 , EC1012 , Mantenimiento en matricería y troquelado
+2573 , EC1014 , Mantenimiento de sistemas automatizados
+2574 , EC1015 , Mantenimiento de sistemas electrónicos
+2575 , EC1030 , Evaluación de la conformación y del programa de implementación del Sistemade Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente del Sector Hidrocarburos
+2576 , EC1031 , Gestión del sistema de medición de hidrocarburos
+2577 , EC1032 , Operación del sistema de bombeo y almacenamiento de crudo estabilizado
+2578 , EC1033 , Operación del sistema de compresión de gas natur
+2581 , EC1020 , Prestación del servicio de hotelería con orientación a la sostenibilidad.
+2582 , EC1029 , Auditoría Externa a la operación y desempeño del Sistema de Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente del Sector Hidrocarburos
+2584 , EC1036 , Supervisión de la operación segura de la Estación de Servicio de expendio al público de gasolinas y diésel
+2585 , EC1046 , Instalación de fuegos artificiales para la presentación de espectáculos aéreos
+2591 , EC1022 , Procesamiento de sustancias químicas
+2592 , EC1023 , Realización y mantenimiento de instalaciones y sistemas eléctricos
+2594 , EC1037 , Apoyo técnico en el desarrollo de la audiencia oral
+2595 , EC1038 , Intervención para la solución de conflictos
+2597 , EC1040 , Recepción de promociones en el ámbito judicial
+2603 , EC1056 , Facilitación para el conocimiento, uso y aprovechamiento del Derecho de acceso a la información
+2604 , EC1071 , Activación física a través de baile aeróbico para jóvenes y adultos en espacios cerrados y abiertos
+2605 , EC1058 , Aplicación de las medidas de bioseguridad en la unidad de producción agroalimentaria/acuícola/pesquera
+2606 , EC1073 , Facilitador para la transformación social en contextos variados
+2607 , EC1075 , Promoción del aprendizaje mediante proyectos multidisciplinares STEM
+2612 , EC1081 , Elaboración de peritajes técnicos grafoscópicos
+2613 , EC1082 , Aplicación de técnicas de combate, salvamento y extinción de incendios en aeronaves e instalaciones aeroportuarias
+2614 , EC1082 , Aplicación de técnicas de combate, salvamento y extinción de incendios en aeronaves e instalaciones aeroportuarias
+2615 , EC1074 , Manejo de la metodología Wow-Vation para la solución de problemas con inventiva
+2616 , EC1075 , Promoción del aprendizaje mediante proyectos multidisciplinares STEM
+2617 , EC1078 , Gestión de créditos hipotecarios
+2618 , EC1085 , Enseñanza de la Maayat’aan
+2619 , EC1070 , Operación del Programa Productividad y Competitividad Agroalimentaria (PPCA)
+2620 , EC1066 , Operación del programa de Fomento a la Agricultura
+2621 , EC1062 , Operación del Programa de Fomento a la Productividad Pesquera y Acuícola
+2622 , EC1060 , Implementación del Proceso de Administración de Riesgos
+2623 , EC1086 , Conducción de autobús de servicio económico
+2625 , EC1067 , Operación del Programa Fomento Ganadero (PFG
+2627 , EC1079 , Implementación de estrategias de aprendizaje para el desarrollo decompetencias bajo el modelo conceptual-colaborativo-práctico
+2629 , EC1080 , Proporcionar asesoría normativa en materia de seguridad industrial, salud en el trabajo y protección ambienta
+2630 , EC1083 , Atención a solicitudes de servicio a equipo médico
+2631 , EC1064 , Operación del Programa de apoyos a la comercialización
+2632 , EC1087 , Instrucción en la atención a pasajeros y tripulación en materia de seguridad,emergencia y servicio a bordo
+2633 , EC1065 , Operación del Programa de Apoyo a Pequeños Productores
+2634 , EC1069 , Operación del Programa de Sanidad e Inocuidad Agroalimentaria (PSIA)
+2635 , EC1084 , Preparación de gastronomía mexicana popular y tradicional
+2636 , EC1068 , Operación del Programa de Concurrencia con las Entidades Federativas
+2637 , EC1061 , Liderazgo efectivo en las organizaciones
+2639 , EC1103 , Investigación de delitos cometidos contra la libertad de expresión bajo elenfoque diferencial y especializado
+2640 , EC1093 , Colaboración en la aplicación del Procedimiento Abreviado como forma de terminación anticipada del proceso penal
+2641 , EC1104 , Promoción de la Aplicación de las Reglas Mínimas de las Naciones Unidas para el Tratamiento de los Reclusos “Reglas Nelson Mandela” en el sistemapenitenciario
+2642 , EC1106 , Promoción de los principios y derechos del Sistema Integral de Justicia Penal para Adolescentes
+2643 , EC1063 , Operación de las disposiciones generales aplicables a las reglas de operación de los programas de la SAGARPA
+2644 , EC1096 , Gestión de la participación voluntaria de los intervinientes en los Mecanismos Alternativos de Solución de Controversias en Materia Penal
+2645 , EC1105 , Promoción de la atención de las víctimas de tortura de acuerdo con el Protocolo de Estambul
+2646 , EC1076 , Instalación de calentador de agua a gas L.P. y gas natural para uso doméstico
+2650 , EC1047 , Prestación de servicios para peinado de cabello
+2651 , EC1111 , Verificación de operación en materia aduanera y de Comercio Exterior mediante un Oficial de Cumplimiento
+2655 , EC1091 , Control de accesos de aeronaves
+2656 , EC1099 , nspección de Equipaje Facturado para su transportación en aeronaves, Categoría 1
+2657 , EC1100 , Inspección de Equipaje Facturado para su transportación en aeronaves, Categoría 2
+2658 , EC1101 , Inspección de Equipaje Facturado para su transportación en aeronaves, Categoría 3
+2659 , EC1114 , Aplicación de los protocolos de seguridad acuática en piscinas, centros acuáticos deportivos y recreativos
+2660 , EC1110 , Asesoría en sistemas de medición ultrasónicos de tiempo de travesía que no son de carrete para tubería a presión
+2661 , EC1115 , Estimulación con actividades acuáticas para personas adultas mayores
+2666 , EC1108 , Operación segura de calderas en el ingenio azucarero
+2676 , EC1109 , Operación segura de tachos
+2677 , EC1130 , Aplicación del procedimiento para coordinar la investigación de la Causa Raíz de incidentes y accidentes en eventos tipo dos y tres en el Sector Hidrocarburos
+2683 , EC1095 , Evaluación del bienestar en perros
+2686 , EC1131 , Actuación del personal de un Tercero Autorizado/Aprobado del Sector Hidrocarburos
+2688 , EC1136 , Prestación de servicios de barbería
+2689 , EC1053.01 , Asesoría en materia de Contraloría Social en la Administración Pública
+2690 , EC0449.01 , Gestión de los Servicios Preventivos de Seguridad y Salud en el Trabajo
+2691 , EC1122 , Mantenimiento de troqueles
+2692 , EC1123 , Mantenimiento de sistemas autotrónicos
+2693 , EC1128 , Prestación de servicios para la conformación documental de proyectos para generación y uso de biogás
+2694 , EC1129 , Barrenación larga con equipo mecanizado
+2695 , EC1132 , Verificación de la operación y mantenimiento de la Estación de Servicio para expendio de diésel y gasolinas
+2696 , EC1134 , Contratación de adquisiciones, arrendamientos y servicios para la Administración Pública
+2697 , EC1149 , Sustitución del cerrojo axial en aparato de vía para tren neumático
+2698 , EC1094 , Ejecución de las visitas de inspección y verificación ambiental a nivel federal
+2699 , EC1117 , Ejecución de métodos de pruebas básicas en mezclas asfálticas
+2700 , EC1118 , Impartición de cursos presenciales/remotos en el uso y aplicación de lectores y magnificadores de pantalla para personas con discapacidad visual
+2701 , EC0397.01 , Vigilancia del cumplimiento de la normatividad en seguridad y salud en el trabajo
+2702 , EC0391.01 , Verificación de las condiciones de seguridad e higiene en los centros de trabajo
+2704 , EC1124 , Operación del software de precios unitarios
+2705 , EC1133 , Atención con calidad y seguridad para el paciente durante la instalación de catéter PICC en adulto
+2706 , EC1140 , Certificación de Centros de Asistencia Social de Niñas, Niños y Adolescentes
+2707 , EC1142 , Apoyo en la orientación alimentaria para personas mayores
+2708 , EC1127 , Venta de productos y servicios manteniendo su sostenibilidad en el mercad
+2709 , EC1144 , Coordinación de servicios de transportación desde Puestos de Maniobra deTerminales
+2710 , EC1146 , Inspección de servicios de transportación de pasajeros en tren dentro deestaciones y línea confinada de circulación
+2711 , EC1147 , Mantenimiento profundo al armario de Pilotaje Automático fijo de 135 kHz
+2712 , EC1148 , Supervisión efectiva
+2713 , EC1145 , Conducción de tracto camión quinta rueda para el transporte de carga general
+2720 , EC1139 , Vigilar el perfil de seguridad de los insumos para la salud en la industriafarmacéutica
+2723 , EC1098 , Inspección de carga, correo y mensajería para su transportación en aeronaves
+2724 , EC1102 , Inspección de pasajeros y equipaje de mano para su transportación enaeronaves
+2725 , EC1135 , Diagnóstico de tarjetas electrónicas
+2727 , EC1116 , Conducción de autotransporte federal de carga
+2728 , EC1119 , Instalación de sistemas de climatización y refrigeración residencial y comercial
+2729 , EC1120 , Mantenimiento del equipo de cómputo, diseño de redes y seguridad informática
+2730 , EC1121 , Mantenimiento mecánico automotriz
+2731 , EC1126 , Realizar uniones en metales con los procesos de soldadura básica (OAW, OAC,SMAW) y especiales (GMAW, GTAW)
+2736 , EC1059 , Atención con calidad en el servicio al ciudadano
+2737 , EC1137 , Supervisión del diseño de construcción de infraestructura en proyectos desubestaciones eléctricas de potencia
+2738 , EC1138 , Supervisión del diseño de equipos y sistemas eléctricos de potencia y control
+2739 , EC1161 , Medición en el transporte por ducto de hidrocarburos, petrolíferos y petroquímicos
+2740 , EC1166 , Promoción de libros de texto
+2741 , EC1170 , Venta de boletos y servicios adicionales en taquillas de autotransporte de pasajeros
+2742 , EC1154 , Capacitación en el sector rural
+2743 , EC1155 , Promoción para el desarrollo rural sustentable territoria
+2744 , EC1160 , Implementación del Sistema de Control Interno
+2745 , EC1167 , Asistencia al pasajero a pie de autobús
+2746 , EC1168 , Control del equipaje de pasajeros de autotransporte federal
+2747 , EC1169 , Venta de boletos de autotransporte de pasajeros a pie de autobús
+2748 , EC1162 , Operación de terminales de almacenamiento de hidrocarburos destilados
+2749 , EC1163 , Transportación por ducto de hidrocarburos, petrolíferos y petroquímicos en fase líquida
+2750 , EC1164 , Ensamble de tarjetas electrónicas en el proceso de montaje superficial
+2751 , EC1165 , Gestión de la tutoría grupal e individual en grupos académicos de Educación Superior
+2752 , EC1158 , Implementación de habilidades socioemocionales y metodologías para desarrollarlas
+2753 , EC1159 , Promoción de la venta de tiempos compartidos al público en out/in hous
+2754 , EC1097 , Implementación del apoyo psicológico de primer contacto a personas afectadas por fenómenos perturbadores
+2755 , EC1184 , Aplicación de la rehabilitación integral mediante actividades ecuestres
+2757 , EC1157 , Implementación y mantenimiento de instalaciones eléctricas en la industria
+2759 , EC1143 , Implementación de intervenciones preventivas del consumo de sustancias psicoactivas en contextos escolares
+2760 , EC0715.01 , Aplicación de micropigmentación estética facial
+2761 , EC1125 , Realizar el diagnóstico de verificación de la eficiencia energética y seguridad de instalaciones y equipos eléctricos en vivienda
+2765 , EC1141 , Aplicación de programas individuales de actividad física multicomponente para personas mayores
+2766 , EC1092 , Coordinación de las actividades de protección civil del centro de trabajo de acuerdo al Programa Interno de Protección Civil
+2767 , EC1171 , Garantizar el derecho a la protección de datos personales
+2768 , EC1173 , Asesoría para la constitución de figuras asociativas
+2769 , EC1180 , Asesoría técnica-comercial en proyectos de generación distribuida fotovoltaica
+2770 , EC1181 , Supervisión de sistemas fotovoltaicos en residencia, comercio e industria
+2771 , EC1191 , Uso de las normas ortográficas en textos impresos/digitales nivel intermedio
+2772 , EC1192 , Conducción de tren de pasajeros basados en Sistemas Digitales
+2773 , EC1193 , Mantenimiento preventivo del sistema de puertas electroneumático de tren de
+2786 , EC1174 , Gestión de mejoras sociales sostenibles en campos agrícolas
+2787 , EC1176 , Fabricación de aditamentos de control y ensamble
+2788 , EC1177 , Maquinado de discos, tambores, mazas y partes de hierro nodular (TDP)
+2789 , EC1185 , Aplicación de técnicas de micropuntura para el mejoramiento de la aparienciacutánea
+2790 , EC1189 , Manufactura esbelta para la mejora continua de procesos
+2791 , EC1186 , Coaching para el cambio de hábitos
+2792 , EC1188 , Liderazgo en los centros de trabajo
+2793 , EC1190 , Reclutamiento de personal en organizaciones a través de medios y fuentesdigitales
+2795 , EC1182 , Valuación de vehículos sin resguardo
+2796 , EC1172 , Acompañamiento inicial para la atención a víctimas
+2798 , EC1184 , Aplicación de la rehabilitación integral mediante actividades ecuestres
+2807 , EC1207 , Uso de normas para redactar textos impresos/digitales
+2801 , EC1178 , Revisión de obra e instalaciones de centros de datos y comunicaciones
+2802 , EC1187 , Presentación del diseño de centros de datos y comunicaciones
+2803 , EC1175 , Diseño de aditamentos de control y ensamble
+2804 , EC1202 , Operación de estudio de grabación y transmisión
+2805 , EC1203 , Mediación de experiencias educativas en museos interactivos
+2806 , EC1205 , Gestión del cambio organizacional

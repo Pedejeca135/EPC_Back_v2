@@ -21,7 +21,7 @@ return new class extends Migration
             
             $table->string('titulo');
             $table->string('proposito');
-            $table->string('descripcion');
+            $table->string('descripcion')->nullable();
 
             $table->string('comite_desarrollo')->nullable();
 
@@ -30,7 +30,6 @@ return new class extends Migration
 
             $table->string('modulo_ocupacional')->nullable();
            
-            
             $table->string('link_documento')->nullable();
             
             $table->timestamps();
