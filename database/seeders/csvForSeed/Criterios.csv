@@ -57,3 +57,52 @@
 
 45|9|Utilizando diferentes plataformas/versiones de sistemas operativos de acuerdo a las aplicaciones a implementar
 46|9|Verificando el funcionamiento de acuerdo al manual de usuario de cada aplicación.
+
+
+47|10|Generando el diseño de la base de datos de acuerdo al software a utilizar,
+48|10|Empleando consultas de selección,
+49|10|Empleando consultas de eliminación,
+50|10|Empleando consultas de inserción, y
+51|10|Verificando que la información sea acorde a las especificaciones de la empresa
+
+
+52|11|De acuerdo a políticas y requerimientos de la organización,
+53|11|Empleando consultas de actualización,
+54|11|Empleando consultas de agrupación,
+55|11|Empleando consultas de combinación,
+56|11|Implementando procedimientos que revisen y comprueben la información,
+57|11|Eliminando la información solicitada por la organización, y
+58|11|Recuperando la información solicitada por la organización.
+
+
+59|12|Realizando el respaldo con un dispositivo externo,
+60|12|Realizando la migración de acuerdo al software, y
+61|12|Actualizando la información de acuerdo a los requerimientos de la organización
+
+62|13|De acuerdo a los requerimientos del usuario,
+63|13|Conectando la aplicación desarrollada en un lenguaje de codificación de comandos y datos orientada a objetos con la base de datos proporcionada por la organización,
+64|13|Comprobando la seguridad de la información de acuerdo a las políticas de la organización, y
+65|13|Verificando su funcionamiento de acuerdo al manual de usuario del software
+
+66|14|Presenta un formato digital, y
+67|14|Contiene el archivo .exe.
+
+68|15|Presenta un formato digital,
+69|15|Contiene índice,
+70|15|Contiene Introducción,
+71|15|Contiene objetivo general del sistema,
+72|15|Contiene objetivos específicos del sistema,
+73|15|Describe los requerimientos de instalación,
+74|15|Contiene el diagrama de clases,
+75|15|Contiene diagrama entidad-relación,
+76|15|Contiene el desarrollo, y
+77|15|Contiene el código de la aplicación
+
+78|16|Presenta un formato digital,
+79|16|Contiene página de portada,
+80|16|Contiene página de título,
+81|16|Contiene la sección de introducción de acuerdo al sistema y su finalidad,
+82|16|Contiene una sección de requisitos de instalación,
+83|16|Contiene una sección de instalación y configuración,
+84|16|Contiene una guía sobre cómo utilizar las funciones básicas del sistema, e
+85|16|Incluye glosario.
