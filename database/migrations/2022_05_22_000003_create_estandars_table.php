@@ -18,10 +18,11 @@ return new class extends Migration
             $table->id();
 
             $table->string('codigo')->unique();
-            
+
             $table->string('titulo');
             $table->string('proposito');
             $table->string('descripcion')->nullable();
+            $table->string('creator')->nullable();
 
             $table->string('comite_desarrollo')->nullable();
 
@@ -29,9 +30,9 @@ return new class extends Migration
             $table->foreign('nivel_id')->references('id')->on('nivels');
 
             $table->string('modulo_ocupacional')->nullable();
-           
+
             $table->string('link_documento')->nullable();
-            
+
             $table->timestamps();
         });
     }

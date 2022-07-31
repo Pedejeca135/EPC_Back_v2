@@ -64,7 +64,7 @@ class EstandarSeeder extends Seeder
         // $unFileX = file_get_contents(__DIR__ . "\ARF2" . ".csv");
         // echo ($unFileX);
         //lee el archivo CSV de los estandares que se adquirieron desde los pdf
-        if ($file = fopen(__DIR__ . "\EstandaresScrapped" . ".csv", "r")) {
+        if ($file = fopen(__DIR__ . "\csvForSeed\EstandaresScrapped" . ".csv", "r")) {
             while (!feof($file)) {
                 $line = fgets($file);
                 // echo ("$line");
@@ -76,24 +76,21 @@ class EstandarSeeder extends Seeder
 
                         $linkDoc = substr($line, 0, $positionS[0]);
                         $estandar2->link_documento =  $linkDoc;
-                        echo ($linkDoc);
+                        // echo ($linkDoc);
 
                         $codigo =  substr($line, $positionS[0] + 1, $positionS[1] - $positionS[0] - 1);
                         $estandar2->codigo =  $codigo;
-                        echo ($codigo);
+                        // echo ($codigo);
 
                         $titulo =  substr($line, $positionS[1] + 1, strlen($line) - $positionS[1]);
                         $estandar2->titulo =  $titulo;
-                        echo ($titulo);
+                        // echo ($titulo);
 
                         $estandar2->proposito = "";
                         $estandar2->save();
                     }
             }
-
-
-
-            echo ("\n");
+            // echo ("\n");
         }
         fclose($file);
     }
