@@ -106,3 +106,24 @@
 83|16|Contiene una sección de instalación y configuración,
 84|16|Contiene una guía sobre cómo utilizar las funciones básicas del sistema, e
 85|16|Incluye glosario.
+
+86|17|Resuelve el problema propuesto en la especificación, y
+87|17|Se ejecuta sin errores. 
+
+
+88|18|Compila sin errores,
+89|18|Implementa las clases definidas en la especificación,
+90|18|Implementa las propiedades con los nombres y tipos de datos definidos en la especificación, para cada clase,
+91|18|Implementa los métodos con los tipos de datos de entradas y salidas, y el número y nombre de parámetros definidos en la especificación, para cada clase,
+92|18|Contiene indentación que lo separa en bloques lógicos,
+93|18| Contiene nombres de variables locales representativos al dato guardado, y
+94|18|Es legible. 
+
+
+95|19|Considera la ejecución de cada uno de los diagramas de secuencia definidos en la especificación, e
+96|19|Incluye la pareja de valores de entrada y salida esperada en la ejecución de la prueba.
+
+
+97|20|Documenta los resultados de la aplicación de cada caso de prueba del componente construido,
+98|20|Contiene clasificado el tipo de error detectado, e
+99|20|Incluye el tipo de error y número de veces que ocurre el mismo. 

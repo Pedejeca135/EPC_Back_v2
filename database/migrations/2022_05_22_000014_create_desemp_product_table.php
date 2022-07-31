@@ -13,17 +13,19 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('productos', function (Blueprint $table) {
+        Schema::create('desemp_product', function (Blueprint $table) {
             $table->id();
-            
+
             $table->foreignId('elemento_id');
             $table->foreign('elemento_id')
-            ->references('id')->on('elementos')
-            ->onDelete('cascade')
-            ->onUpdate('cascade');
+                ->references('id')
+                ->on('elementos')
+                ->onDelete('cascade')
+                ->onUpdate('cascade');
 
             $table->string('titulo');
             $table->string('descripcion');
+
             $table->timestamps();
         });
     }
@@ -35,6 +37,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('productos');
+        Schema::dropIfExists('desempenyos');
     }
 };

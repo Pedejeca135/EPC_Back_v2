@@ -15,11 +15,11 @@ return new class extends Migration
     {
         Schema::create('criterios', function (Blueprint $table) {
             $table->id();
-            
+
             $table->foreignId('des_prod_ahv_id');
-            $table->foreign('des_prod_ahv_id')->references('id')->on('productos', 'desempenyos', 'actitud_habito_valors')
-            ->onDelete('cascade')
-            ->onUpdate('cascade');
+            $table->foreign('des_prod_ahv_id')->references('id')->on('desemp_product', 'actitud_habito_valors')
+                ->onDelete('cascade')
+                ->onUpdate('cascade');
 
             $table->string('criterio_type');
             $table->string('enunciado');

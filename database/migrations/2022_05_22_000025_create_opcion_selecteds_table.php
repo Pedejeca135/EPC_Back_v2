@@ -16,11 +16,11 @@ return new class extends Migration
         Schema::create('opcion_selecteds', function (Blueprint $table) {
             //opckon selected id
             $table->id();
-            
+
             $table->foreignId('opcion_id')->nullable();
             $table->foreign('opcion_id')->references('id')->on('opcions')
-            ->onDelete('set null')
-            ->onUpdate('cascade');
+                ->onDelete('set null')
+                ->onUpdate('cascade');
 
             $table->foreignId('candidato_id');
             $table->foreign('candidato_id')->references('id')->on('users');

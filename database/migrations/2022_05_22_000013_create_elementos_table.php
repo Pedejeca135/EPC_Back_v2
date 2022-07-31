@@ -17,14 +17,14 @@ return new class extends Migration
             $table->id();
 
             $table->string('titulo');
-            $table->string('codigo')->unique()->nullable();
+            $table->string('codigo')->unique(); //->nullable();
 
             $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
             $table->foreign('estandar_competencia_id')
-            ->references('id')
-            ->on('estandars')
-            ->onDelete('cascade')
-            ->onUpdate('cascade');
+                ->references('id')
+                ->on('estandars')
+                ->onDelete('cascade')
+                ->onUpdate('cascade');
 
             $table->boolean('es_auto_evaluacion');
 
