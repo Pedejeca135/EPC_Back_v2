@@ -1,3 +1,0 @@
-E2590|Codificar los comandos y datos de controladores lógicos programables.
-E2591|Diagnosticar el estado de los componentes de fuerza y actuadores en sistemas mecatrónicos.
-E2592|Codificar los comandos y datos en microcontroladores.

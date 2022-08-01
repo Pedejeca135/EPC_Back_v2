@@ -8,6 +8,8 @@ use Illuminate\Database\Seeder;
 use app\Database\Seeders;
 use app\Models\User;
 use app\Models\Estandar;
+use app\Models\EstandarElemento;
+use app\Models\Criterio;
 
 class DatabaseSeeder extends Seeder
 {
@@ -27,8 +29,10 @@ class DatabaseSeeder extends Seeder
 
         $this->call(UserSeeder::class);
         $this->call(EstandarSeeder::class);
+        $this->call(ElementoSeeder::class);
+        $this->call(CriterioSeeder::class);
+
 
         User::factory(10)->create();
-
     }
 }

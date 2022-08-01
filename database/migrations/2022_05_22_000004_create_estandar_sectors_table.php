@@ -15,9 +15,10 @@ return new class extends Migration
     {
         Schema::create('estandar_sectors', function (Blueprint $table) {
             $table->id();
-
-            $table->foreignId('estandar_id')->unsigned()->nullable();
-            $table->foreign('estandar_id')->references('id')->on('estandars');
+            // unsigned()->
+            // $table->foreignId('estandar_id')->nullable();
+            $table->string('estandar_id')->nullable();
+            $table->foreign('estandar_id')->references('codigo')->on('estandars');
 
             $table->foreignId('sector_productivos_id')->unsigned()->nullable();
             $table->foreign('sector_productivos_id')->references('id')->on('sector_productivos');

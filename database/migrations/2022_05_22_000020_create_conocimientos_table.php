@@ -18,11 +18,12 @@ return new class extends Migration
             $table->id();
             $table->string('titulo');
 
-            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
-            $table->foreign('estandar_competencia_id')->references('id')->on('estandars')
-            ->onDelete('cascade')
-            ->onUpdate('cascade');
-            
+            // $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
+            $table->string('estandar_competencia_id')->nullable();
+            $table->foreign('estandar_competencia_id')->references('codigo')->on('estandars')
+                ->onDelete('cascade')
+                ->onUpdate('cascade');
+
             $table->timestamps();
         });
     }

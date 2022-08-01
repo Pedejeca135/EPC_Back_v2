@@ -18,11 +18,11 @@ return new class extends Migration
 
             $table->foreignId('candidato_id');
             $table->foreign('candidato_id')->references('id')->on('users')
-            ->onDelete('cascade')
-            ->onUpdate('cascade');
+                ->onDelete('cascade')
+                ->onUpdate('cascade');
 
-            $table->foreignId('estandar_id');
-            $table->foreign('estandar_id')->references('id')->on('estandars');
+            $table->string('estandar_id');
+            $table->foreign('estandar_id')->references('codigo')->on('estandars');
 
             $table->boolean('status')->default(0);
 

@@ -5,7 +5,7 @@
 4|1| Elaborando la arquitectura del programa de acuerdo a las necesidades de la empresa,
 5|1| Utilizando los símbolos de cada elemento de acuerdo a las políticas de la empresa, y
 6|1| Revisando el funcionamiento del programa conforme a las necesidades de la empresa
-
+#
 #Productos en E2590 1/3 
 7|2|Está de acuerdo a las especificaciones del proceso,
 8|2|Está en formato digital,
@@ -15,28 +15,27 @@
 12|2|Contiene la simbología del diagrama,
 13|2|Describe el funcionamiento del PLC, y
 14|2|Describe la operación del PLC
-
+#
 #desempeños 2/3
 15|3|Verificando el funcionamiento de los actuadores, y
 16|3| Revisando la presión de los actuadores.
 17|4|Verificando el funcionamiento de los componentes de fuerza,
 18|4| Revisando la corriente de los componentes de fuerza, y
 19|4| Revisando la fuerza motriz eléctrica.
-
+#
 #productos 
 20|5|Cumplen con el funcionamiento eléctrico de fuerza solicitado por la empresa,
 21|5|Cuenta con componentes pasivos,
 22|5|Cuenta con componentes activos, y
 23|5|Cuenta con la potencia de la resistencia solicitada por la empresa
-
-
+#
 #desempeños 3/3 
 24|6|Utilizando lenguajes de programación,
 25|6|Siguiendo la sintaxis básica del lenguaje de programación,
 26|6|Verificando las instrucciones del microcontrolador,
 27|6|Realizando el programa en papel, y
 28|6|Sistematizando el microcontrolador cumpliendo con las necesidades del proceso.
-
+#
 29|7|Seleccionando el microcontrolador con base en la necesidades del proceso,
 30|7|Identificando pines de un CI,
 31|7|Revisando el diagrama básico de un microcontrolador,
@@ -49,23 +48,21 @@
 38|7|Seleccionando el programa de control,
 39|7|Borrando la memoria del microcontrolador, y
 40|7|Transfiriendo el programa al microcontrolador
-
+#
 41|8|De acuerdo a lo solicitado por la empresa,
 42|8|Realizando el diagrama de clases,
 43|8|Utilizando un lenguaje de codificación de comandos y datos orientado a objetos, y
 44|8|Codificando la aplicación en el software.
-
+#
 45|9|Utilizando diferentes plataformas/versiones de sistemas operativos de acuerdo a las aplicaciones a implementar
 46|9|Verificando el funcionamiento de acuerdo al manual de usuario de cada aplicación.
-
-
+#
 47|10|Generando el diseño de la base de datos de acuerdo al software a utilizar,
 48|10|Empleando consultas de selección,
 49|10|Empleando consultas de eliminación,
 50|10|Empleando consultas de inserción, y
 51|10|Verificando que la información sea acorde a las especificaciones de la empresa
-
-
+#
 52|11|De acuerdo a políticas y requerimientos de la organización,
 53|11|Empleando consultas de actualización,
 54|11|Empleando consultas de agrupación,
@@ -73,20 +70,19 @@
 56|11|Implementando procedimientos que revisen y comprueben la información,
 57|11|Eliminando la información solicitada por la organización, y
 58|11|Recuperando la información solicitada por la organización.
-
-
+#
 59|12|Realizando el respaldo con un dispositivo externo,
 60|12|Realizando la migración de acuerdo al software, y
 61|12|Actualizando la información de acuerdo a los requerimientos de la organización
-
+#
 62|13|De acuerdo a los requerimientos del usuario,
 63|13|Conectando la aplicación desarrollada en un lenguaje de codificación de comandos y datos orientada a objetos con la base de datos proporcionada por la organización,
 64|13|Comprobando la seguridad de la información de acuerdo a las políticas de la organización, y
 65|13|Verificando su funcionamiento de acuerdo al manual de usuario del software
-
+#
 66|14|Presenta un formato digital, y
 67|14|Contiene el archivo .exe.
-
+#
 68|15|Presenta un formato digital,
 69|15|Contiene índice,
 70|15|Contiene Introducción,
@@ -97,7 +93,7 @@
 75|15|Contiene diagrama entidad-relación,
 76|15|Contiene el desarrollo, y
 77|15|Contiene el código de la aplicación
-
+#
 78|16|Presenta un formato digital,
 79|16|Contiene página de portada,
 80|16|Contiene página de título,
@@ -106,11 +102,10 @@
 83|16|Contiene una sección de instalación y configuración,
 84|16|Contiene una guía sobre cómo utilizar las funciones básicas del sistema, e
 85|16|Incluye glosario.
-
+#
 86|17|Resuelve el problema propuesto en la especificación, y
 87|17|Se ejecuta sin errores. 
-
-
+#
 88|18|Compila sin errores,
 89|18|Implementa las clases definidas en la especificación,
 90|18|Implementa las propiedades con los nombres y tipos de datos definidos en la especificación, para cada clase,
@@ -118,12 +113,13 @@
 92|18|Contiene indentación que lo separa en bloques lógicos,
 93|18| Contiene nombres de variables locales representativos al dato guardado, y
 94|18|Es legible. 
-
-
+#
 95|19|Considera la ejecución de cada uno de los diagramas de secuencia definidos en la especificación, e
 96|19|Incluye la pareja de valores de entrada y salida esperada en la ejecución de la prueba.
-
-
+#
 97|20|Documenta los resultados de la aplicación de cada caso de prueba del componente construido,
 98|20|Contiene clasificado el tipo de error detectado, e
 99|20|Incluye el tipo de error y número de veces que ocurre el mismo. 
+#
+100|21|La manera en que ofrece opciones de mejora en las actividades desempeñadas. 
+101|22|La manera en que ofrece opciones de mejora en las actividades desempeñadas. 

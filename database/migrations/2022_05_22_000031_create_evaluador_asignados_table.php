@@ -15,18 +15,18 @@ return new class extends Migration
     {
         Schema::create('evaluador_asignados', function (Blueprint $table) {
             $table->id();
-            
+
             //id referenciando al evaluador
             $table->foreignId('user_id_evaluador');
             $table->foreign('user_id_evaluador')->references('id')->on('users');
-            
+
             //id referenciando al candidato
             $table->foreignId('user_id_candidato');
             $table->foreign('user_id_candidato')->references('id')->on('users');
 
             //id referenciando el estandar que puede ser evaluado del evaluador al candidato
-            $table->foreignId('estandar_id');
-            $table->foreign('estandar_id')->references('id')->on('estandars');
+            $table->string('estandar_id');
+            $table->foreign('estandar_id')->references('codigo')->on('estandars');
 
             //para los logs
             $table->timestamps();

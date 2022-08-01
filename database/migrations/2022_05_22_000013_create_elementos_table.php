@@ -14,19 +14,21 @@ return new class extends Migration
     public function up()
     {
         Schema::create('elementos', function (Blueprint $table) {
-            $table->id();
-
-            $table->string('titulo');
+            // $table->id();
             $table->string('codigo')->unique(); //->nullable();
 
-            $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
+            // $table->foreignId('estandar_competencia_id')->unsigned()->nullable();
+            $table->string('estandar_competencia_id')->nullable();
             $table->foreign('estandar_competencia_id')
-                ->references('id')
+                // ->references('id')
+                ->references('codigo')
                 ->on('estandars')
                 ->onDelete('cascade')
                 ->onUpdate('cascade');
 
-            $table->boolean('es_auto_evaluacion');
+            $table->string('titulo');
+
+            $table->boolean('es_auto_evaluacion')->default(0);
 
             $table->timestamps();
         });

@@ -15,7 +15,7 @@ return new class extends Migration
     {
         Schema::create('estandars', function (Blueprint $table) {
             //id del estandar de competencia
-            $table->id();
+            // $table->id();
 
             $table->string('codigo')->unique();
 

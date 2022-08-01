@@ -13,19 +13,21 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('actitud_habito_valors', function (Blueprint $table) {
+        Schema::create('desemp_product', function (Blueprint $table) {
             $table->id();
-            
-            $table->foreignId('estandar_id');
-            $table->foreign('estandar_id')
-            ->references('id')
-            ->on('estandars')
-            ->onDelete('cascade')
-            ->onUpdate('cascade');
 
-            $table->string('titulo');
+            // $table->foreignId('elemento_id');
+            $table->string('elemento_id');
+            $table->foreign('elemento_id')
+                ->references('codigo')
+                ->on('elementos')
+                ->onDelete('cascade')
+                ->onUpdate('cascade');
+
+            $table->string('type');
+            $table->string('number');
             $table->string('descripcion');
-            
+
             $table->timestamps();
         });
     }
@@ -37,6 +39,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('actitud_habito_valors');
+        Schema::dropIfExists('desempenyos');
     }
 };
