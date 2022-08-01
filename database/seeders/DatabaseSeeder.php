@@ -30,6 +30,7 @@ class DatabaseSeeder extends Seeder
         $this->call(UserSeeder::class);
         $this->call(EstandarSeeder::class);
         $this->call(ElementoSeeder::class);
+        $this->call(DesProdAhvSeeder::class);
         $this->call(CriterioSeeder::class);
 
 

@@ -13,7 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('desemp_product', function (Blueprint $table) {
+        Schema::create('desemp_product_ahv', function (Blueprint $table) {
             $table->id();
 
             // $table->foreignId('elemento_id');

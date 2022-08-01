@@ -35,20 +35,20 @@ class CriterioSeeder extends Seeder
                 // echo ($line);
                 if ($line) {
                     if ($line[0] != "#") {
-
+                        // echo ($line);
                         $positionS = $this->arrayOfCsvRow($line, "|");
                         $firstColum = substr($line, 0, $positionS[0] - 1);
                         $secondColum = substr($line, $positionS[0] + 1, $positionS[1] - $positionS[0] - 1);
                         $thirdColum = substr($line, $positionS[1] + 1, strlen($line) - $positionS[1]);
 
-                        echo ($firstColum . $secondColum . $thirdColum);
+                        echo ("\n" . $secondColum . "\n" . $thirdColum);
                         //CREANDO UN ESTANDAR
 
                         $nuevoCriterio = new Criterio();
 
                         // $xx =  substr($line, $positionS[0] + 1, $positionS[1] - $positionS[0] - 1);
                         // $nuevoCriterio->estandar_competencia_id =  $xx;
-                        $nuevoCriterio->des_prod_ahv_id = $secondColum;
+                        $nuevoCriterio->desemp_product_ahv_id = $secondColum;
                         $nuevoCriterio->enunciado = $thirdColum;
                         //la calificacion maxima en default s
 
@@ -56,7 +56,7 @@ class CriterioSeeder extends Seeder
                         // $nuevoCriterio->titulo =  $titulo;
                         // // echo ($titulo);
 
-                        // $nuevoCriterio->save();
+                        $nuevoCriterio->save();
                     }
                 }
             }

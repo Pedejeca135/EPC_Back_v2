@@ -7,5 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Desempenyo extends Model
 {
+    protected $table = "desemp_product_ahv";
     use HasFactory;
 }

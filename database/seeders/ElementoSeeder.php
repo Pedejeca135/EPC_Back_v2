@@ -39,9 +39,9 @@ class ElementoSeeder extends Seeder
                         // echo ($line);
                         //CREANDO UN ESTANDAR
                         $positionS = $this->arrayOfCsvRow($line, "|");
-                        foreach ($positionS as $pos)
-                            // echo ($pos);
-                            $nuevoElemento = new Elemento();
+                        // foreach ($positionS as $pos)
+                        // echo ($pos);
+                        $nuevoElemento = new Elemento();
 
                         $codigo = substr($line, 0, $positionS[0]);
                         $nuevoElemento->codigo =  $codigo;
